@@ -11,7 +11,7 @@ Steps:
    This creates the list of the directories of game.json files.
 2. Run the gbxunistore.py with the command: 'python3 gbxunistore.py'
    This creates the .unistore JSON file, and also convert the first image to a PNG icon of every game.
-   (Check the Python script's first line to have "gb" value set.) 
+   (Check the Python script's first line to have "gba" value set.) 
 4. Copy the 'iconversion' directory to a Windows machine and run the '3_convert.cmd' script.
    This converts the PNG icons and the index list to a sprite sheet good for 3DS.
 5. Copy the result gba.t3x file back to the repository root   
