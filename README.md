@@ -1,16 +1,26 @@
-# Homebrew Hub GBA games database
+# Homebrew Hub GBA games database FORK
 
-JSON and Assets database of all the GBA games and homebrew entries on [Homebrew Hub](https://hh.gbdev.io). Propose here additions, improvements and fixes.
-This repository is similar to the [GB database](https://github.com/gbdev/database) one, but aims to include **GBA** games.
+The purpose of this fork to convert the https://gbadev.org/ Homebrew database to the format of ".unistore".
+In this format the Universal Updater can download the entries. 
 
+# How to use?
 
-## Contribute
+Steps:
+0. Update the repository on github, and pull it localy
+1. Run on Linux the 1_createlist.sh
+   This creates the list of the directories of game.json files.
+2. Run the gbxunistore.py with the command: 'python3 gbxunistore.py'
+   This creates the .unistore JSON file, and also convert the first image to a PNG icon of every game. 
+3. Copy the 'iconversion' directory to a Windows machine and run the '3_convert.cmd' script.
+   This converts the PNG icons and the index list to a sprite sheet.
+4. Copy the result gb.t3x file back to the repository root   
 
-We want to include every homebrew, game or demo ever produced for Game Boy Advance.
-
-If you know an interesting entry, please [contribute](CONTRIBUTING.md), everyone can add new games or improve the existing entries, it's really easy!
-
-There are also a lot of websites and blogs with a lot of ROMs, we are writing script to automatically scrape those resources. [Take a look](scrapers/README.md).
+## Address to add in Universal Updater
+This is too long to enter:
+https://raw.githubusercontent.com/vargaviktor/database-unistore/master/gb.unistore
+Add this instead:
+https://shorturl.at/KbfWT
+(If this is unavailable, create a short link from the link above and try to add that.)
 
 ## License
 
