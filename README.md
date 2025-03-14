@@ -17,9 +17,13 @@ Steps:
 
 ## Address to add in Universal Updater
 This is too long to enter:
+
 https://raw.githubusercontent.com/vargaviktor/database-unistore/master/gb.unistore
+
 Add this instead:
+
 https://shorturl.at/KbfWT
+
 (If this is unavailable, create a short link from the link above and try to add that.)
 
 ## License
