@@ -383,8 +383,8 @@ with open('jsondirlist.txt', 'r') as listafile:
                            }
                        }
 
-        if screenshots: 
-             icon_index += 1
+        
+        icon_index += 1
         numofgames += 1
         allgamejson.append(gamejson)
 #these shall be outside the cycle
