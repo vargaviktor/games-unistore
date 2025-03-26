@@ -49,6 +49,7 @@ else:
 defaultdate = "2001-01-01"
 gbt3sfirstline = "--atlas -f rgba -z auto"
 icon_index = 1
+numofgames = 1
 noicon = "000.png"
 allgamejson = [] 
 
@@ -381,13 +382,15 @@ with open('jsondirlist.txt', 'r') as listafile:
                            }
                        }
 
-        icon_index += 1
+        if screenshots: 
+             icon_index += 1
+        numofgames += 1
         allgamejson.append(gamejson)
 #these shall be outside the cycle
 
-icon_index -= 1
+numofgames -= 1
 print("----------------------")
-print("(i) Conversion of finished, number of converted titles: " + str(icon_index))
+print("(i) Conversion of finished, number of converted games: " + str(numofgames))
         
 #the second is just test.
 storejson = {
