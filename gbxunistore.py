@@ -265,7 +265,7 @@ with open('jsondirlist.txt', 'r') as listafile:
         extension = Path(filename).suffix
 
         print("------- SUMMARY --------")
-        print("(i) Converted file#" + str(icon_index))
+        print("(i) Converted file#" + str(numofgames))
         print("(i) Converted JSON: " + actualjsonpath)
         print("(i) Title       :" + title)
         print("(i) Author      :" + author)
@@ -344,6 +344,7 @@ with open('jsondirlist.txt', 'r') as listafile:
                             ]
                       }
         else:
+            icon_index -= 1
             gamejson = {
                     "info":{
                     "author":author,

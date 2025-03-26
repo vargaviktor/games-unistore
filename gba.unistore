@@ -2,14 +2,14 @@
     "storeInfo": {
         "title": "Homebrew Hub GBA DB",
         "author": "https://gbadev.org/ (+ vargaviktor)",
-        "description": "Homebrew Hub is a community-led initiative to collect,\narchive and preserve homebrew and demoscene software\ndeveloped for Game Boy (Color), Game Boy Advance and\nNES. In this database you can browse GBA homebrews\npublished on the site: https://gbadev.org/\n\nConverter made by vargaviktor\nCreated on 2025-03-14",
+        "description": "Homebrew Hub is a community-led initiative to collect,\narchive and preserve homebrew and demoscene software\ndeveloped for Game Boy (Color), Game Boy Advance and\nNES. In this database you can browse GBA homebrews\npublished on the site: https://gbadev.org/\n\nConverter made by vargaviktor\nCreated on 2025-03-26",
         "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/gba.unistore",
         "file": "gba.unistore",
         "sheetURL": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/gba.t3x",
         "sheet": "gba.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 107,
+        "revision": 110,
         "version": 3
     },
     "storeContent": [
@@ -2880,7 +2880,7 @@
                     "GBA"
                 ],
                 "description": "Expertly retrieve important luggage that has found it's way onto the wrong flight.\nTags: Puzzle, gba-winter-jam-2021\nhttps://foopod.itch.io/lro",
-                "icon_index": 71,
+                "icon_index": 69,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "LRO - Luggage Retrieval Officer",
@@ -2927,7 +2927,7 @@
                     "GBA"
                 ],
                 "description": "Luma is a laser based sliding puzzle game for the GBA. Slide batteries, lasers and mirrors around to light the targets within the given shift count. With 128 levels Luma will keep you occupied for hours and test your puzzling skills to the max. Play in Normal mode and t...\nSee release notes...",
-                "icon_index": 72,
+                "icon_index": 70,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Luma",
@@ -2974,7 +2974,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Action, gbajam21\nhttps://drludos.itch.io/meteorain-gba-jam-2021",
-                "icon_index": 73,
+                "icon_index": 71,
                 "last updated": "2001-01-01",
                 "license": "MIT",
                 "title": "MeteoRain (GBA Jam 2021)",
@@ -3017,7 +3017,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Survival, gbajam22\nhttps://sulsadood.itch.io/mineboyadvance",
-                "icon_index": 74,
+                "icon_index": 72,
                 "last updated": "2022-10-28T17:04:00",
                 "license": "(not set)",
                 "title": "MineBoyAdvance",
@@ -3060,7 +3060,7 @@
                     "GBA"
                 ],
                 "description": "Tags: gbajam22\nhttps://dewbone3.itch.io/minesweeper-battle",
-                "icon_index": 75,
+                "icon_index": 73,
                 "last updated": "2022-10-31T22:46:00",
                 "license": "(not set)",
                 "title": "Minesweeper Battle",
@@ -3095,7 +3095,7 @@
                     "GBA"
                 ],
                 "description": "",
-                "icon_index": 76,
+                "icon_index": 74,
                 "last updated": "2022-11-19T14:09:56Z",
                 "license": "GPL-3.0-or-later",
                 "title": "Minicraft for GBA",
@@ -3138,7 +3138,7 @@
                     "GBA"
                 ],
                 "description": "Tags: 2004Mbit",
-                "icon_index": 77,
+                "icon_index": 75,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Motus Advance",
@@ -3194,7 +3194,7 @@
                     "GBA"
                 ],
                 "description": "an undead roguelike for the GBA\nTags: gbajam21\nhttps://jehoz.itch.io/necropolis",
-                "icon_index": 79,
+                "icon_index": 75,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Necropolis",
@@ -3237,7 +3237,7 @@
                     "GBA"
                 ],
                 "description": "Just a screen... for now.\nTags: event:gbawinterjam23\nhttps://brave-orakio.itch.io/night-duty",
-                "icon_index": 80,
+                "icon_index": 76,
                 "last updated": "2023-02-25T20:08:00",
                 "license": "(not set)",
                 "title": "Night Duty",
@@ -3272,7 +3272,7 @@
                     "GBA"
                 ],
                 "description": "chill analog-styled agb picross\nTags: Puzzle, gbajam22\nhttps://kva64.itch.io/notenogram",
-                "icon_index": 81,
+                "icon_index": 77,
                 "last updated": "2022-10-30T21:37:00",
                 "license": "(not set)",
                 "title": "notenogram",
@@ -3307,7 +3307,7 @@
                     "GBA"
                 ],
                 "description": "A post-apocolyptic dating sim for the GBA\nTags: Visual Novel, gbajam22\nhttps://foopod.itch.io/nuclear-love",
-                "icon_index": 82,
+                "icon_index": 78,
                 "last updated": "2022-10-31T21:59:00",
                 "license": "(not set)",
                 "title": "Nuclear Love",
@@ -3354,7 +3354,7 @@
                     "GBA"
                 ],
                 "description": "War of the Space Hockey pucks\nTags: Action, gbajam21\nhttps://gregor-m-cameron.itch.io/nuthouse",
-                "icon_index": 83,
+                "icon_index": 79,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Nuthouse",
@@ -3393,7 +3393,7 @@
                     "GBA"
                 ],
                 "description": "retro arcade collectathon prototype\nTags: event:gbawinterjam23\nhttps://kva64.itch.io/one-coin-arcade",
-                "icon_index": 84,
+                "icon_index": 80,
                 "last updated": "2023-02-28T03:06:00",
                 "license": "(not set)",
                 "title": "One Coin Arcade",
@@ -3453,7 +3453,7 @@
                     "GBA"
                 ],
                 "description": "A WiP tactics game for the GBA\nTags: Strategy, gbajam22\nhttps://pyroceper.itch.io/pathfinder-demo",
-                "icon_index": 86,
+                "icon_index": 80,
                 "last updated": "2022-10-31T22:51:00",
                 "license": "(not set)",
                 "title": "Pathfinder Demo",
@@ -3496,7 +3496,7 @@
                     "GBA"
                 ],
                 "description": "Puzzle game for Game Boy Advance, developed for GBA Jam 2021\nTags: Puzzle, gbajam21\nhttps://hippydave.itch.io/pipespin",
-                "icon_index": 87,
+                "icon_index": 81,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "PipeSpin",
@@ -3539,7 +3539,7 @@
                     "GBA"
                 ],
                 "description": "A Pump It Up simulator for the GBA that plays SSC charts from StepMania\nTags: Open Source, Action\nhttps://discord.com/invite/JE33cc2",
-                "icon_index": 88,
+                "icon_index": 82,
                 "last updated": "2020-08-30",
                 "license": "MIT",
                 "title": "piuGBA (demo)",
@@ -3590,7 +3590,7 @@
                     "GBA"
                 ],
                 "description": "A simple paint app for the Gameboy Advance\nTags: gbajam22\nhttps://jroatch.itch.io/pocket-paint-gba",
-                "icon_index": 89,
+                "icon_index": 83,
                 "last updated": "2022-10-30T21:08:00",
                 "license": "(not set)",
                 "title": "Pocket Paint",
@@ -3629,7 +3629,7 @@
                     "GBA"
                 ],
                 "description": "PocketFlute is a small application made with Ham 2.8 that allows you to play a virtual flute on your GBA, while seeing its music score.",
-                "icon_index": 90,
+                "icon_index": 84,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "PocketFlute",
@@ -3660,7 +3660,7 @@
                     "GBA"
                 ],
                 "description": "Try to evade the quantum rocks.\nTags: gbajam21\nhttps://larkskwared.itch.io/quantum-sruvival",
-                "icon_index": 91,
+                "icon_index": 85,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Quantum Survival",
@@ -3695,7 +3695,7 @@
                     "GBA"
                 ],
                 "description": "Portal + Sokoban + Demons\nTags: Puzzle, gbajam22\nhttps://allalonegamez.itch.io/ravenia",
-                "icon_index": 92,
+                "icon_index": 86,
                 "last updated": "2022-10-31T16:58:00",
                 "license": "(not set)",
                 "title": "Ravenia",
@@ -3746,7 +3746,7 @@
                     "GBA"
                 ],
                 "description": "Reaper GBA Demake\nTags: Action, gbajam21\nhttps://greatheart-games.itch.io/reaper-gba-demake",
-                "icon_index": 93,
+                "icon_index": 87,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Reaper GBA Demake",
@@ -3797,7 +3797,7 @@
                     "GBA"
                 ],
                 "description": "A 7 channels, 16step sample based sequencer for the Gameboy Advance.\nTags: Sequencer\nhttp://www.untergrund.net/",
-                "icon_index": 94,
+                "icon_index": 88,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "ReBoy",
@@ -3828,7 +3828,7 @@
                     "GBA"
                 ],
                 "description": "A platformer, where you make a song. Jump around :)\nTags: Platform, Adventure, gbajam21\nhttps://screv69.itch.io/sassafras-the-game",
-                "icon_index": 95,
+                "icon_index": 89,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "SASSAFRAS THE GAME",
@@ -3875,7 +3875,7 @@
                     "GBA"
                 ],
                 "description": "Watch and read a clucking fun story on the Game Boy Advance!\nTags: gbajam21\nhttps://sawyer-ique.itch.io/sawyers-stories-time-for-the-chickens-to-go-to-sleep",
-                "icon_index": 96,
+                "icon_index": 90,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Sawyer's Stories: Time for The Chickens to go to Sleep (Game Boy Advance)",
@@ -3918,7 +3918,7 @@
                     "GBA"
                 ],
                 "description": "An original roguelike for the Gameboy Advance (GBA)\nTags: Action, gba-winter-jam-2021\nhttps://akouzoukos.itch.io/scrollsoffire",
-                "icon_index": 97,
+                "icon_index": 91,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Scrolls of Fire",
@@ -3961,7 +3961,7 @@
                     "GBA"
                 ],
                 "description": "A small Christmas demo hacked together in a couple of days for the GBA community.\nTags: Open Source, 3D",
-                "icon_index": 98,
+                "icon_index": 92,
                 "last updated": "2024-12-24T15:57:00",
                 "license": "(not set)",
                 "title": "2024 Christmas demo",
@@ -3992,7 +3992,7 @@
                     "GBA"
                 ],
                 "description": "A short cafe idle game for the GBA\nTags: Simulation, event:gbawinterjam23\nhttps://foopod.itch.io/sips",
-                "icon_index": 99,
+                "icon_index": 93,
                 "last updated": "2023-02-22T08:05:00",
                 "license": "(not set)",
                 "title": "Sips",
@@ -4035,7 +4035,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, RPG, Adventure, gbajam21",
-                "icon_index": 100,
+                "icon_index": 94,
                 "last updated": "2001-01-01",
                 "license": "MIT",
                 "title": "Skyland",
@@ -4066,7 +4066,7 @@
                     "GBA"
                 ],
                 "description": "A homebrew Game Boy Advance game made for GBA Jam 2021.\nTags: Shooter, Action, gbajam21\nhttps://deft-spade.itch.io/solar-guard",
-                "icon_index": 101,
+                "icon_index": 95,
                 "last updated": "2001-01-01",
                 "license": "GPL-3.0-only",
                 "title": "Solar Guard",
@@ -4121,7 +4121,7 @@
                     "GBA"
                 ],
                 "description": "A title screen demo - GBA-ROM\nTags: event:gbawinterjam23\nhttps://torte00.itch.io/space-times-draft",
-                "icon_index": 102,
+                "icon_index": 96,
                 "last updated": "2023-02-27T13:16:00",
                 "license": "(not set)",
                 "title": "Space Times (Titlescreen Demo)",
@@ -4156,7 +4156,7 @@
                     "GBA"
                 ],
                 "description": "2D skeletal animation engine demo for GBA\nTags: Educational, gbajam21\nhttps://laqieer.itch.io/ss6playerforgba",
-                "icon_index": 103,
+                "icon_index": 97,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "SS6PlayerForGBA",
@@ -4191,7 +4191,7 @@
                     "GBA"
                 ],
                 "description": "Tags: 2004Mbit",
-                "icon_index": 104,
+                "icon_index": 98,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": " Star Fortress Dendron",
@@ -4222,7 +4222,7 @@
                     "GBA"
                 ],
                 "description": "Unfinished Gameboy Advance fighting game\nTags: Fighting, gbajam21\nhttps://samfromcadott.itch.io/stick-kicker",
-                "icon_index": 105,
+                "icon_index": 99,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Stick Kicker",
@@ -4257,7 +4257,7 @@
                     "GBA"
                 ],
                 "description": "SubQuest - The Search for the Virtual Pet is an RPG game for the Game Boy Advance.\nTags: RPG, gba-winter-jam-2021\nhttps://rgamesofficial.itch.io/subquest",
-                "icon_index": 106,
+                "icon_index": 100,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "SubQuest - The Search for the Virtual Pet",
@@ -4308,7 +4308,7 @@
                     "GBA"
                 ],
                 "description": "[Demo] A puzzle platformer game for GBA where you can merge items in hands, and use its superpower.\nTags: Puzzle, Platform, gbajam21\nhttps://copyrat90.itch.io/sym-merged",
-                "icon_index": 107,
+                "icon_index": 101,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Symbol ★ Merged",
@@ -4347,7 +4347,7 @@
                     "GBA"
                 ],
                 "description": "A simple Gameboy Advance sound synth written in assembly. It is essentially an interface to direct access to the GameBoy Advance's sound hardware.",
-                "icon_index": 108,
+                "icon_index": 102,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "SynthGBA",
@@ -4378,7 +4378,7 @@
                     "GBA"
                 ],
                 "description": "Only a digital postcard to celebrate the 20th anniversary of the GBA\nTags: gbajam21\nhttps://torte00.itch.io/thanx-gba",
-                "icon_index": 109,
+                "icon_index": 103,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Thanx GBA",
@@ -4413,7 +4413,7 @@
                     "GBA"
                 ],
                 "description": "A homebrew minigame for the Game Boy Advance!\nTags: gbajam22\nhttps://maximilian-ii.itch.io/the-axe",
-                "icon_index": 110,
+                "icon_index": 104,
                 "last updated": "2022-10-29T17:55:00",
                 "license": "(not set)",
                 "title": "The Axe",
@@ -4460,7 +4460,7 @@
                     "GBA"
                 ],
                 "description": "A visual novel about saying goodbye.\nTags: Visual Novel, gbajam22\nhttps://videogamestorytime.itch.io/the-enchanted-place",
-                "icon_index": 111,
+                "icon_index": 105,
                 "last updated": "2022-10-31T23:49:00",
                 "license": "(not set)",
                 "title": "The Enchanted Place",
@@ -4495,7 +4495,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, Platform\nhttps://lostimmortal.itch.io/the-hat-chooses-the-wizard",
-                "icon_index": 112,
+                "icon_index": 106,
                 "last updated": "2001-01-01",
                 "license": "MPL-2.0",
                 "title": "The Hat Chooses the Wizard",
@@ -4530,7 +4530,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, Platform\nhttps://lostimmortal.itch.io/the-purple-night",
-                "icon_index": 113,
+                "icon_index": 107,
                 "last updated": "2001-01-01",
                 "license": "MPL-2.0",
                 "title": "The purple night",
@@ -4561,7 +4561,7 @@
                     "GBA"
                 ],
                 "description": "There's a tree outside my window and this is what it looks like.\nTags: Educational, event:gbawinterjam23\nhttps://schmoogin.itch.io/the-tree-outside-my-window",
-                "icon_index": 114,
+                "icon_index": 108,
                 "last updated": "2023-02-28T02:23:00",
                 "license": "(not set)",
                 "title": "The Tree Outside My Window",
@@ -4596,7 +4596,7 @@
                     "GBA"
                 ],
                 "description": "Bullet hell on the GBA\nTags: Shooter, gbajam21\nhttps://pmprog.itch.io/tigermoth",
-                "icon_index": 115,
+                "icon_index": 109,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Tigermoth",
@@ -4631,7 +4631,7 @@
                     "GBA"
                 ],
                 "description": "A hoppy little puzzle adventure for the Game Boy Advance!\nTags: Puzzle, gbajam21\nhttps://squishyfrogs.itch.io/toadally-awesome",
-                "icon_index": 116,
+                "icon_index": 110,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Toadally Awesome Game (GBA Jam 2021)",
@@ -4678,7 +4678,7 @@
                     "GBA"
                 ],
                 "description": "Three Tremblays start a country on an island, what could go wrong?\nTags: Interactive Fiction, gba-winter-jam-2021\nhttps://cinemint.itch.io/tremblay-island",
-                "icon_index": 117,
+                "icon_index": 111,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Tremblay Island",
@@ -4729,7 +4729,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, RPG, Adventure, gbajam21",
-                "icon_index": 118,
+                "icon_index": 112,
                 "last updated": "2001-01-01",
                 "license": "GPL-3.0-or-later",
                 "title": "uCity Advance",
@@ -4776,7 +4776,7 @@
                     "GBA"
                 ],
                 "description": "Tags: gbajam21\nhttps://stormplay.itch.io/untitled-volleyball-game",
-                "icon_index": 119,
+                "icon_index": 113,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Untitled Volleyball Game [EARLY PROTOTYPE]",
@@ -4811,7 +4811,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, Racing, 3D, gbajam21",
-                "icon_index": 120,
+                "icon_index": 114,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Varooom 3D",
@@ -4858,7 +4858,7 @@
                     "GBA"
                 ],
                 "description": "A game about gathering resources for the GBA!\nTags: Simulation, Adventure, gbajam22\nhttps://atsushihdez.itch.io/villagers-ambition",
-                "icon_index": 121,
+                "icon_index": 115,
                 "last updated": "2022-10-29T09:05:00",
                 "license": "(not set)",
                 "title": "Villager's Ambition",
@@ -4893,7 +4893,7 @@
                     "GBA"
                 ],
                 "description": "Unfinished Garbage\nTags: Card Game, gba-winter-jam-2021\nhttps://kmiinik.itch.io/warii",
-                "icon_index": 122,
+                "icon_index": 116,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "WarII",
@@ -4928,7 +4928,7 @@
                     "GBA"
                 ],
                 "description": "Game of finding the ball\nTags: Card Game, gbajam21\nhttps://kevin20012.itch.io/where-is-the-ball",
-                "icon_index": 123,
+                "icon_index": 117,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Where is the ball",
@@ -4963,7 +4963,7 @@
                     "GBA"
                 ],
                 "description": "Tags: event:gbawinterjam23\nhttps://tiredsasha.itch.io/wip-title-screen",
-                "icon_index": 124,
+                "icon_index": 118,
                 "last updated": "2023-02-28T18:30:00",
                 "license": "(not set)",
                 "title": "WIP Title Screen",
@@ -4994,7 +4994,7 @@
                     "GBA"
                 ],
                 "description": "Avoid opposing racers!\nTags: Racing, gbajam21\nhttps://jenswa.itch.io/wrong-road-gba",
-                "icon_index": 125,
+                "icon_index": 119,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Wrong Road GBA",
@@ -5029,7 +5029,7 @@
                     "GBA"
                 ],
                 "description": "a CROSSNIQ clone for the GBA  (alpha)\nTags: Puzzle, gbajam21\nhttps://exelotl.itch.io/xniq",
-                "icon_index": 126,
+                "icon_index": 120,
                 "last updated": "2001-01-01",
                 "license": "MIT",
                 "title": "xniq",
@@ -5072,7 +5072,7 @@
                     "GBA"
                 ],
                 "description": "boss-rush WIP!\nTags: Action, gbajam22\nhttps://mysterystrawberry.itch.io/yalaxy01-yearlysis",
-                "icon_index": 127,
+                "icon_index": 121,
                 "last updated": "2022-10-31T23:48:00",
                 "license": "(not set)",
                 "title": "YALAXY01-Yearlysis",
