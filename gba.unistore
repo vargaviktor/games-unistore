@@ -2,22 +2,14 @@
     "storeInfo": {
         "title": "Homebrew Hub GBA DB",
         "author": "https://gbadev.org/ (+ vargaviktor)",
-<<<<<<< HEAD
         "description": "Homebrew Hub is a community-led initiative to collect,\narchive and preserve homebrew and demoscene software\ndeveloped for Game Boy (Color), Game Boy Advance and\nNES. In this database you can browse GBA homebrews\npublished on the site: https://gbadev.org/\n\nConverter made by vargaviktor\nCreated on 2025-04-09",
-=======
-        "description": "Homebrew Hub is a community-led initiative to collect,\narchive and preserve homebrew and demoscene software\ndeveloped for Game Boy (Color), Game Boy Advance and\nNES. In this database you can browse GBA homebrews\npublished on the site: https://gbadev.org/\n\nConverter made by vargaviktor\nCreated on 2025-03-26",
->>>>>>> 82b052eb6d5cb9cca357f9ae589c1ecde1729315
         "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/gba.unistore",
         "file": "gba.unistore",
         "sheetURL": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/gba.t3x",
         "sheet": "gba.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-<<<<<<< HEAD
-        "revision": 107,
-=======
-        "revision": 111,
->>>>>>> 82b052eb6d5cb9cca357f9ae589c1ecde1729315
+        "revision": 114,
         "version": 3
     },
     "storeContent": [
