@@ -2,14 +2,14 @@
     "storeInfo": {
         "title": "Homebrew Hub GBA DB",
         "author": "https://gbadev.org/ (+ vargaviktor)",
-        "description": "Homebrew Hub is a community-led initiative to collect,\narchive and preserve homebrew and demoscene software\ndeveloped for Game Boy (Color), Game Boy Advance and\nNES. In this database you can browse GBA homebrews\npublished on the site: https://gbadev.org/\n\nConverter made by vargaviktor\nCreated on 2025-03-14",
+        "description": "Homebrew Hub is a community-led initiative to collect,\narchive and preserve homebrew and demoscene software\ndeveloped for Game Boy (Color), Game Boy Advance and\nNES. In this database you can browse GBA homebrews\npublished on the site: https://gbadev.org/\n\nConverter made by vargaviktor\nCreated on 2025-04-09",
         "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/gba.unistore",
         "file": "gba.unistore",
         "sheetURL": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/gba.t3x",
         "sheet": "gba.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 106,
+        "revision": 107,
         "version": 3
     },
     "storeContent": [
@@ -32,7 +32,7 @@
                 "screenshots": [
                     {
                         "description": "SCREEN",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/2004mbit-competition/screen.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/2004mbit-competition-screen.png"
                     }
                 ]
             },
@@ -63,27 +63,27 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/3d-snowtank-gba/cover.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/3d-snowtank-gba-cover.png"
                     },
                     {
                         "description": "FY2H0N",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/3d-snowtank-gba/fy2H0N.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/3d-snowtank-gba-fy2h0n.png"
                     },
                     {
                         "description": "6QMPGC",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/3d-snowtank-gba/6Qmpgc.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/3d-snowtank-gba-6qmpgc.png"
                     },
                     {
                         "description": "Y1UX45",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/3d-snowtank-gba/Y1ux45.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/3d-snowtank-gba-y1ux45.png"
                     },
                     {
                         "description": "UN2BFO",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/3d-snowtank-gba/uN2BfO.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/3d-snowtank-gba-un2bfo.png"
                     },
                     {
                         "description": "EBKYAQ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/3d-snowtank-gba/ebKYAQ.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/3d-snowtank-gba-ebkyaq.png"
                     }
                 ]
             },
@@ -114,23 +114,23 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/587-squadron-advance/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/587-squadron-advance-cover.png"
                     },
                     {
                         "description": "IV8NTF",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/587-squadron-advance/iV8nTF.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/587-squadron-advance-iv8ntf.png"
                     },
                     {
                         "description": "RUNBCH",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/587-squadron-advance/RUNbch.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/587-squadron-advance-runbch.png"
                     },
                     {
                         "description": "S2XKTL",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/587-squadron-advance/S2XKtl.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/587-squadron-advance-s2xktl.png"
                     },
                     {
                         "description": "JRE12BS",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/587-squadron-advance/Jre12Bs.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/587-squadron-advance-jre12bs.png"
                     }
                 ]
             },
@@ -161,19 +161,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/a-4d-christmas/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/a-4d-christmas-cover.png"
                     },
                     {
                         "description": "QPTIJM",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/a-4d-christmas/qPtIJM.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/a-4d-christmas-qptijm.png"
                     },
                     {
                         "description": "KU4L5Z",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/a-4d-christmas/KU4l5Z.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/a-4d-christmas-ku4l5z.png"
                     },
                     {
                         "description": "ITOVHX",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/a-4d-christmas/iTovhX.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/a-4d-christmas-itovhx.png"
                     }
                 ]
             },
@@ -204,11 +204,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/a-rushed-hack-job/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/a-rushed-hack-job-cover.png"
                     },
                     {
                         "description": "PD2UXF",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/a-rushed-hack-job/Pd2Uxf.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/a-rushed-hack-job-pd2uxf.png"
                     }
                 ]
             },
@@ -239,15 +239,15 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/advance-demo-adventures-of-the-math-logic-club/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/advance-demo-adventures-of-the-math-logic-club-cover.png"
                     },
                     {
                         "description": "GWDKHZ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/advance-demo-adventures-of-the-math-logic-club/gwDKhZ.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/advance-demo-adventures-of-the-math-logic-club-gwdkhz.png"
                     },
                     {
                         "description": "EX6GI7",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/advance-demo-adventures-of-the-math-logic-club/EX6Gi7.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/advance-demo-adventures-of-the-math-logic-club-ex6gi7.png"
                     }
                 ]
             },
@@ -278,15 +278,15 @@
                 "screenshots": [
                     {
                         "description": "ALPHA WING 0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/alpha-wing/alpha-wing-0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/alpha-wing-alpha-wing-0.png"
                     },
                     {
                         "description": "ALPHA WING 1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/alpha-wing/alpha-wing-1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/alpha-wing-alpha-wing-1.png"
                     },
                     {
                         "description": "ALPHA WING 2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/alpha-wing/alpha-wing-2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/alpha-wing-alpha-wing-2.png"
                     }
                 ]
             },
@@ -317,23 +317,23 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/apotris/cover.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/apotris-cover.png"
                     },
                     {
                         "description": "DEMO1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/apotris/demo1.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/apotris-demo1.png"
                     },
                     {
                         "description": "DEMO2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/apotris/demo2.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/apotris-demo2.png"
                     },
                     {
                         "description": "DEMO3",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/apotris/demo3.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/apotris-demo3.png"
                     },
                     {
                         "description": "DEMO4",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/apotris/demo4.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/apotris-demo4.png"
                     }
                 ]
             },
@@ -364,23 +364,23 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/attack-on-voxelburg/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/attack-on-voxelburg-cover.png"
                     },
                     {
                         "description": "LZEDOI",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/attack-on-voxelburg/LZEDoI.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/attack-on-voxelburg-lzedoi.png"
                     },
                     {
                         "description": "R2B3RA",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/attack-on-voxelburg/R2B3RA.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/attack-on-voxelburg-r2b3ra.png"
                     },
                     {
                         "description": "MJI6HR",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/attack-on-voxelburg/Mji6hR.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/attack-on-voxelburg-mji6hr.png"
                     },
                     {
                         "description": "12BODLJ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/attack-on-voxelburg/12BODLJ.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/attack-on-voxelburg-12bodlj.png"
                     }
                 ]
             },
@@ -411,7 +411,7 @@
                 "screenshots": [
                     {
                         "description": "1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/auntflora/1.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/auntflora-1.png"
                     }
                 ]
             },
@@ -442,15 +442,15 @@
                 "screenshots": [
                     {
                         "description": "BATTLESHIP 0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/battleship/battleship-0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/battleship-battleship-0.png"
                     },
                     {
                         "description": "BATTLESHIP 1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/battleship/battleship-1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/battleship-battleship-1.png"
                     },
                     {
                         "description": "BATTLESHIP 2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/battleship/battleship-2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/battleship-battleship-2.png"
                     }
                 ]
             },
@@ -481,15 +481,15 @@
                 "screenshots": [
                     {
                         "description": "BERU 0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/beru/beru-0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/beru-beru-0.png"
                     },
                     {
                         "description": "BERU 1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/beru/beru-1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/beru-beru-1.png"
                     },
                     {
                         "description": "BERU 2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/beru/beru-2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/beru-beru-2.png"
                     }
                 ]
             },
@@ -520,15 +520,15 @@
                 "screenshots": [
                     {
                         "description": "BLOCKS 0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/blocks/blocks-0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/blocks-blocks-0.png"
                     },
                     {
                         "description": "BLOCKS 1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/blocks/blocks-1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/blocks-blocks-1.png"
                     },
                     {
                         "description": "BLOCKS 2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/blocks/blocks-2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/blocks-blocks-2.png"
                     }
                 ]
             },
@@ -559,7 +559,7 @@
                 "screenshots": [
                     {
                         "description": "BLOCKTRAP 1 0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/blocktrap/blocktrap_1_0.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/blocktrap-blocktrap_1_0.png"
                     }
                 ]
             },
@@ -590,11 +590,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/bridge-quest/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bridge-quest-cover.png"
                     },
                     {
                         "description": "2S1Z6M",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/bridge-quest/2S1z6m.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bridge-quest-2s1z6m.png"
                     }
                 ]
             },
@@ -625,11 +625,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/brush-rush/cover.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/brush-rush-cover.png"
                     },
                     {
                         "description": "Y2FV2S",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/brush-rush/y2FV2s.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/brush-rush-y2fv2s.png"
                     }
                 ]
             },
@@ -660,27 +660,27 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/bugtris/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bugtris-cover.png"
                     },
                     {
                         "description": "GCPGKZ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/bugtris/gCpGkz.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bugtris-gcpgkz.png"
                     },
                     {
                         "description": "2BGQKYK",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/bugtris/2BGqKyk.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bugtris-2bgqkyk.png"
                     },
                     {
                         "description": "6SNHNU",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/bugtris/6sNHNu.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bugtris-6snhnu.png"
                     },
                     {
                         "description": "NUSOJ5",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/bugtris/nuSoJ5.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bugtris-nusoj5.png"
                     },
                     {
                         "description": "WXIEAR",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/bugtris/WXIEar.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bugtris-wxiear.png"
                     }
                 ]
             },
@@ -711,15 +711,15 @@
                 "screenshots": [
                     {
                         "description": "1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/butano-fighter/1.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/butano-fighter-1.png"
                     },
                     {
                         "description": "2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/butano-fighter/2.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/butano-fighter-2.png"
                     },
                     {
                         "description": "3",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/butano-fighter/3.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/butano-fighter-3.png"
                     }
                 ]
             },
@@ -750,15 +750,15 @@
                 "screenshots": [
                     {
                         "description": "CARBIE 0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/carbie/carbie-0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/carbie-carbie-0.png"
                     },
                     {
                         "description": "CARBIE 1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/carbie/carbie-1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/carbie-carbie-1.png"
                     },
                     {
                         "description": "CARBIE 2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/carbie/carbie-2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/carbie-carbie-2.png"
                     }
                 ]
             },
@@ -789,19 +789,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/cats-curse/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/cats-curse-cover.png"
                     },
                     {
                         "description": "UITJP8",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/cats-curse/uItjP8.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/cats-curse-uitjp8.png"
                     },
                     {
                         "description": "QAIHLH",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/cats-curse/qaihLH.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/cats-curse-qaihlh.png"
                     },
                     {
                         "description": "37LC8P",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/cats-curse/37lc8P.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/cats-curse-37lc8p.png"
                     }
                 ]
             },
@@ -832,35 +832,35 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/chocolate-hunter-runa/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/chocolate-hunter-runa-cover.png"
                     },
                     {
                         "description": "KUYVOZ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/chocolate-hunter-runa/kuYvOZ.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/chocolate-hunter-runa-kuyvoz.png"
                     },
                     {
                         "description": "SYLSEI",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/chocolate-hunter-runa/SylSEi.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/chocolate-hunter-runa-sylsei.png"
                     },
                     {
                         "description": "SWUEWP",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/chocolate-hunter-runa/SwUewP.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/chocolate-hunter-runa-swuewp.png"
                     },
                     {
                         "description": "W4RR4J",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/chocolate-hunter-runa/w4rR4J.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/chocolate-hunter-runa-w4rr4j.png"
                     },
                     {
                         "description": "KWOEQ9",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/chocolate-hunter-runa/kWoEq9.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/chocolate-hunter-runa-kwoeq9.png"
                     },
                     {
                         "description": "BY82BN2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/chocolate-hunter-runa/bY82Bn2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/chocolate-hunter-runa-by82bn2.png"
                     },
                     {
                         "description": "GMT2OD",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/chocolate-hunter-runa/Gmt2OD.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/chocolate-hunter-runa-gmt2od.png"
                     }
                 ]
             },
@@ -891,11 +891,11 @@
                 "screenshots": [
                     {
                         "description": "CHOPPER 0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/chopper/chopper-0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/chopper-chopper-0.png"
                     },
                     {
                         "description": "CHOPPER 1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/chopper/chopper-1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/chopper-chopper-1.png"
                     }
                 ]
             },
@@ -926,23 +926,23 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/coin-fall/cover.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/coin-fall-cover.png"
                     },
                     {
                         "description": "RI4X9J",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/coin-fall/rI4X9j.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/coin-fall-ri4x9j.png"
                     },
                     {
                         "description": "AGSS5H",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/coin-fall/Agss5H.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/coin-fall-agss5h.png"
                     },
                     {
                         "description": "3CE9L2B",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/coin-fall/3cE9L2B.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/coin-fall-3ce9l2b.png"
                     },
                     {
                         "description": "CAN8YJ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/coin-fall/CAN8YJ.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/coin-fall-can8yj.png"
                     }
                 ]
             },
@@ -973,15 +973,15 @@
                 "screenshots": [
                     {
                         "description": "COIN QUEST 0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/coin-quest/coin-quest-0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/coin-quest-coin-quest-0.png"
                     },
                     {
                         "description": "COIN QUEST 1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/coin-quest/coin-quest-1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/coin-quest-coin-quest-1.png"
                     },
                     {
                         "description": "COIN QUEST 2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/coin-quest/coin-quest-2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/coin-quest-coin-quest-2.png"
                     }
                 ]
             },
@@ -1012,27 +1012,27 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/collie-defence/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/collie-defence-cover.png"
                     },
                     {
                         "description": "Z6T6CQ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/collie-defence/z6T6cQ.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/collie-defence-z6t6cq.png"
                     },
                     {
                         "description": "JWG0DX",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/collie-defence/jwG0dX.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/collie-defence-jwg0dx.png"
                     },
                     {
                         "description": "Y2FRC0C",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/collie-defence/y2Frc0c.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/collie-defence-y2frc0c.png"
                     },
                     {
                         "description": "YL7H0W",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/collie-defence/yL7H0w.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/collie-defence-yl7h0w.png"
                     },
                     {
                         "description": "5RQ4ZT",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/collie-defence/5Rq4ZT.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/collie-defence-5rq4zt.png"
                     }
                 ]
             },
@@ -1063,11 +1063,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/comboboy-v05-gba/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/comboboy-v05-gba-cover.png"
                     },
                     {
                         "description": "XWYGKB",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/comboboy-v05-gba/XWYgkB.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/comboboy-v05-gba-xwygkb.png"
                     }
                 ]
             },
@@ -1098,15 +1098,15 @@
                 "screenshots": [
                     {
                         "description": "COMMANDO ADVANCE 0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/commando-advance/commando-advance-0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/commando-advance-commando-advance-0.png"
                     },
                     {
                         "description": "COMMANDO ADVANCE 1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/commando-advance/commando-advance-1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/commando-advance-commando-advance-1.png"
                     },
                     {
                         "description": "COMMANDO ADVANCE 2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/commando-advance/commando-advance-2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/commando-advance-commando-advance-2.png"
                     }
                 ]
             },
@@ -1137,11 +1137,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/coquiman/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/coquiman-cover.png"
                     },
                     {
                         "description": "BYH4ER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/coquiman/byH4ER.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/coquiman-byh4er.png"
                     }
                 ]
             },
@@ -1172,11 +1172,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/covid-adventure/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/covid-adventure-cover.png"
                     },
                     {
                         "description": "RPI1CU",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/covid-adventure/rPI1Cu.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/covid-adventure-rpi1cu.png"
                     }
                 ]
             },
@@ -1207,11 +1207,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/cryogenesis/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/cryogenesis-cover.png"
                     },
                     {
                         "description": "OSPRSM",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/cryogenesis/OSPRsM.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/cryogenesis-osprsm.png"
                     }
                 ]
             },
@@ -1242,11 +1242,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/cyber-rush/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/cyber-rush-cover.png"
                     },
                     {
                         "description": "ODZJ5Z",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/cyber-rush/Odzj5z.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/cyber-rush-odzj5z.png"
                     }
                 ]
             },
@@ -1277,15 +1277,15 @@
                 "screenshots": [
                     {
                         "description": "DANGEROUS XMAS 0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dangerous-xmas/dangerous-xmas-0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dangerous-xmas-dangerous-xmas-0.png"
                     },
                     {
                         "description": "DANGEROUS XMAS 1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dangerous-xmas/dangerous-xmas-1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dangerous-xmas-dangerous-xmas-1.png"
                     },
                     {
                         "description": "DANGEROUS XMAS 2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dangerous-xmas/dangerous-xmas-2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dangerous-xmas-dangerous-xmas-2.png"
                     }
                 ]
             },
@@ -1316,7 +1316,7 @@
                 "screenshots": [
                     {
                         "description": "DITT",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dittyeditor/ditt.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dittyeditor-ditt.png"
                     }
                 ]
             },
@@ -1347,23 +1347,23 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dog-discoverer-2/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dog-discoverer-2-cover.png"
                     },
                     {
                         "description": "LXHCB2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dog-discoverer-2/lXHcb2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dog-discoverer-2-lxhcb2.png"
                     },
                     {
                         "description": "2F6UZLA",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dog-discoverer-2/2F6uzlA.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dog-discoverer-2-2f6uzla.png"
                     },
                     {
                         "description": "DXF2B0X",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dog-discoverer-2/DxF2B0X.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dog-discoverer-2-dxf2b0x.png"
                     },
                     {
                         "description": "OPN1SM",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dog-discoverer-2/oPN1SM.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dog-discoverer-2-opn1sm.png"
                     }
                 ]
             },
@@ -1394,11 +1394,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dogs-game/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dogs-game-cover.png"
                     },
                     {
                         "description": "8LCK7B",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dogs-game/8lCk7b.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dogs-game-8lck7b.png"
                     }
                 ]
             },
@@ -1429,19 +1429,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dungeon-advance/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dungeon-advance-cover.png"
                     },
                     {
                         "description": "FOOT3I",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dungeon-advance/FOOT3i.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dungeon-advance-foot3i.png"
                     },
                     {
                         "description": "WHFNFL",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dungeon-advance/whFNFL.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dungeon-advance-whfnfl.png"
                     },
                     {
                         "description": "P5TPAB",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dungeon-advance/P5TPAB.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dungeon-advance-p5tpab.png"
                     }
                 ]
             },
@@ -1472,23 +1472,23 @@
                 "screenshots": [
                     {
                         "description": "0RSYYU",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dungeon-master/0rSYyU.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dungeon-master-0rsyyu.png"
                     },
                     {
                         "description": "E2W8VJ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dungeon-master/E2W8vJ.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dungeon-master-e2w8vj.png"
                     },
                     {
                         "description": "LFW6N8",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dungeon-master/LfW6N8.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dungeon-master-lfw6n8.png"
                     },
                     {
                         "description": "SJOBDX",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dungeon-master/SjobdX.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dungeon-master-sjobdx.png"
                     },
                     {
                         "description": "TPVV+G",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dungeon-master/tpvV+g.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dungeon-master-tpvv+g.png"
                     }
                 ]
             },
@@ -1519,11 +1519,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/escape-dhotel/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/escape-dhotel-cover.png"
                     },
                     {
                         "description": "9COHYB",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/escape-dhotel/9coHYB.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/escape-dhotel-9cohyb.png"
                     }
                 ]
             },
@@ -1554,23 +1554,23 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/feline/cover.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/feline-cover.png"
                     },
                     {
                         "description": "DFVVSA",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/feline/DFvvSA.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/feline-dfvvsa.png"
                     },
                     {
                         "description": "SOPHZ6",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/feline/soPHZ6.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/feline-sophz6.png"
                     },
                     {
                         "description": "9SD5WK",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/feline/9Sd5wK.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/feline-9sd5wk.png"
                     },
                     {
                         "description": "SR2FCHC",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/feline/Sr2FCHC.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/feline-sr2fchc.png"
                     }
                 ]
             },
@@ -1601,11 +1601,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/firemania/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/firemania-cover.png"
                     },
                     {
                         "description": "9DYSWA",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/firemania/9dYSWA.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/firemania-9dyswa.png"
                     }
                 ]
             },
@@ -1636,23 +1636,23 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/frost-princess/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/frost-princess-cover.png"
                     },
                     {
                         "description": "P2FRSS7",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/frost-princess/p2FrSS7.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/frost-princess-p2frss7.png"
                     },
                     {
                         "description": "S2BDQW",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/frost-princess/s2BDqw.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/frost-princess-s2bdqw.png"
                     },
                     {
                         "description": "DFYXXJ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/frost-princess/dFYxxj.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/frost-princess-dfyxxj.png"
                     },
                     {
                         "description": "MAAKC9",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/frost-princess/maakc9.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/frost-princess-maakc9.png"
                     }
                 ]
             },
@@ -1683,11 +1683,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gba-dvd-bounce/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gba-dvd-bounce-cover.png"
                     },
                     {
                         "description": "3SPX7W",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gba-dvd-bounce/3SPx7W.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gba-dvd-bounce-3spx7w.png"
                     }
                 ]
             },
@@ -1718,11 +1718,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gba-mmo/cover.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gba-mmo-cover.png"
                     },
                     {
                         "description": "YUM0L2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gba-mmo/yuM0l2.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gba-mmo-yum0l2.png"
                     }
                 ]
             },
@@ -1753,11 +1753,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gba-remote-play/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gba-remote-play-cover.png"
                     },
                     {
                         "description": "INR7QW",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gba-remote-play/InR7qW.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gba-remote-play-inr7qw.png"
                     }
                 ]
             }
@@ -1781,7 +1781,7 @@
                 "screenshots": [
                     {
                         "description": "JAM22INVITRO 0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gbajam22invitro/jam22invitro-0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gbajam22invitro-jam22invitro-0.png"
                     }
                 ]
             },
@@ -1812,7 +1812,7 @@
                 "screenshots": [
                     {
                         "description": "GBAJAM24INVITRO 0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gbajam24invitro/gbajam24invitro-0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gbajam24invitro-gbajam24invitro-0.png"
                     }
                 ]
             },
@@ -1843,27 +1843,27 @@
                 "screenshots": [
                     {
                         "description": "VM2SR",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gbamicrojam23/VM2sR.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gbamicrojam23-vm2sr.png"
                     },
                     {
                         "description": "TVW4CW",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gbamicrojam23/TvW4CW.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gbamicrojam23-tvw4cw.png"
                     },
                     {
                         "description": "ECE3MY",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gbamicrojam23/eCE3My.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gbamicrojam23-ece3my.png"
                     },
                     {
                         "description": "ETN 4 ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gbamicrojam23/etn_4_.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gbamicrojam23-etn_4_.png"
                     },
                     {
                         "description": "+X0PM ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gbamicrojam23/+x0pM_.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gbamicrojam23-+x0pm_.png"
                     },
                     {
                         "description": "OUQGTM",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gbamicrojam23/OUQgtM.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gbamicrojam23-ouqgtm.png"
                     }
                 ]
             },
@@ -1894,27 +1894,27 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/geburtstag/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/geburtstag-cover.png"
                     },
                     {
                         "description": "XNK4D2F",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/geburtstag/xNK4D2F.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/geburtstag-xnk4d2f.png"
                     },
                     {
                         "description": "A6XDRI",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/geburtstag/A6xDri.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/geburtstag-a6xdri.png"
                     },
                     {
                         "description": "ARWGGI",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/geburtstag/Arwggi.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/geburtstag-arwggi.png"
                     },
                     {
                         "description": "PK80UL",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/geburtstag/pk80UL.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/geburtstag-pk80ul.png"
                     },
                     {
                         "description": "JUCV7Y",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/geburtstag/jUcv7y.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/geburtstag-jucv7y.png"
                     }
                 ]
             },
@@ -1945,23 +1945,23 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gerbil-space-program/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gerbil-space-program-cover.png"
                     },
                     {
                         "description": "GK46K3",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gerbil-space-program/gK46k3.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gerbil-space-program-gk46k3.png"
                     },
                     {
                         "description": "Q9CZS0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gerbil-space-program/q9CzS0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gerbil-space-program-q9czs0.png"
                     },
                     {
                         "description": "YOKLWL",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gerbil-space-program/yoKlwl.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gerbil-space-program-yoklwl.png"
                     },
                     {
                         "description": "ZG2FZHZ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gerbil-space-program/zG2Fzhz.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gerbil-space-program-zg2fzhz.png"
                     }
                 ]
             },
@@ -1992,11 +1992,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ghost-train/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ghost-train-cover.png"
                     },
                     {
                         "description": "6O9K33",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ghost-train/6o9K33.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ghost-train-6o9k33.png"
                     }
                 ]
             },
@@ -2027,47 +2027,47 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/glaciadungeon/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/glaciadungeon-cover.png"
                     },
                     {
                         "description": "2BXSNPU",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/glaciadungeon/2BxsNpU.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/glaciadungeon-2bxsnpu.png"
                     },
                     {
                         "description": "L47RKA",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/glaciadungeon/l47RKA.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/glaciadungeon-l47rka.png"
                     },
                     {
                         "description": "CQEYZH",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/glaciadungeon/CqeyZh.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/glaciadungeon-cqeyzh.png"
                     },
                     {
                         "description": "PAYUQO",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/glaciadungeon/PaYUqo.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/glaciadungeon-payuqo.png"
                     },
                     {
                         "description": "C6HC3T",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/glaciadungeon/C6Hc3t.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/glaciadungeon-c6hc3t.png"
                     },
                     {
                         "description": "ZZICRT",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/glaciadungeon/ZzICrT.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/glaciadungeon-zzicrt.png"
                     },
                     {
                         "description": "8EV92FJ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/glaciadungeon/8EV92FJ.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/glaciadungeon-8ev92fj.png"
                     },
                     {
                         "description": "BNPOOH",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/glaciadungeon/BNPooH.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/glaciadungeon-bnpooh.png"
                     },
                     {
                         "description": "J7XGFN",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/glaciadungeon/J7Xgfn.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/glaciadungeon-j7xgfn.png"
                     },
                     {
                         "description": "DAMFDW",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/glaciadungeon/damFdW.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/glaciadungeon-damfdw.png"
                     }
                 ]
             },
@@ -2098,11 +2098,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gnoq/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gnoq-cover.png"
                     },
                     {
                         "description": "2F2F8IWH",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gnoq/2F2F8IWH.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gnoq-2f2f8iwh.png"
                     }
                 ]
             },
@@ -2133,27 +2133,27 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/goldengba/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/goldengba-cover.png"
                     },
                     {
                         "description": "FF8BPF",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/goldengba/Ff8BpF.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/goldengba-ff8bpf.png"
                     },
                     {
                         "description": "2FL3FCV",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/goldengba/2Fl3FCv.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/goldengba-2fl3fcv.png"
                     },
                     {
                         "description": "I8FT2FS",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/goldengba/i8fT2Fs.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/goldengba-i8ft2fs.png"
                     },
                     {
                         "description": "BUF2FKY",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/goldengba/buf2FkY.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/goldengba-buf2fky.png"
                     },
                     {
                         "description": "BPY837",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/goldengba/bPy837.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/goldengba-bpy837.png"
                     }
                 ]
             },
@@ -2184,15 +2184,15 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/green-memories-gba/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/green-memories-gba-cover.png"
                     },
                     {
                         "description": "PW2FNGX",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/green-memories-gba/Pw2FngX.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/green-memories-gba-pw2fngx.png"
                     },
                     {
                         "description": "EB0YNL",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/green-memories-gba/eB0ynL.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/green-memories-gba-eb0ynl.png"
                     }
                 ]
             },
@@ -2223,19 +2223,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/hero-core-gba-port/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/hero-core-gba-port-cover.png"
                     },
                     {
                         "description": "8JG2F0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/hero-core-gba-port/8JG2F0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/hero-core-gba-port-8jg2f0.png"
                     },
                     {
                         "description": "1ZU98Q",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/hero-core-gba-port/1zu98q.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/hero-core-gba-port-1zu98q.png"
                     },
                     {
                         "description": "A0QP4X",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/hero-core-gba-port/a0qp4x.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/hero-core-gba-port-a0qp4x.png"
                     }
                 ]
             },
@@ -2266,15 +2266,15 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/hexes/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/hexes-cover.png"
                     },
                     {
                         "description": "7VOWMA",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/hexes/7vOWma.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/hexes-7vowma.png"
                     },
                     {
                         "description": "TRTLDV",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/hexes/tRtldv.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/hexes-trtldv.png"
                     }
                 ]
             },
@@ -2305,19 +2305,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ice-skater/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ice-skater-cover.png"
                     },
                     {
                         "description": "AREZJF",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ice-skater/AREZjf.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ice-skater-arezjf.png"
                     },
                     {
                         "description": "OVF63H",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ice-skater/OVF63h.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ice-skater-ovf63h.png"
                     },
                     {
                         "description": "IQFDM2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ice-skater/iqfDM2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ice-skater-iqfdm2.png"
                     }
                 ]
             },
@@ -2348,27 +2348,27 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/inheritors-of-the-oubliette/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/inheritors-of-the-oubliette-cover.png"
                     },
                     {
                         "description": "CD1QJX",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/inheritors-of-the-oubliette/Cd1qJX.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/inheritors-of-the-oubliette-cd1qjx.png"
                     },
                     {
                         "description": "EEUWDY",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/inheritors-of-the-oubliette/eEUwdY.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/inheritors-of-the-oubliette-eeuwdy.png"
                     },
                     {
                         "description": "2FKAI0B",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/inheritors-of-the-oubliette/2FKaI0b.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/inheritors-of-the-oubliette-2fkai0b.png"
                     },
                     {
                         "description": "BMXZ2F2B",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/inheritors-of-the-oubliette/bMxz2F2B.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/inheritors-of-the-oubliette-bmxz2f2b.png"
                     },
                     {
                         "description": "HHBION",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/inheritors-of-the-oubliette/HhBiOn.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/inheritors-of-the-oubliette-hhbion.png"
                     }
                 ]
             },
@@ -2399,15 +2399,15 @@
                 "screenshots": [
                     {
                         "description": "1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/inky-and-the-alien-aquarium-demo/1.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/inky-and-the-alien-aquarium-demo-1.png"
                     },
                     {
                         "description": "2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/inky-and-the-alien-aquarium-demo/2.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/inky-and-the-alien-aquarium-demo-2.png"
                     },
                     {
                         "description": "3",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/inky-and-the-alien-aquarium-demo/3.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/inky-and-the-alien-aquarium-demo-3.png"
                     }
                 ]
             },
@@ -2438,55 +2438,55 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jayros-gba-video-test-cartridge/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jayros-gba-video-test-cartridge-cover.png"
                     },
                     {
                         "description": "5OON1F",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jayros-gba-video-test-cartridge/5OOn1f.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jayros-gba-video-test-cartridge-5oon1f.png"
                     },
                     {
                         "description": "7KNDPH",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jayros-gba-video-test-cartridge/7KNdph.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jayros-gba-video-test-cartridge-7kndph.png"
                     },
                     {
                         "description": "NFE2I2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jayros-gba-video-test-cartridge/NfE2I2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jayros-gba-video-test-cartridge-nfe2i2.png"
                     },
                     {
                         "description": "ECRK2FB",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jayros-gba-video-test-cartridge/ECRK2Fb.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jayros-gba-video-test-cartridge-ecrk2fb.png"
                     },
                     {
                         "description": "OE2UQC",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jayros-gba-video-test-cartridge/oe2Uqc.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jayros-gba-video-test-cartridge-oe2uqc.png"
                     },
                     {
                         "description": "GI70EK",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jayros-gba-video-test-cartridge/Gi70EK.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jayros-gba-video-test-cartridge-gi70ek.png"
                     },
                     {
                         "description": "2FQDUQH",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jayros-gba-video-test-cartridge/2FqDuQh.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jayros-gba-video-test-cartridge-2fqduqh.png"
                     },
                     {
                         "description": "2BHTAVV",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jayros-gba-video-test-cartridge/2BHtavv.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jayros-gba-video-test-cartridge-2bhtavv.png"
                     },
                     {
                         "description": "XKMLVT",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jayros-gba-video-test-cartridge/XkMlvT.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jayros-gba-video-test-cartridge-xkmlvt.png"
                     },
                     {
                         "description": "MWOQCD",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jayros-gba-video-test-cartridge/mWOqCD.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jayros-gba-video-test-cartridge-mwoqcd.png"
                     },
                     {
                         "description": "IMCQRJ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jayros-gba-video-test-cartridge/iMcqrJ.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jayros-gba-video-test-cartridge-imcqrj.png"
                     },
                     {
                         "description": "NNLRG1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jayros-gba-video-test-cartridge/NNlRg1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jayros-gba-video-test-cartridge-nnlrg1.png"
                     }
                 ]
             },
@@ -2517,27 +2517,27 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jump-kid/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jump-kid-cover.png"
                     },
                     {
                         "description": "QCTYPJ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jump-kid/qCtYPJ.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jump-kid-qctypj.png"
                     },
                     {
                         "description": "OYAQU0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jump-kid/oYaQU0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jump-kid-oyaqu0.png"
                     },
                     {
                         "description": "0UAXPS",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jump-kid/0uaxps.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jump-kid-0uaxps.png"
                     },
                     {
                         "description": "YWH5AE",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jump-kid/yWh5AE.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jump-kid-ywh5ae.png"
                     },
                     {
                         "description": "E6PI7L",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jump-kid/E6PI7l.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jump-kid-e6pi7l.png"
                     }
                 ]
             },
@@ -2568,15 +2568,15 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/kankandara-no-moriforest-of-the-kankandara/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/kankandara-no-moriforest-of-the-kankandara-cover.png"
                     },
                     {
                         "description": "YEWPOU",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/kankandara-no-moriforest-of-the-kankandara/YeWpOU.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/kankandara-no-moriforest-of-the-kankandara-yewpou.png"
                     },
                     {
                         "description": "22BHDPH",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/kankandara-no-moriforest-of-the-kankandara/22Bhdph.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/kankandara-no-moriforest-of-the-kankandara-22bhdph.png"
                     }
                 ]
             },
@@ -2607,23 +2607,23 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/knight-owls/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/knight-owls-cover.png"
                     },
                     {
                         "description": "TR8T69",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/knight-owls/TR8T69.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/knight-owls-tr8t69.png"
                     },
                     {
                         "description": "PL0OJ1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/knight-owls/Pl0Oj1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/knight-owls-pl0oj1.png"
                     },
                     {
                         "description": "YD5RNJ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/knight-owls/yD5RnJ.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/knight-owls-yd5rnj.png"
                     },
                     {
                         "description": "82SNUF",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/knight-owls/82SNUf.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/knight-owls-82snuf.png"
                     }
                 ]
             },
@@ -2654,11 +2654,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/knyttle-screen/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/knyttle-screen-cover.png"
                     },
                     {
                         "description": "2FUWO03",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/knyttle-screen/2FuWO03.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/knyttle-screen-2fuwo03.png"
                     }
                 ]
             },
@@ -2689,7 +2689,7 @@
                 "screenshots": [
                     {
                         "description": "LABSOUND2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/labsound/Labsound2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/labsound-labsound2.png"
                     }
                 ]
             },
@@ -2720,15 +2720,15 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/lane/cover.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/lane-cover.png"
                     },
                     {
                         "description": "RCHP1D",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/lane/rcHp1d.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/lane-rchp1d.png"
                     },
                     {
                         "description": "LFQ6UE",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/lane/LFq6Ue.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/lane-lfq6ue.png"
                     }
                 ]
             },
@@ -2759,11 +2759,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/last-leaves-of-hilserre/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/last-leaves-of-hilserre-cover.png"
                     },
                     {
                         "description": "E2BHMSZ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/last-leaves-of-hilserre/e2BHMSz.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/last-leaves-of-hilserre-e2bhmsz.png"
                     }
                 ]
             },
@@ -2794,11 +2794,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/lau-gurpil/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/lau-gurpil-cover.png"
                     },
                     {
                         "description": "PCMI2FY",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/lau-gurpil/PCmI2Fy.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/lau-gurpil-pcmi2fy.png"
                     }
                 ]
             },
@@ -2829,11 +2829,11 @@
                 "screenshots": [
                     {
                         "description": "SFI7CC",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/legend-of-holy-sword/sFi7CC.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/legend-of-holy-sword-sfi7cc.png"
                     },
                     {
                         "description": "IGNQIP",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/legend-of-holy-sword/ignqIP.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/legend-of-holy-sword-ignqip.png"
                     }
                 ]
             },
@@ -2880,7 +2880,7 @@
                     "GBA"
                 ],
                 "description": "Expertly retrieve important luggage that has found it's way onto the wrong flight.\nTags: Puzzle, gba-winter-jam-2021\nhttps://foopod.itch.io/lro",
-                "icon_index": 71,
+                "icon_index": 70,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "LRO - Luggage Retrieval Officer",
@@ -2889,23 +2889,23 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/lro/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/lro-cover.png"
                     },
                     {
                         "description": "HDOCFU",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/lro/HdocFU.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/lro-hdocfu.png"
                     },
                     {
                         "description": "AESLZV",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/lro/aesLZV.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/lro-aeslzv.png"
                     },
                     {
                         "description": "MHTVWK",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/lro/mhtVWk.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/lro-mhtvwk.png"
                     },
                     {
                         "description": "FIWHMH",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/lro/fiwHMH.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/lro-fiwhmh.png"
                     }
                 ]
             },
@@ -2927,7 +2927,7 @@
                     "GBA"
                 ],
                 "description": "Luma is a laser based sliding puzzle game for the GBA. Slide batteries, lasers and mirrors around to light the targets within the given shift count. With 128 levels Luma will keep you occupied for hours and test your puzzling skills to the max. Play in Normal mode and t...\nSee release notes...",
-                "icon_index": 72,
+                "icon_index": 71,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Luma",
@@ -2936,23 +2936,23 @@
                 "screenshots": [
                     {
                         "description": "LUMA BOX",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/luma/luma_box.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/luma-luma_box.png"
                     },
                     {
                         "description": "LUMA 0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/luma/luma-0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/luma-luma-0.png"
                     },
                     {
                         "description": "LUMA 1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/luma/luma-1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/luma-luma-1.png"
                     },
                     {
                         "description": "LUMA 2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/luma/luma-2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/luma-luma-2.png"
                     },
                     {
                         "description": "LUMA 3",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/luma/luma-3.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/luma-luma-3.png"
                     }
                 ]
             },
@@ -2974,7 +2974,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Action, gbajam21\nhttps://drludos.itch.io/meteorain-gba-jam-2021",
-                "icon_index": 73,
+                "icon_index": 72,
                 "last updated": "2001-01-01",
                 "license": "MIT",
                 "title": "MeteoRain (GBA Jam 2021)",
@@ -2983,19 +2983,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/meteorain-gba-jam-2021/cover.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/meteorain-gba-jam-2021-cover.png"
                     },
                     {
                         "description": "CNARYT",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/meteorain-gba-jam-2021/cNaRyT.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/meteorain-gba-jam-2021-cnaryt.png"
                     },
                     {
                         "description": "M9CL2BV",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/meteorain-gba-jam-2021/m9CL2Bv.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/meteorain-gba-jam-2021-m9cl2bv.png"
                     },
                     {
                         "description": "YRJKMP",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/meteorain-gba-jam-2021/YRJKMp.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/meteorain-gba-jam-2021-yrjkmp.png"
                     }
                 ]
             },
@@ -3017,7 +3017,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Survival, gbajam22\nhttps://sulsadood.itch.io/mineboyadvance",
-                "icon_index": 74,
+                "icon_index": 73,
                 "last updated": "2022-10-28T17:04:00",
                 "license": "(not set)",
                 "title": "MineBoyAdvance",
@@ -3026,19 +3026,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/mineboyadvance/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/mineboyadvance-cover.png"
                     },
                     {
                         "description": "KFI6IF",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/mineboyadvance/kfI6IF.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/mineboyadvance-kfi6if.png"
                     },
                     {
                         "description": "YUYMLJ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/mineboyadvance/YuYMLJ.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/mineboyadvance-yuymlj.png"
                     },
                     {
                         "description": "QX6DOW",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/mineboyadvance/qx6dow.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/mineboyadvance-qx6dow.png"
                     }
                 ]
             },
@@ -3060,7 +3060,7 @@
                     "GBA"
                 ],
                 "description": "Tags: gbajam22\nhttps://dewbone3.itch.io/minesweeper-battle",
-                "icon_index": 75,
+                "icon_index": 74,
                 "last updated": "2022-10-31T22:46:00",
                 "license": "(not set)",
                 "title": "Minesweeper Battle",
@@ -3069,11 +3069,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/minesweeper-battle/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/minesweeper-battle-cover.png"
                     },
                     {
                         "description": "Y0IHJH",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/minesweeper-battle/Y0IhJh.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/minesweeper-battle-y0ihjh.png"
                     }
                 ]
             },
@@ -3095,7 +3095,7 @@
                     "GBA"
                 ],
                 "description": "",
-                "icon_index": 76,
+                "icon_index": 75,
                 "last updated": "2022-11-19T14:09:56Z",
                 "license": "GPL-3.0-or-later",
                 "title": "Minicraft for GBA",
@@ -3104,19 +3104,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/minicraft-gba/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/minicraft-gba-cover.png"
                     },
                     {
                         "description": "1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/minicraft-gba/1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/minicraft-gba-1.png"
                     },
                     {
                         "description": "2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/minicraft-gba/2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/minicraft-gba-2.png"
                     },
                     {
                         "description": "3",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/minicraft-gba/3.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/minicraft-gba-3.png"
                     }
                 ]
             },
@@ -3138,7 +3138,7 @@
                     "GBA"
                 ],
                 "description": "Tags: 2004Mbit",
-                "icon_index": 77,
+                "icon_index": 76,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Motus Advance",
@@ -3147,7 +3147,7 @@
                 "screenshots": [
                     {
                         "description": "MOTUS ADVANCE 1 1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/motus-advance/motus_advance_1_1.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/motus-advance-motus_advance_1_1.png"
                     }
                 ]
             },
@@ -3194,7 +3194,7 @@
                     "GBA"
                 ],
                 "description": "an undead roguelike for the GBA\nTags: gbajam21\nhttps://jehoz.itch.io/necropolis",
-                "icon_index": 79,
+                "icon_index": 77,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Necropolis",
@@ -3203,19 +3203,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/necropolis/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/necropolis-cover.png"
                     },
                     {
                         "description": "RAUZ8Y",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/necropolis/rAuz8Y.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/necropolis-rauz8y.png"
                     },
                     {
                         "description": "ECD79K",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/necropolis/ecd79K.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/necropolis-ecd79k.png"
                     },
                     {
                         "description": "4H1FXD",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/necropolis/4H1fXD.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/necropolis-4h1fxd.png"
                     }
                 ]
             },
@@ -3237,7 +3237,7 @@
                     "GBA"
                 ],
                 "description": "Just a screen... for now.\nTags: event:gbawinterjam23\nhttps://brave-orakio.itch.io/night-duty",
-                "icon_index": 80,
+                "icon_index": 78,
                 "last updated": "2023-02-25T20:08:00",
                 "license": "(not set)",
                 "title": "Night Duty",
@@ -3246,11 +3246,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/night-duty/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/night-duty-cover.png"
                     },
                     {
                         "description": "HYYIYG",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/night-duty/HyyiYg.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/night-duty-hyyiyg.png"
                     }
                 ]
             },
@@ -3272,7 +3272,7 @@
                     "GBA"
                 ],
                 "description": "chill analog-styled agb picross\nTags: Puzzle, gbajam22\nhttps://kva64.itch.io/notenogram",
-                "icon_index": 81,
+                "icon_index": 79,
                 "last updated": "2022-10-30T21:37:00",
                 "license": "(not set)",
                 "title": "notenogram",
@@ -3281,11 +3281,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/notenogram/cover.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/notenogram-cover.png"
                     },
                     {
                         "description": "IE6ESF",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/notenogram/IE6esF.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/notenogram-ie6esf.png"
                     }
                 ]
             },
@@ -3307,7 +3307,7 @@
                     "GBA"
                 ],
                 "description": "A post-apocolyptic dating sim for the GBA\nTags: Visual Novel, gbajam22\nhttps://foopod.itch.io/nuclear-love",
-                "icon_index": 82,
+                "icon_index": 80,
                 "last updated": "2022-10-31T21:59:00",
                 "license": "(not set)",
                 "title": "Nuclear Love",
@@ -3316,23 +3316,23 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/nuclear-love/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/nuclear-love-cover.png"
                     },
                     {
                         "description": "GKICZ0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/nuclear-love/GkICz0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/nuclear-love-gkicz0.png"
                     },
                     {
                         "description": "AY6C5H",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/nuclear-love/aY6C5h.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/nuclear-love-ay6c5h.png"
                     },
                     {
                         "description": "9IP9ZT",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/nuclear-love/9Ip9Zt.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/nuclear-love-9ip9zt.png"
                     },
                     {
                         "description": "BMJFCN",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/nuclear-love/bMjfcn.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/nuclear-love-bmjfcn.png"
                     }
                 ]
             },
@@ -3354,7 +3354,7 @@
                     "GBA"
                 ],
                 "description": "War of the Space Hockey pucks\nTags: Action, gbajam21\nhttps://gregor-m-cameron.itch.io/nuthouse",
-                "icon_index": 83,
+                "icon_index": 81,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Nuthouse",
@@ -3363,15 +3363,15 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/nuthouse/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/nuthouse-cover.png"
                     },
                     {
                         "description": "GOBBLR",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/nuthouse/gObblR.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/nuthouse-gobblr.png"
                     },
                     {
                         "description": "V3MVOO",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/nuthouse/v3mVOO.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/nuthouse-v3mvoo.png"
                     }
                 ]
             },
@@ -3393,7 +3393,7 @@
                     "GBA"
                 ],
                 "description": "retro arcade collectathon prototype\nTags: event:gbawinterjam23\nhttps://kva64.itch.io/one-coin-arcade",
-                "icon_index": 84,
+                "icon_index": 82,
                 "last updated": "2023-02-28T03:06:00",
                 "license": "(not set)",
                 "title": "One Coin Arcade",
@@ -3402,11 +3402,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/one-coin-arcade/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/one-coin-arcade-cover.png"
                     },
                     {
                         "description": "U9HO2FF",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/one-coin-arcade/U9Ho2FF.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/one-coin-arcade-u9ho2ff.png"
                     }
                 ]
             },
@@ -3453,7 +3453,7 @@
                     "GBA"
                 ],
                 "description": "A WiP tactics game for the GBA\nTags: Strategy, gbajam22\nhttps://pyroceper.itch.io/pathfinder-demo",
-                "icon_index": 86,
+                "icon_index": 83,
                 "last updated": "2022-10-31T22:51:00",
                 "license": "(not set)",
                 "title": "Pathfinder Demo",
@@ -3462,19 +3462,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pathfinder-demo/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pathfinder-demo-cover.png"
                     },
                     {
                         "description": "LRLBZM",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pathfinder-demo/LrLbZM.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pathfinder-demo-lrlbzm.png"
                     },
                     {
                         "description": "KVREAA",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pathfinder-demo/KVrEAa.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pathfinder-demo-kvreaa.png"
                     },
                     {
                         "description": "TNYTYQ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pathfinder-demo/tNYtYq.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pathfinder-demo-tnytyq.png"
                     }
                 ]
             },
@@ -3496,7 +3496,7 @@
                     "GBA"
                 ],
                 "description": "Puzzle game for Game Boy Advance, developed for GBA Jam 2021\nTags: Puzzle, gbajam21\nhttps://hippydave.itch.io/pipespin",
-                "icon_index": 87,
+                "icon_index": 84,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "PipeSpin",
@@ -3505,19 +3505,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pipespin/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pipespin-cover.png"
                     },
                     {
                         "description": "FOGNFS",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pipespin/foGnfS.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pipespin-fognfs.png"
                     },
                     {
                         "description": "AUDJY5",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pipespin/aUDJY5.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pipespin-audjy5.png"
                     },
                     {
                         "description": "NV8MSK",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pipespin/Nv8mSk.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pipespin-nv8msk.png"
                     }
                 ]
             },
@@ -3539,7 +3539,7 @@
                     "GBA"
                 ],
                 "description": "A Pump It Up simulator for the GBA that plays SSC charts from StepMania\nTags: Open Source, Action\nhttps://discord.com/invite/JE33cc2",
-                "icon_index": 88,
+                "icon_index": 85,
                 "last updated": "2020-08-30",
                 "license": "MIT",
                 "title": "piuGBA (demo)",
@@ -3548,27 +3548,27 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/piugba/cover.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/piugba-cover.png"
                     },
                     {
                         "description": "1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/piugba/1.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/piugba-1.png"
                     },
                     {
                         "description": "2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/piugba/2.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/piugba-2.png"
                     },
                     {
                         "description": "3",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/piugba/3.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/piugba-3.png"
                     },
                     {
                         "description": "4",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/piugba/4.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/piugba-4.png"
                     },
                     {
                         "description": "5",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/piugba/5.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/piugba-5.png"
                     }
                 ]
             },
@@ -3590,7 +3590,7 @@
                     "GBA"
                 ],
                 "description": "A simple paint app for the Gameboy Advance\nTags: gbajam22\nhttps://jroatch.itch.io/pocket-paint-gba",
-                "icon_index": 89,
+                "icon_index": 86,
                 "last updated": "2022-10-30T21:08:00",
                 "license": "(not set)",
                 "title": "Pocket Paint",
@@ -3599,15 +3599,15 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pocket-paint-gba/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pocket-paint-gba-cover.png"
                     },
                     {
                         "description": "ZP4LHO",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pocket-paint-gba/zp4lHo.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pocket-paint-gba-zp4lho.png"
                     },
                     {
                         "description": "FGNIQ0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pocket-paint-gba/FGnIq0.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pocket-paint-gba-fgniq0.png"
                     }
                 ]
             },
@@ -3629,7 +3629,7 @@
                     "GBA"
                 ],
                 "description": "PocketFlute is a small application made with Ham 2.8 that allows you to play a virtual flute on your GBA, while seeing its music score.",
-                "icon_index": 90,
+                "icon_index": 87,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "PocketFlute",
@@ -3638,7 +3638,7 @@
                 "screenshots": [
                     {
                         "description": "SCREEN",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pocketflute/screen.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pocketflute-screen.png"
                     }
                 ]
             },
@@ -3660,7 +3660,7 @@
                     "GBA"
                 ],
                 "description": "Try to evade the quantum rocks.\nTags: gbajam21\nhttps://larkskwared.itch.io/quantum-sruvival",
-                "icon_index": 91,
+                "icon_index": 88,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Quantum Survival",
@@ -3669,11 +3669,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/quantum-sruvival/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/quantum-sruvival-cover.png"
                     },
                     {
                         "description": "KJYCCI",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/quantum-sruvival/KjYcCi.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/quantum-sruvival-kjycci.png"
                     }
                 ]
             },
@@ -3695,7 +3695,7 @@
                     "GBA"
                 ],
                 "description": "Portal + Sokoban + Demons\nTags: Puzzle, gbajam22\nhttps://allalonegamez.itch.io/ravenia",
-                "icon_index": 92,
+                "icon_index": 89,
                 "last updated": "2022-10-31T16:58:00",
                 "license": "(not set)",
                 "title": "Ravenia",
@@ -3704,27 +3704,27 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ravenia/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ravenia-cover.png"
                     },
                     {
                         "description": "ONKMED",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ravenia/oNkMed.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ravenia-onkmed.png"
                     },
                     {
                         "description": "EXIXNX",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ravenia/eXIXnX.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ravenia-exixnx.png"
                     },
                     {
                         "description": "LF4JSG",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ravenia/Lf4jSg.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ravenia-lf4jsg.png"
                     },
                     {
                         "description": "VI1ZSP",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ravenia/vI1ZSP.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ravenia-vi1zsp.png"
                     },
                     {
                         "description": "JW5KQW",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ravenia/Jw5KQW.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ravenia-jw5kqw.png"
                     }
                 ]
             },
@@ -3746,7 +3746,7 @@
                     "GBA"
                 ],
                 "description": "Reaper GBA Demake\nTags: Action, gbajam21\nhttps://greatheart-games.itch.io/reaper-gba-demake",
-                "icon_index": 93,
+                "icon_index": 90,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Reaper GBA Demake",
@@ -3755,27 +3755,27 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/reaper-gba-demake/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/reaper-gba-demake-cover.png"
                     },
                     {
                         "description": "MT11MH",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/reaper-gba-demake/Mt11MH.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/reaper-gba-demake-mt11mh.png"
                     },
                     {
                         "description": "J6VKLR",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/reaper-gba-demake/j6vKlr.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/reaper-gba-demake-j6vklr.png"
                     },
                     {
                         "description": "ZEOSWO",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/reaper-gba-demake/ZEoswO.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/reaper-gba-demake-zeoswo.png"
                     },
                     {
                         "description": "2HY4CV",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/reaper-gba-demake/2hy4Cv.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/reaper-gba-demake-2hy4cv.png"
                     },
                     {
                         "description": "WWUBDC",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/reaper-gba-demake/wwUBdc.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/reaper-gba-demake-wwubdc.png"
                     }
                 ]
             },
@@ -3797,7 +3797,7 @@
                     "GBA"
                 ],
                 "description": "A 7 channels, 16step sample based sequencer for the Gameboy Advance.\nTags: Sequencer\nhttp://www.untergrund.net/",
-                "icon_index": 94,
+                "icon_index": 91,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "ReBoy",
@@ -3806,7 +3806,7 @@
                 "screenshots": [
                     {
                         "description": "REBOY V1.0A",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/reboy/ReBoy_v1.0a.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/reboy-reboy_v1.0a.png"
                     }
                 ]
             },
@@ -3828,7 +3828,7 @@
                     "GBA"
                 ],
                 "description": "A platformer, where you make a song. Jump around :)\nTags: Platform, Adventure, gbajam21\nhttps://screv69.itch.io/sassafras-the-game",
-                "icon_index": 95,
+                "icon_index": 92,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "SASSAFRAS THE GAME",
@@ -3837,23 +3837,23 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sassafras-the-game/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sassafras-the-game-cover.png"
                     },
                     {
                         "description": "YH3BWK",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sassafras-the-game/YH3bwk.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sassafras-the-game-yh3bwk.png"
                     },
                     {
                         "description": "2NOUH8",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sassafras-the-game/2NoUH8.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sassafras-the-game-2nouh8.png"
                     },
                     {
                         "description": "BQDQHS",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sassafras-the-game/bQdqHS.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sassafras-the-game-bqdqhs.png"
                     },
                     {
                         "description": "RZTIP7",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sassafras-the-game/Rztip7.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sassafras-the-game-rztip7.png"
                     }
                 ]
             },
@@ -3875,7 +3875,7 @@
                     "GBA"
                 ],
                 "description": "Watch and read a clucking fun story on the Game Boy Advance!\nTags: gbajam21\nhttps://sawyer-ique.itch.io/sawyers-stories-time-for-the-chickens-to-go-to-sleep",
-                "icon_index": 96,
+                "icon_index": 93,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Sawyer's Stories: Time for The Chickens to go to Sleep (Game Boy Advance)",
@@ -3884,19 +3884,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sawyers-stories-time-for-the-chickens-to-go-to-sleep/cover.jpeg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sawyers-stories-time-for-the-chickens-to-go-to-sleep-cover.png"
                     },
                     {
                         "description": "K55P8F",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sawyers-stories-time-for-the-chickens-to-go-to-sleep/K55p8F.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sawyers-stories-time-for-the-chickens-to-go-to-sleep-k55p8f.png"
                     },
                     {
                         "description": "HJVO2FX",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sawyers-stories-time-for-the-chickens-to-go-to-sleep/hjvO2FX.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sawyers-stories-time-for-the-chickens-to-go-to-sleep-hjvo2fx.png"
                     },
                     {
                         "description": "K8A2BIV",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sawyers-stories-time-for-the-chickens-to-go-to-sleep/K8A2BIv.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sawyers-stories-time-for-the-chickens-to-go-to-sleep-k8a2biv.png"
                     }
                 ]
             },
@@ -3918,7 +3918,7 @@
                     "GBA"
                 ],
                 "description": "An original roguelike for the Gameboy Advance (GBA)\nTags: Action, gba-winter-jam-2021\nhttps://akouzoukos.itch.io/scrollsoffire",
-                "icon_index": 97,
+                "icon_index": 94,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Scrolls of Fire",
@@ -3927,19 +3927,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/scrollsoffire/cover.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/scrollsoffire-cover.png"
                     },
                     {
                         "description": "MXSWV4",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/scrollsoffire/MXSWv4.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/scrollsoffire-mxswv4.png"
                     },
                     {
                         "description": "4YMWLH",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/scrollsoffire/4yMwLh.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/scrollsoffire-4ymwlh.png"
                     },
                     {
                         "description": "LLTQVL",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/scrollsoffire/lLTQvL.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/scrollsoffire-lltqvl.png"
                     }
                 ]
             },
@@ -3961,7 +3961,7 @@
                     "GBA"
                 ],
                 "description": "A small Christmas demo hacked together in a couple of days for the GBA community.\nTags: Open Source, 3D",
-                "icon_index": 98,
+                "icon_index": 95,
                 "last updated": "2024-12-24T15:57:00",
                 "license": "(not set)",
                 "title": "2024 Christmas demo",
@@ -3970,7 +3970,7 @@
                 "screenshots": [
                     {
                         "description": "CHRISTMAS DEMO 2024",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/secret_santa_2024/Christmas_demo_2024.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/secret_santa_2024-christmas_demo_2024.png"
                     }
                 ]
             },
@@ -3992,7 +3992,7 @@
                     "GBA"
                 ],
                 "description": "A short cafe idle game for the GBA\nTags: Simulation, event:gbawinterjam23\nhttps://foopod.itch.io/sips",
-                "icon_index": 99,
+                "icon_index": 96,
                 "last updated": "2023-02-22T08:05:00",
                 "license": "(not set)",
                 "title": "Sips",
@@ -4001,19 +4001,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sips/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sips-cover.png"
                     },
                     {
                         "description": "LJ12M0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sips/Lj12m0.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sips-lj12m0.png"
                     },
                     {
                         "description": "1SFMWR",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sips/1sfmWR.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sips-1sfmwr.png"
                     },
                     {
                         "description": "VFT2B2FA",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sips/Vft2B2FA.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sips-vft2b2fa.png"
                     }
                 ]
             },
@@ -4035,7 +4035,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, RPG, Adventure, gbajam21",
-                "icon_index": 100,
+                "icon_index": 97,
                 "last updated": "2001-01-01",
                 "license": "MIT",
                 "title": "Skyland",
@@ -4044,7 +4044,7 @@
                 "screenshots": [
                     {
                         "description": "SCREENSHOT 1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/skyland/screenshot-1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/skyland-screenshot-1.png"
                     }
                 ]
             },
@@ -4066,7 +4066,7 @@
                     "GBA"
                 ],
                 "description": "A homebrew Game Boy Advance game made for GBA Jam 2021.\nTags: Shooter, Action, gbajam21\nhttps://deft-spade.itch.io/solar-guard",
-                "icon_index": 101,
+                "icon_index": 98,
                 "last updated": "2001-01-01",
                 "license": "GPL-3.0-only",
                 "title": "Solar Guard",
@@ -4075,31 +4075,31 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/solar-guard/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/solar-guard-cover.png"
                     },
                     {
                         "description": "CVKPDP",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/solar-guard/cVkpdp.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/solar-guard-cvkpdp.png"
                     },
                     {
                         "description": "XXBS3H",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/solar-guard/xxBs3H.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/solar-guard-xxbs3h.png"
                     },
                     {
                         "description": "8TFXAP",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/solar-guard/8tfXaP.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/solar-guard-8tfxap.png"
                     },
                     {
                         "description": "WAR4AY",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/solar-guard/war4Ay.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/solar-guard-war4ay.png"
                     },
                     {
                         "description": "0DNIBL",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/solar-guard/0dnIBl.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/solar-guard-0dnibl.png"
                     },
                     {
                         "description": "RRP5DT",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/solar-guard/rrP5dt.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/solar-guard-rrp5dt.png"
                     }
                 ]
             },
@@ -4121,7 +4121,7 @@
                     "GBA"
                 ],
                 "description": "A title screen demo - GBA-ROM\nTags: event:gbawinterjam23\nhttps://torte00.itch.io/space-times-draft",
-                "icon_index": 102,
+                "icon_index": 99,
                 "last updated": "2023-02-27T13:16:00",
                 "license": "(not set)",
                 "title": "Space Times (Titlescreen Demo)",
@@ -4130,11 +4130,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/space-times-draft/cover.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/space-times-draft-cover.png"
                     },
                     {
                         "description": "TL7JXC",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/space-times-draft/tl7JXc.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/space-times-draft-tl7jxc.png"
                     }
                 ]
             },
@@ -4156,7 +4156,7 @@
                     "GBA"
                 ],
                 "description": "2D skeletal animation engine demo for GBA\nTags: Educational, gbajam21\nhttps://laqieer.itch.io/ss6playerforgba",
-                "icon_index": 103,
+                "icon_index": 100,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "SS6PlayerForGBA",
@@ -4165,11 +4165,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ss6playerforgba/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ss6playerforgba-cover.png"
                     },
                     {
                         "description": "PBRR29",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ss6playerforgba/Pbrr29.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ss6playerforgba-pbrr29.png"
                     }
                 ]
             },
@@ -4191,7 +4191,7 @@
                     "GBA"
                 ],
                 "description": "Tags: 2004Mbit",
-                "icon_index": 104,
+                "icon_index": 101,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": " Star Fortress Dendron",
@@ -4200,7 +4200,7 @@
                 "screenshots": [
                     {
                         "description": "STARFORTRESS",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/star-fortress/starfortress.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/star-fortress-starfortress.png"
                     }
                 ]
             },
@@ -4222,7 +4222,7 @@
                     "GBA"
                 ],
                 "description": "Unfinished Gameboy Advance fighting game\nTags: Fighting, gbajam21\nhttps://samfromcadott.itch.io/stick-kicker",
-                "icon_index": 105,
+                "icon_index": 102,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Stick Kicker",
@@ -4231,11 +4231,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/stick-kicker/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/stick-kicker-cover.png"
                     },
                     {
                         "description": "UA38US",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/stick-kicker/UA38uS.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/stick-kicker-ua38us.png"
                     }
                 ]
             },
@@ -4257,7 +4257,7 @@
                     "GBA"
                 ],
                 "description": "SubQuest - The Search for the Virtual Pet is an RPG game for the Game Boy Advance.\nTags: RPG, gba-winter-jam-2021\nhttps://rgamesofficial.itch.io/subquest",
-                "icon_index": 106,
+                "icon_index": 103,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "SubQuest - The Search for the Virtual Pet",
@@ -4266,27 +4266,27 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/subquest/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/subquest-cover.png"
                     },
                     {
                         "description": "XS2WVH",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/subquest/Xs2WVh.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/subquest-xs2wvh.png"
                     },
                     {
                         "description": "UMYLKJ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/subquest/UMYlKj.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/subquest-umylkj.png"
                     },
                     {
                         "description": "8WQYGF",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/subquest/8WqYgf.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/subquest-8wqygf.png"
                     },
                     {
                         "description": "U2BJWOJ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/subquest/U2BjwOj.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/subquest-u2bjwoj.png"
                     },
                     {
                         "description": "ZSLU2BD",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/subquest/zSLU2BD.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/subquest-zslu2bd.png"
                     }
                 ]
             },
@@ -4308,7 +4308,7 @@
                     "GBA"
                 ],
                 "description": "[Demo] A puzzle platformer game for GBA where you can merge items in hands, and use its superpower.\nTags: Puzzle, Platform, gbajam21\nhttps://copyrat90.itch.io/sym-merged",
-                "icon_index": 107,
+                "icon_index": 104,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Symbol ★ Merged",
@@ -4317,15 +4317,15 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sym-merged/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sym-merged-cover.png"
                     },
                     {
                         "description": "WFTHF4",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sym-merged/WfThf4.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sym-merged-wfthf4.png"
                     },
                     {
                         "description": "4LPTGQ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/sym-merged/4lpTgq.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/sym-merged-4lptgq.png"
                     }
                 ]
             },
@@ -4347,7 +4347,7 @@
                     "GBA"
                 ],
                 "description": "A simple Gameboy Advance sound synth written in assembly. It is essentially an interface to direct access to the GameBoy Advance's sound hardware.",
-                "icon_index": 108,
+                "icon_index": 105,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "SynthGBA",
@@ -4356,7 +4356,7 @@
                 "screenshots": [
                     {
                         "description": "SYNTHGBA2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/synthgba/Synthgba2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/synthgba-synthgba2.png"
                     }
                 ]
             },
@@ -4378,7 +4378,7 @@
                     "GBA"
                 ],
                 "description": "Only a digital postcard to celebrate the 20th anniversary of the GBA\nTags: gbajam21\nhttps://torte00.itch.io/thanx-gba",
-                "icon_index": 109,
+                "icon_index": 106,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Thanx GBA",
@@ -4387,11 +4387,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/thanx-gba/cover.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/thanx-gba-cover.png"
                     },
                     {
                         "description": "BW4TCK",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/thanx-gba/bw4tcK.jpg"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/thanx-gba-bw4tck.png"
                     }
                 ]
             },
@@ -4413,7 +4413,7 @@
                     "GBA"
                 ],
                 "description": "A homebrew minigame for the Game Boy Advance!\nTags: gbajam22\nhttps://maximilian-ii.itch.io/the-axe",
-                "icon_index": 110,
+                "icon_index": 107,
                 "last updated": "2022-10-29T17:55:00",
                 "license": "(not set)",
                 "title": "The Axe",
@@ -4422,23 +4422,23 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/the-axe/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/the-axe-cover.png"
                     },
                     {
                         "description": "VTRXTJ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/the-axe/vTRXTJ.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/the-axe-vtrxtj.png"
                     },
                     {
                         "description": "YIT3RD",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/the-axe/yIt3Rd.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/the-axe-yit3rd.png"
                     },
                     {
                         "description": "XSHNJV",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/the-axe/xShnJV.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/the-axe-xshnjv.png"
                     },
                     {
                         "description": "VROYXT",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/the-axe/VRoYXt.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/the-axe-vroyxt.png"
                     }
                 ]
             },
@@ -4460,7 +4460,7 @@
                     "GBA"
                 ],
                 "description": "A visual novel about saying goodbye.\nTags: Visual Novel, gbajam22\nhttps://videogamestorytime.itch.io/the-enchanted-place",
-                "icon_index": 111,
+                "icon_index": 108,
                 "last updated": "2022-10-31T23:49:00",
                 "license": "(not set)",
                 "title": "The Enchanted Place",
@@ -4469,11 +4469,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/the-enchanted-place/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/the-enchanted-place-cover.png"
                     },
                     {
                         "description": "M6UNVN",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/the-enchanted-place/m6UnvN.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/the-enchanted-place-m6unvn.png"
                     }
                 ]
             },
@@ -4495,7 +4495,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, Platform\nhttps://lostimmortal.itch.io/the-hat-chooses-the-wizard",
-                "icon_index": 112,
+                "icon_index": 109,
                 "last updated": "2001-01-01",
                 "license": "MPL-2.0",
                 "title": "The Hat Chooses the Wizard",
@@ -4504,11 +4504,11 @@
                 "screenshots": [
                     {
                         "description": "1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/the-hat-chooses-the-wizard/1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/the-hat-chooses-the-wizard-1.png"
                     },
                     {
                         "description": "2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/the-hat-chooses-the-wizard/2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/the-hat-chooses-the-wizard-2.png"
                     }
                 ]
             },
@@ -4530,7 +4530,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, Platform\nhttps://lostimmortal.itch.io/the-purple-night",
-                "icon_index": 113,
+                "icon_index": 110,
                 "last updated": "2001-01-01",
                 "license": "MPL-2.0",
                 "title": "The purple night",
@@ -4539,7 +4539,7 @@
                 "screenshots": [
                     {
                         "description": "1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/the-purple-night/1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/the-purple-night-1.png"
                     }
                 ]
             },
@@ -4561,7 +4561,7 @@
                     "GBA"
                 ],
                 "description": "There's a tree outside my window and this is what it looks like.\nTags: Educational, event:gbawinterjam23\nhttps://schmoogin.itch.io/the-tree-outside-my-window",
-                "icon_index": 114,
+                "icon_index": 111,
                 "last updated": "2023-02-28T02:23:00",
                 "license": "(not set)",
                 "title": "The Tree Outside My Window",
@@ -4570,11 +4570,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/the-tree-outside-my-window/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/the-tree-outside-my-window-cover.png"
                     },
                     {
                         "description": "FDL4Y2F",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/the-tree-outside-my-window/FDl4y2F.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/the-tree-outside-my-window-fdl4y2f.png"
                     }
                 ]
             },
@@ -4596,7 +4596,7 @@
                     "GBA"
                 ],
                 "description": "Bullet hell on the GBA\nTags: Shooter, gbajam21\nhttps://pmprog.itch.io/tigermoth",
-                "icon_index": 115,
+                "icon_index": 112,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Tigermoth",
@@ -4605,11 +4605,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/tigermoth/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/tigermoth-cover.png"
                     },
                     {
                         "description": "CJJECJ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/tigermoth/CJjEcj.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/tigermoth-cjjecj.png"
                     }
                 ]
             },
@@ -4631,7 +4631,7 @@
                     "GBA"
                 ],
                 "description": "A hoppy little puzzle adventure for the Game Boy Advance!\nTags: Puzzle, gbajam21\nhttps://squishyfrogs.itch.io/toadally-awesome",
-                "icon_index": 116,
+                "icon_index": 113,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Toadally Awesome Game (GBA Jam 2021)",
@@ -4640,23 +4640,23 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/toadally-awesome/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/toadally-awesome-cover.png"
                     },
                     {
                         "description": "PB3FIL",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/toadally-awesome/pB3Fil.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/toadally-awesome-pb3fil.png"
                     },
                     {
                         "description": "YIR8C7",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/toadally-awesome/yiR8C7.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/toadally-awesome-yir8c7.png"
                     },
                     {
                         "description": "UMFBMM",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/toadally-awesome/UMfBMM.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/toadally-awesome-umfbmm.png"
                     },
                     {
                         "description": "VUBOSM",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/toadally-awesome/vubOSm.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/toadally-awesome-vubosm.png"
                     }
                 ]
             },
@@ -4678,7 +4678,7 @@
                     "GBA"
                 ],
                 "description": "Three Tremblays start a country on an island, what could go wrong?\nTags: Interactive Fiction, gba-winter-jam-2021\nhttps://cinemint.itch.io/tremblay-island",
-                "icon_index": 117,
+                "icon_index": 114,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Tremblay Island",
@@ -4687,27 +4687,27 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/tremblay-island/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/tremblay-island-cover.png"
                     },
                     {
                         "description": "CZNMQD",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/tremblay-island/CZNmqd.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/tremblay-island-cznmqd.png"
                     },
                     {
                         "description": "NCSPNU",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/tremblay-island/NcSpnU.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/tremblay-island-ncspnu.png"
                     },
                     {
                         "description": "ELW2BWD",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/tremblay-island/Elw2BwD.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/tremblay-island-elw2bwd.png"
                     },
                     {
                         "description": "UDNOEF",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/tremblay-island/udNOEf.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/tremblay-island-udnoef.png"
                     },
                     {
                         "description": "ENVTSI",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/tremblay-island/ENVtSi.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/tremblay-island-envtsi.png"
                     }
                 ]
             },
@@ -4729,7 +4729,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, RPG, Adventure, gbajam21",
-                "icon_index": 118,
+                "icon_index": 115,
                 "last updated": "2001-01-01",
                 "license": "GPL-3.0-or-later",
                 "title": "uCity Advance",
@@ -4738,23 +4738,23 @@
                 "screenshots": [
                     {
                         "description": "SCREENSHOT 0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ucity-advance/screenshot-0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ucity-advance-screenshot-0.png"
                     },
                     {
                         "description": "SCREENSHOT 1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ucity-advance/screenshot-1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ucity-advance-screenshot-1.png"
                     },
                     {
                         "description": "SCREENSHOT 2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ucity-advance/screenshot-2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ucity-advance-screenshot-2.png"
                     },
                     {
                         "description": "SCREENSHOT 3",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ucity-advance/screenshot-3.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ucity-advance-screenshot-3.png"
                     },
                     {
                         "description": "SCREENSHOT 4",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/ucity-advance/screenshot-4.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/ucity-advance-screenshot-4.png"
                     }
                 ]
             },
@@ -4776,7 +4776,7 @@
                     "GBA"
                 ],
                 "description": "Tags: gbajam21\nhttps://stormplay.itch.io/untitled-volleyball-game",
-                "icon_index": 119,
+                "icon_index": 116,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Untitled Volleyball Game [EARLY PROTOTYPE]",
@@ -4785,11 +4785,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/untitled-volleyball-game/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/untitled-volleyball-game-cover.png"
                     },
                     {
                         "description": "YJ9OGQ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/untitled-volleyball-game/yj9oGq.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/untitled-volleyball-game-yj9ogq.png"
                     }
                 ]
             },
@@ -4811,7 +4811,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, Racing, 3D, gbajam21",
-                "icon_index": 120,
+                "icon_index": 117,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Varooom 3D",
@@ -4820,23 +4820,23 @@
                 "screenshots": [
                     {
                         "description": "1",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/varooom3d/1.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/varooom3d-1.png"
                     },
                     {
                         "description": "2",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/varooom3d/2.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/varooom3d-2.png"
                     },
                     {
                         "description": "3",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/varooom3d/3.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/varooom3d-3.png"
                     },
                     {
                         "description": "4",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/varooom3d/4.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/varooom3d-4.png"
                     },
                     {
                         "description": "5",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/varooom3d/5.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/varooom3d-5.png"
                     }
                 ]
             },
@@ -4858,7 +4858,7 @@
                     "GBA"
                 ],
                 "description": "A game about gathering resources for the GBA!\nTags: Simulation, Adventure, gbajam22\nhttps://atsushihdez.itch.io/villagers-ambition",
-                "icon_index": 121,
+                "icon_index": 118,
                 "last updated": "2022-10-29T09:05:00",
                 "license": "(not set)",
                 "title": "Villager's Ambition",
@@ -4867,11 +4867,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/villagers-ambition/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/villagers-ambition-cover.png"
                     },
                     {
                         "description": "F2LMF0",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/villagers-ambition/F2Lmf0.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/villagers-ambition-f2lmf0.png"
                     }
                 ]
             },
@@ -4893,7 +4893,7 @@
                     "GBA"
                 ],
                 "description": "Unfinished Garbage\nTags: Card Game, gba-winter-jam-2021\nhttps://kmiinik.itch.io/warii",
-                "icon_index": 122,
+                "icon_index": 119,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "WarII",
@@ -4902,11 +4902,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/warii/cover.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/warii-cover.png"
                     },
                     {
                         "description": "1XFMW5",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/warii/1xfMW5.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/warii-1xfmw5.png"
                     }
                 ]
             },
@@ -4928,7 +4928,7 @@
                     "GBA"
                 ],
                 "description": "Game of finding the ball\nTags: Card Game, gbajam21\nhttps://kevin20012.itch.io/where-is-the-ball",
-                "icon_index": 123,
+                "icon_index": 120,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Where is the ball",
@@ -4937,11 +4937,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/where-is-the-ball/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/where-is-the-ball-cover.png"
                     },
                     {
                         "description": "YL2BWHW",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/where-is-the-ball/yl2BwHW.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/where-is-the-ball-yl2bwhw.png"
                     }
                 ]
             },
@@ -4963,7 +4963,7 @@
                     "GBA"
                 ],
                 "description": "Tags: event:gbawinterjam23\nhttps://tiredsasha.itch.io/wip-title-screen",
-                "icon_index": 124,
+                "icon_index": 121,
                 "last updated": "2023-02-28T18:30:00",
                 "license": "(not set)",
                 "title": "WIP Title Screen",
@@ -4972,7 +4972,7 @@
                 "screenshots": [
                     {
                         "description": "WNI2BOF",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/wip-title-screen/Wni2Bof.gif"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/wip-title-screen-wni2bof.png"
                     }
                 ]
             },
@@ -4994,7 +4994,7 @@
                     "GBA"
                 ],
                 "description": "Avoid opposing racers!\nTags: Racing, gbajam21\nhttps://jenswa.itch.io/wrong-road-gba",
-                "icon_index": 125,
+                "icon_index": 122,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Wrong Road GBA",
@@ -5003,11 +5003,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/wrong-road-gba/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/wrong-road-gba-cover.png"
                     },
                     {
                         "description": "AKX75D",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/wrong-road-gba/AKx75d.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/wrong-road-gba-akx75d.png"
                     }
                 ]
             },
@@ -5029,7 +5029,7 @@
                     "GBA"
                 ],
                 "description": "a CROSSNIQ clone for the GBA  (alpha)\nTags: Puzzle, gbajam21\nhttps://exelotl.itch.io/xniq",
-                "icon_index": 126,
+                "icon_index": 123,
                 "last updated": "2001-01-01",
                 "license": "MIT",
                 "title": "xniq",
@@ -5038,19 +5038,19 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/xniq/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/xniq-cover.png"
                     },
                     {
                         "description": "I240LS",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/xniq/I240lS.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/xniq-i240ls.png"
                     },
                     {
                         "description": "42FPQTF",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/xniq/42FpQtF.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/xniq-42fpqtf.png"
                     },
                     {
                         "description": "AEYGGH",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/xniq/aEyGgh.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/xniq-aeyggh.png"
                     }
                 ]
             },
@@ -5072,7 +5072,7 @@
                     "GBA"
                 ],
                 "description": "boss-rush WIP!\nTags: Action, gbajam22\nhttps://mysterystrawberry.itch.io/yalaxy01-yearlysis",
-                "icon_index": 127,
+                "icon_index": 124,
                 "last updated": "2022-10-31T23:48:00",
                 "license": "(not set)",
                 "title": "YALAXY01-Yearlysis",
@@ -5081,11 +5081,11 @@
                 "screenshots": [
                     {
                         "description": "COVER",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/yalaxy01-yearlysis/cover.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/yalaxy01-yearlysis-cover.png"
                     },
                     {
                         "description": "I9YRRJ",
-                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/yalaxy01-yearlysis/I9YRRJ.png"
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/yalaxy01-yearlysis-i9yrrj.png"
                     }
                 ]
             },
