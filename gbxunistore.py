@@ -411,7 +411,9 @@ with open('jsondirlist.txt', 'r') as listafile:
                            }
                        }
 
+        
         icon_index += 1
+        numofgames += 1
         allgamejson.append(gamejson)
         numofgames += 1
 #these shall be outside the cycle
