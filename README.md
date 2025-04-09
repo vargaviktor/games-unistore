@@ -20,10 +20,12 @@ Steps:
 This is too long to enter:
 
 https://raw.githubusercontent.com/vargaviktor/games-unistore/master/gba.unistore
+![gba_long_link](https://github.com/user-attachments/assets/08360096-5e17-4e58-83ab-ce5750df54b9)
 
 Add this instead:
 
 https://shorturl.at/3k0kW
+![gba_short_link](https://github.com/user-attachments/assets/83e736c2-1876-4867-a1b3-f756700f9a81)
 
 (If this is unavailable, create a short link from the link above and try to add that.)
 
