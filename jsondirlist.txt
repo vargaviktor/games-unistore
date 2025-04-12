@@ -4,6 +4,7 @@ entries/587-squadron-advance/
 entries/a-4d-christmas/
 entries/a-rushed-hack-job/
 entries/advance-demo-adventures-of-the-math-logic-club/
+entries/aereven-advance/
 entries/alpha-wing/
 entries/apotris/
 entries/attack-on-voxelburg/
