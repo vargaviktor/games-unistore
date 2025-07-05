@@ -115,7 +115,8 @@ with open('jsondirlist.txt', 'r') as listafile:
         #import the game.json
         actualjsonpath = fileline + "game.json"
 
-        with open(actualjsonpath) as fajl:
+        print ("(i) Opening new JSON file: " + actualjsonpath)
+        with open(actualjsonpath, encoding="utf-8") as fajl:
             inp = json.load(fajl)
 
         #reading game.json values to variables

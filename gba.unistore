@@ -2,14 +2,14 @@
     "storeInfo": {
         "title": "Homebrew Hub GBA DB",
         "author": "https://gbadev.org/ (+ vargaviktor)",
-        "description": "Homebrew Hub is a community-led initiative to collect,\narchive and preserve homebrew and demoscene software\ndeveloped for Game Boy (Color), Game Boy Advance and\nNES. In this database you can browse GBA homebrews\npublished on the site: https://gbadev.org/\n\nConverter made by vargaviktor\nCreated on 2025-04-12",
+        "description": "Homebrew Hub is a community-led initiative to collect,\narchive and preserve homebrew and demoscene software\ndeveloped for Game Boy (Color), Game Boy Advance and\nNES. In this database you can browse GBA homebrews\npublished on the site: https://gbadev.org/\n\nConverter made by vargaviktor\nCreated on 2025-07-05",
         "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/gba.unistore",
         "file": "gba.unistore",
         "sheetURL": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/gba.t3x",
         "sheet": "gba.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 120,
+        "revision": 126,
         "version": 3
     },
     "storeContent": [
@@ -97,6 +97,57 @@
         },
         {
             "info": {
+                "author": "3DSage",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Action, Doom, Retro, Shooter, 3D, FPS, gbajam24\nhttps://3dsage.itch.io/zipline-zapper",
+                "icon_index": 3,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Zipline Zapper",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/3dsage_zipline-zapper-cover.png"
+                    },
+                    {
+                        "description": "L395P9",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/3dsage_zipline-zapper-l395p9.png"
+                    },
+                    {
+                        "description": "MHOTPE",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/3dsage_zipline-zapper-mhotpe.png"
+                    },
+                    {
+                        "description": "SNDG0Y",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/3dsage_zipline-zapper-sndg0y.png"
+                    },
+                    {
+                        "description": "LDC5%2FB",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/3dsage_zipline-zapper-ldc5%2fb.png"
+                    },
+                    {
+                        "description": "JBLBXS",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/3dsage_zipline-zapper-jblbxs.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/3dsage_zipline-zapper/files/Zipline_Zapper-3DSage_jam.gba",
+                    "output": "/roms/gba/3dsage_zipline-zapper.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "PogeSoft",
                 "category": [
                     "game"
@@ -105,7 +156,7 @@
                     "GBA"
                 ],
                 "description": "Fly in, hit hard and cover yourself in glory - on a GBA!\nTags: Action, Shooter, gbajam21\nhttps://pogesoft.itch.io/587-squadron-advance",
-                "icon_index": 3,
+                "icon_index": 4,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "587 Squadron Advance",
@@ -144,6 +195,53 @@
         },
         {
             "info": {
+                "author": "90soft90",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Role Playing, Roguelite, 2D, gbajam24\nhttps://90soft90.itch.io/wreckage",
+                "icon_index": 5,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Wreckage",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/90soft90_wreckage-cover.png"
+                    },
+                    {
+                        "description": "9LTY07",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/90soft90_wreckage-9lty07.png"
+                    },
+                    {
+                        "description": "PX%2FINE",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/90soft90_wreckage-px%2fine.png"
+                    },
+                    {
+                        "description": "8XASCV",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/90soft90_wreckage-8xascv.png"
+                    },
+                    {
+                        "description": "L%2BVMKX",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/90soft90_wreckage-l%2bvmkx.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/90soft90_wreckage/files/wreckage_jam.gba",
+                    "output": "/roms/gba/90soft90_wreckage.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "NotImplementedLife",
                 "category": [
                     "game"
@@ -152,7 +250,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Shooter, gba-winter-jam-2021\nhttps://notimplementedlife.itch.io/a-4d-christmas",
-                "icon_index": 4,
+                "icon_index": 6,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "A 4D Christmas",
@@ -195,7 +293,7 @@
                     "GBA"
                 ],
                 "description": "A Last Minute Entry to GBA Jam 2022\nTags: Action, gbajam22\nhttps://pyro-pyro.itch.io/a-rushed-hack-job",
-                "icon_index": 5,
+                "icon_index": 7,
                 "last updated": "2022-10-31T23:54:00",
                 "license": "(not set)",
                 "title": "A Rushed Hack Job",
@@ -230,7 +328,7 @@
                     "GBA"
                 ],
                 "description": "a tiny kinetic vn demo for gba jam 2021\nTags: Visual Novel, gbajam21\nhttps://kva64.itch.io/advance-demo-adventures-of-the-math-logic-club",
-                "icon_index": 6,
+                "icon_index": 8,
                 "last updated": "2022-06-18T08:47:00",
                 "license": "(not set)",
                 "title": "Advance! [Early Demo] Adventures Of The Math & Logic Club",
@@ -269,7 +367,7 @@
                     "GBA"
                 ],
                 "description": "Aereven Advance is a brand new action-adventure game for the Game Boy Advance!\nTags: Action, Adventure, event:gbajam24\nhttps://dreamnoid.itch.io/aereven-advance",
-                "icon_index": 7,
+                "icon_index": 9,
                 "last updated": "2024-07-31",
                 "license": "(not set)",
                 "title": "Aereven Advance",
@@ -308,6 +406,143 @@
         },
         {
             "info": {
+                "author": "Multiple authors",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Rhythm, Boss battle, Shooter, gbajam24\nhttps://afska.itch.io/beat-beast",
+                "icon_index": 10,
+                "last updated": "2001-01-01",
+                "license": "MIT License",
+                "title": "BeatBeast",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/afska_beat-beast-cover.png"
+                    },
+                    {
+                        "description": "4GGZMP",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/afska_beat-beast-4ggzmp.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/afska_beat-beast/files/BeatBeast_jam.gba",
+                    "output": "/roms/gba/afska_beat-beast.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "Multiple authors",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Adventure, Action, Pixel Art, Story Rich, Book Based, 2D, Metroidvania, Platformer, gbajam24\nhttps://albafg.itch.io/life-and-adventures-of-buscon-de-tormes",
+                "icon_index": 11,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Life and Adventures of Buscón de Tormes",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/albafg_life-and-adventures-of-buscon-de-tormes-cover.png"
+                    },
+                    {
+                        "description": "8YCV2D",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/albafg_life-and-adventures-of-buscon-de-tormes-8ycv2d.png"
+                    },
+                    {
+                        "description": "VXPN%2BN",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/albafg_life-and-adventures-of-buscon-de-tormes-vxpn%2bn.png"
+                    },
+                    {
+                        "description": "SGLE%2FG",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/albafg_life-and-adventures-of-buscon-de-tormes-sgle%2fg.png"
+                    },
+                    {
+                        "description": "EVOCGV",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/albafg_life-and-adventures-of-buscon-de-tormes-evocgv.png"
+                    },
+                    {
+                        "description": "DQUMXZ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/albafg_life-and-adventures-of-buscon-de-tormes-dqumxz.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/albafg_life-and-adventures-of-buscon-de-tormes/files/Buscon_de_Tormes.gba",
+                    "output": "/roms/gba/albafg_life-and-adventures-of-buscon-de-tormes.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "allalonegamez",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GB"
+                ],
+                "description": "Tags: Puzzle, Sokoban, game-boy, gbstudio, logic, analogue-pocket, 16-bit, gb-studio, gbajam24\nhttps://allalonegamez.itch.io/rezal",
+                "icon_index": 12,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Rezal",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/allalonegamez_rezal-cover.png"
+                    },
+                    {
+                        "description": "NYURZB",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/allalonegamez_rezal-nyurzb.png"
+                    },
+                    {
+                        "description": "VF62RM",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/allalonegamez_rezal-vf62rm.png"
+                    },
+                    {
+                        "description": "7MZMLQ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/allalonegamez_rezal-7mzmlq.png"
+                    },
+                    {
+                        "description": "NBK%2FDQ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/allalonegamez_rezal-nbk%2fdq.png"
+                    },
+                    {
+                        "description": "XEHHUA",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/allalonegamez_rezal-xehhua.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/allalonegamez_rezal/files/game.gb",
+                    "output": "/roms/gba/allalonegamez_rezal.gb"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "Jon Wingrove",
                 "category": [
                     "game"
@@ -316,7 +551,7 @@
                     "GBA"
                 ],
                 "description": "Alpha Wing is a top-down space shooter with 360 degree rotation, particle FX & zooming. Alpha Wing uses digital sound FX, and the 4 normal sound channels for stereo music. Alpha Wing has Deathmatch, CTF & survival modes.\nTags: event:gbax2003",
-                "icon_index": 8,
+                "icon_index": 13,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Alpha Wing",
@@ -355,7 +590,7 @@
                     "GBA"
                 ],
                 "description": "A Block Stacking Game for the GBA\nTags: Open Source, Puzzle\nhttps://akouzoukos.com/apotris",
-                "icon_index": 9,
+                "icon_index": 14,
                 "last updated": "2001-01-01",
                 "license": "GPL-3.0",
                 "title": "Apotris",
@@ -402,7 +637,7 @@
                     "GBA"
                 ],
                 "description": "GameBoy Advance terrain shooter game for the gbajam22\nTags: Action, gbajam22\nhttps://nuclear.itch.io/attack-on-voxelburg",
-                "icon_index": 10,
+                "icon_index": 15,
                 "last updated": "2022-10-31T23:43:00",
                 "license": "GPL-3.0-or-later",
                 "title": "Attack on Voxelburg",
@@ -449,7 +684,7 @@
                     "GBA"
                 ],
                 "description": "Aunt Flora has invited you to tea, but getting to her is going to be a challenge! You must push aside her things and weave your way through her mansion in this block-pushing puzzle game, based on the original by anna anthropy.\nTags: Puzzle",
-                "icon_index": 11,
+                "icon_index": 16,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Aunt Flora's Mansion (GBA Port)",
@@ -472,6 +707,96 @@
         },
         {
             "info": {
+                "author": "Ax",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Puzzle, Hex Based, Board Game, Retro, gbajam24\nhttps://axxxxe.itch.io/hex-advance",
+                "icon_index": 17,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Hex Advance",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/axxxxe_hex-advance-cover.png"
+                    },
+                    {
+                        "description": "J0O1%2BP",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/axxxxe_hex-advance-j0o1%2bp.png"
+                    },
+                    {
+                        "description": "X5JOU0",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/axxxxe_hex-advance-x5jou0.png"
+                    },
+                    {
+                        "description": "YGIBTD",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/axxxxe_hex-advance-ygibtd.png"
+                    },
+                    {
+                        "description": "%2BRAZEH",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/axxxxe_hex-advance-%2brazeh.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/axxxxe_hex-advance/files/Hex_Advance_0.3_jam.gba",
+                    "output": "/roms/gba/axxxxe_hex-advance.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "Basil Termini",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Puzzle, Homebrew, Pixel Art, gbajam24\nhttps://basil-termini.itch.io/2048-advance",
+                "icon_index": 18,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "2048 Advance",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/basil-termini_2048-advance-cover.png"
+                    },
+                    {
+                        "description": "BU2MYU",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/basil-termini_2048-advance-bu2myu.png"
+                    },
+                    {
+                        "description": "DIJ4DT",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/basil-termini_2048-advance-dij4dt.png"
+                    },
+                    {
+                        "description": "HLOZ2K",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/basil-termini_2048-advance-hloz2k.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/basil-termini_2048-advance/files/2048_jam.gba",
+                    "output": "/roms/gba/basil-termini_2048-advance.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "Werner Mendizabal",
                 "category": [
                     "game"
@@ -480,7 +805,7 @@
                     "GBA"
                 ],
                 "description": "Tags: event:gbax2003",
-                "icon_index": 12,
+                "icon_index": 19,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "BattleShip",
@@ -519,7 +844,7 @@
                     "GBA"
                 ],
                 "description": "Tags: event:gbax2003",
-                "icon_index": 13,
+                "icon_index": 20,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Beru",
@@ -550,6 +875,49 @@
         },
         {
             "info": {
+                "author": "Bipedal Studios",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Homebrew, Space, Aliens, Strategy, Retro, Pixel Art, Card Game, gbawinterjam25\nhttps://bipedal-studios.itch.io/galacard-advance",
+                "icon_index": 21,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Galacard Advance",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bipedal-studios_galacard-advance-cover.png"
+                    },
+                    {
+                        "description": "UUI290",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bipedal-studios_galacard-advance-uui290.png"
+                    },
+                    {
+                        "description": "NDUPHR",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bipedal-studios_galacard-advance-nduphr.png"
+                    },
+                    {
+                        "description": "SWFJXV",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bipedal-studios_galacard-advance-swfjxv.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/bipedal-studios_galacard-advance/files/Galacard_Advance.gba",
+                    "output": "/roms/gba/bipedal-studios_galacard-advance.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "Werner Mendizabal",
                 "category": [
                     "game"
@@ -558,7 +926,7 @@
                     "GBA"
                 ],
                 "description": "Tags: event:gbax2003",
-                "icon_index": 14,
+                "icon_index": 22,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Blocks",
@@ -597,7 +965,7 @@
                     "GBA"
                 ],
                 "description": "Tags: 2004Mbit",
-                "icon_index": 15,
+                "icon_index": 23,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Blocktrap",
@@ -620,6 +988,53 @@
         },
         {
             "info": {
+                "author": "BreadMakesYouFull",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Homebrew, demo, Educational, butano, gbajam24\nhttps://breadmakesyoufull.itch.io/gbadev-containers",
+                "icon_index": 24,
+                "last updated": "2001-01-01",
+                "license": "zlib License",
+                "title": "GBADEV Containers",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/breadmakesyoufull_gbadev-containers-cover.png"
+                    },
+                    {
+                        "description": "FQ5C4V",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/breadmakesyoufull_gbadev-containers-fq5c4v.png"
+                    },
+                    {
+                        "description": "R1XHMU",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/breadmakesyoufull_gbadev-containers-r1xhmu.png"
+                    },
+                    {
+                        "description": "UCHUBE",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/breadmakesyoufull_gbadev-containers-uchube.png"
+                    },
+                    {
+                        "description": "%2BQBKFJ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/breadmakesyoufull_gbadev-containers-%2bqbkfj.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/breadmakesyoufull_gbadev-containers/files/gbadev-containers_jam.gba",
+                    "output": "/roms/gba/breadmakesyoufull_gbadev-containers.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "fixxiefixx",
                 "category": [
                     "game"
@@ -628,7 +1043,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Adventure, gbajam21\nhttps://fixxiefixx.itch.io/bridge-quest",
-                "icon_index": 16,
+                "icon_index": 25,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Bridge quest",
@@ -663,7 +1078,7 @@
                     "GBA"
                 ],
                 "description": "Card-based Territory Control Tactics Game for GBA\nTags: Strategy, event:gbawinterjam23\nhttps://juzek.itch.io/brush-rush",
-                "icon_index": 17,
+                "icon_index": 26,
                 "last updated": "2023-02-22T13:39:00",
                 "license": "(not set)",
                 "title": "Brush Rush",
@@ -698,7 +1113,7 @@
                     "GBA"
                 ],
                 "description": "You're taking part in a Tetris clone development as a tester for some nerd cat programmers.\nTags: Puzzle, gbajam22\nhttps://notimplementedlife.itch.io/bugtris",
-                "icon_index": 18,
+                "icon_index": 27,
                 "last updated": "2022-11-17T16:13:00",
                 "license": "(not set)",
                 "title": "BugTris",
@@ -741,6 +1156,80 @@
         },
         {
             "info": {
+                "author": "Bump Dev",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Survival, Arena, Butano, 2D\nhttps://bump-dev.itch.io/hammer-smasher",
+                "icon_index": 28,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Hammer Smasher",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bump-dev_hammer-smasher-cover.png"
+                    },
+                    {
+                        "description": "4JSXP4",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bump-dev_hammer-smasher-4jsxp4.png"
+                    },
+                    {
+                        "description": "HWHYJJ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bump-dev_hammer-smasher-hwhyjj.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/bump-dev_hammer-smasher/files/hammer-smasher.gba",
+                    "output": "/roms/gba/bump-dev_hammer-smasher.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "Bump Dev",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Experimental, gbajam24\nhttps://bump-dev.itch.io/rolling-eggs",
+                "icon_index": 29,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Rolling Eggs",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bump-dev_rolling-eggs-cover.png"
+                    },
+                    {
+                        "description": "V7YR%2BZ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/bump-dev_rolling-eggs-v7yr%2bz.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/bump-dev_rolling-eggs/files/rolling-eggs_jam.gba",
+                    "output": "/roms/gba/bump-dev_rolling-eggs.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "GValiente",
                 "category": [
                     "game"
@@ -749,7 +1238,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, Butano, Shoot em up",
-                "icon_index": 19,
+                "icon_index": 30,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Butano Fighter",
@@ -788,7 +1277,7 @@
                     "GBA"
                 ],
                 "description": "Tags: event:gbax2003",
-                "icon_index": 20,
+                "icon_index": 31,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Carbie",
@@ -827,7 +1316,7 @@
                     "GBA"
                 ],
                 "description": "Entry for GBA Winter Jam '23. Only the title screen matters.\nTags: event:gbawinterjam23\nhttps://notimplementedlife.itch.io/cats-curse",
-                "icon_index": 21,
+                "icon_index": 32,
                 "last updated": "2023-02-18T18:32:00",
                 "license": "(not set)",
                 "title": "Cat's Curse",
@@ -862,6 +1351,41 @@
         },
         {
             "info": {
+                "author": "cereal fiend",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Platformer, gbawinterjam25\nhttps://cereal-fiend.itch.io/gba-jam-demo-dapoborage",
+                "icon_index": 33,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Dapoborage (GBA Winter Jam 2025)",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/cereal-fiend_gba-jam-demo-dapoborage-cover.png"
+                    },
+                    {
+                        "description": "ZI0SRS",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/cereal-fiend_gba-jam-demo-dapoborage-zi0srs.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/cereal-fiend_gba-jam-demo-dapoborage/files/gba1.gba",
+                    "output": "/roms/gba/cereal-fiend_gba-jam-demo-dapoborage.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "Lsh0426",
                 "category": [
                     "game"
@@ -870,7 +1394,7 @@
                     "GBA"
                 ],
                 "description": "Tags: RPG, gbajam22\nhttps://lsh0426.itch.io/chocolate-hunter-runa",
-                "icon_index": 22,
+                "icon_index": 34,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Chocolate Hunter Runa",
@@ -929,7 +1453,7 @@
                     "GBA"
                 ],
                 "description": "Tags: event:gbax2003",
-                "icon_index": 23,
+                "icon_index": 35,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Chopper",
@@ -964,7 +1488,7 @@
                     "GBA"
                 ],
                 "description": "A Fall Guys inspired 3D platformer obstacle course for the GBA.\nTags: Platform, gbajam22\nhttps://3dsage.itch.io/coin-fall",
-                "icon_index": 24,
+                "icon_index": 36,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Coin Fall (GBA Jam 2022)",
@@ -1011,7 +1535,7 @@
                     "GBA"
                 ],
                 "description": "Tags: event:gbax2003",
-                "icon_index": 25,
+                "icon_index": 37,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Coin Quest",
@@ -1050,7 +1574,7 @@
                     "GBA"
                 ],
                 "description": "New tower defence game for the Game Boy Advance! Protect your sheep!\nTags: Simulation, gbajam22\nhttps://xvayan.itch.io/collie-defence",
-                "icon_index": 26,
+                "icon_index": 38,
                 "last updated": "2022-11-01T04:31:00",
                 "license": "(not set)",
                 "title": "Collie Defence",
@@ -1093,6 +1617,61 @@
         },
         {
             "info": {
+                "author": "Sondre Agledahl",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Puzzle, Role Playing, Pixel Art, Top-Down, JRPG, Creepy, Comedy, Retro, Short, 2D, gbajam24\nhttps://colonelsalt.itch.io/zoink",
+                "icon_index": 39,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "World of Zoink",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/colonelsalt_zoink-cover.png"
+                    },
+                    {
+                        "description": "Y4KPWM",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/colonelsalt_zoink-y4kpwm.png"
+                    },
+                    {
+                        "description": "ML3JH2",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/colonelsalt_zoink-ml3jh2.png"
+                    },
+                    {
+                        "description": "M3PSJE",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/colonelsalt_zoink-m3psje.png"
+                    },
+                    {
+                        "description": "ZKKBW2",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/colonelsalt_zoink-zkkbw2.png"
+                    },
+                    {
+                        "description": "VF4DQI",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/colonelsalt_zoink-vf4dqi.png"
+                    },
+                    {
+                        "description": "UWMWPA",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/colonelsalt_zoink-uwmwpa.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/colonelsalt_zoink/files/WorldOfZoink_jam.gba",
+                    "output": "/roms/gba/colonelsalt_zoink.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "Joeri_R",
                 "category": [
                     "game"
@@ -1101,7 +1680,7 @@
                     "GBA"
                 ],
                 "description": "A singleplayer combo game. Find combos. (still in development)\nTags: Fighting, gba-winter-jam-2021\nhttps://joeri-r.itch.io/comboboy-v05-gba",
-                "icon_index": 27,
+                "icon_index": 40,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Comboboy v0.5 GBA",
@@ -1136,7 +1715,7 @@
                     "GBA"
                 ],
                 "description": "Tags: event:gbax2003",
-                "icon_index": 28,
+                "icon_index": 41,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Commando Advance",
@@ -1175,7 +1754,7 @@
                     "GBA"
                 ],
                 "description": "Title screen for grappling game.\nTags: event:gbawinterjam23\nhttps://nikku4211.itch.io/coquiman",
-                "icon_index": 29,
+                "icon_index": 42,
                 "last updated": "2023-02-22T21:02:00",
                 "license": "(not set)",
                 "title": "Coquiman",
@@ -1210,7 +1789,7 @@
                     "GBA"
                 ],
                 "description": "a lockdown simulator\nTags: Adventure, Visual Novel, gbajam21\nhttps://klomp.itch.io/covid-adventure",
-                "icon_index": 30,
+                "icon_index": 43,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Covid Adventure",
@@ -1245,7 +1824,7 @@
                     "GBA"
                 ],
                 "description": "1% of a game\nTags: Platform, gba-winter-jam-2021\nhttps://rakiex.itch.io/cryogenesis",
-                "icon_index": 31,
+                "icon_index": 44,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Cryogenesis",
@@ -1272,6 +1851,41 @@
         },
         {
             "info": {
+                "author": "Multiple authors",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Soundtoy, Music Production, Music, gbajam24\nhttps://cubellia.itch.io/cheesychords",
+                "icon_index": 45,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "CHEESYchords",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/cubellia_cheesychords-cover.png"
+                    },
+                    {
+                        "description": "9GZJ1Z",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/cubellia_cheesychords-9gzj1z.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/cubellia_cheesychords/files/CHEESYchords_jam.gba",
+                    "output": "/roms/gba/cubellia_cheesychords.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "Pyro_Pyro",
                 "category": [
                     "game"
@@ -1280,7 +1894,7 @@
                     "GBA"
                 ],
                 "description": "Tags: event:gbawinterjam23\nhttps://pyro-pyro.itch.io/cyber-rush",
-                "icon_index": 32,
+                "icon_index": 46,
                 "last updated": "2023-02-28T23:59:00",
                 "license": "(not set)",
                 "title": "Cyber Rush",
@@ -1315,7 +1929,7 @@
                     "GBA"
                 ],
                 "description": "Tags: event:gbax2003, Puzzle, Platform",
-                "icon_index": 33,
+                "icon_index": 47,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Dangerous Xmas",
@@ -1346,6 +1960,49 @@
         },
         {
             "info": {
+                "author": "Dippy0615",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Racing, Short, gbajam24\nhttps://dippy0615.itch.io/gba-grand-prix",
+                "icon_index": 48,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "GBA Grand Prix",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dippy0615_gba-grand-prix-cover.png"
+                    },
+                    {
+                        "description": "OPBOZN",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dippy0615_gba-grand-prix-opbozn.png"
+                    },
+                    {
+                        "description": "ZJXNRU",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dippy0615_gba-grand-prix-zjxnru.png"
+                    },
+                    {
+                        "description": "E3NHME",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dippy0615_gba-grand-prix-e3nhme.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dippy0615_gba-grand-prix/files/GBAGrandPrix_jam.gba",
+                    "output": "/roms/gba/dippy0615_gba-grand-prix.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "John Sensebe",
                 "category": [
                     "tool"
@@ -1354,7 +2011,7 @@
                     "GBA"
                 ],
                 "description": "Ditty Editor is an application that can produce chiptunes. ",
-                "icon_index": 34,
+                "icon_index": 49,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Ditty Editor",
@@ -1385,7 +2042,7 @@
                     "GBA"
                 ],
                 "description": "Find your furry friend and get outta there! [GBA]\nTags: Puzzle, event:gbawinterjam23\nhttps://e9-gba.itch.io/dog-discoverer-2",
-                "icon_index": 35,
+                "icon_index": 50,
                 "last updated": "2023-02-27T05:05:00",
                 "license": "(not set)",
                 "title": "Dog Discoverer 2",
@@ -1432,7 +2089,7 @@
                     "GBA"
                 ],
                 "description": "Dogs Game\nTags: event:gbawinterjam23\nhttps://opensourceart.itch.io/dogs-game",
-                "icon_index": 36,
+                "icon_index": 51,
                 "last updated": "2023-02-28T14:10:00",
                 "license": "(not set)",
                 "title": "Dogs Game",
@@ -1459,6 +2116,124 @@
         },
         {
             "info": {
+                "author": "Dreamnoid",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Action, Action-Adventure, Singleplayer, Homebrew, Pixel Art, Top-Down, zelda, 2D, Exploration, Fantasy, gbajam24\nhttps://dreamnoid.itch.io/aereven-advance",
+                "icon_index": 52,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Aereven Advance",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dreamnoid_aereven-advance-cover.png"
+                    },
+                    {
+                        "description": "%2FC%2BADE",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dreamnoid_aereven-advance-%2fc%2bade.png"
+                    },
+                    {
+                        "description": "QZMTQR",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dreamnoid_aereven-advance-qzmtqr.png"
+                    },
+                    {
+                        "description": "XZ6V9M",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dreamnoid_aereven-advance-xz6v9m.png"
+                    },
+                    {
+                        "description": "TABWMA",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dreamnoid_aereven-advance-tabwma.png"
+                    },
+                    {
+                        "description": "DZFULE",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dreamnoid_aereven-advance-dzfule.png"
+                    },
+                    {
+                        "description": "ZUIFNL",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dreamnoid_aereven-advance-zuifnl.png"
+                    },
+                    {
+                        "description": "2POPDC",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dreamnoid_aereven-advance-2popdc.png"
+                    },
+                    {
+                        "description": "CGYYCT",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dreamnoid_aereven-advance-cgyyct.png"
+                    },
+                    {
+                        "description": "OKRH52",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/dreamnoid_aereven-advance-okrh52.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/dreamnoid_aereven-advance/files/AerevenAdvance_jam.gba",
+                    "output": "/roms/gba/dreamnoid_aereven-advance.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "OutOfSync",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Action, Roguelite, Top-Down, Retro, Top down shooter, 2D, Shooter, Hacking, gbajam24\nhttps://drkylstein.itch.io/syscrusher",
+                "icon_index": 53,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Sys*Crusher",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/drkylstein_syscrusher-cover.png"
+                    },
+                    {
+                        "description": "WAV8BR",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/drkylstein_syscrusher-wav8br.png"
+                    },
+                    {
+                        "description": "5C3AP3",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/drkylstein_syscrusher-5c3ap3.png"
+                    },
+                    {
+                        "description": "PYIXMH",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/drkylstein_syscrusher-pyixmh.png"
+                    },
+                    {
+                        "description": "BXFIUO",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/drkylstein_syscrusher-bxfiuo.png"
+                    },
+                    {
+                        "description": "HZCJLO",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/drkylstein_syscrusher-hzcjlo.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/drkylstein_syscrusher/files/syscrusher_jam.gba",
+                    "output": "/roms/gba/drkylstein_syscrusher.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "phi1997",
                 "category": [
                     "game"
@@ -1467,7 +2242,7 @@
                     "GBA"
                 ],
                 "description": "A 2D platform built for GBA using gbsenpai\nTags: Platform, gbajam21\nhttps://phi1997.itch.io/dungeon-advance",
-                "icon_index": 37,
+                "icon_index": 54,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Dungeon Advance",
@@ -1510,7 +2285,7 @@
                     "GBA"
                 ],
                 "description": "Roguelike game for Game Boy Advance. Your goal is to get out of a dangerous dungeon. Several classes can be chosen to play the game: warrior, wizard, archer.  Each has its own characteristics as well as a pool of items. Will you be able to escape from the dungeon with a...\nSee release notes...",
-                "icon_index": 38,
+                "icon_index": 55,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Dungeon Master",
@@ -1549,6 +2324,65 @@
         },
         {
             "info": {
+                "author": "Multiple authors",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Adventure, 2D, Mystery, Story Rich, gbajam24\nhttps://eragnarok.itch.io/detective-monroe-murder-at-sea",
+                "icon_index": 56,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Detective Monroe: Murder at Sea",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/eragnarok_detective-monroe-murder-at-sea-cover.png"
+                    },
+                    {
+                        "description": "TCH5BL",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/eragnarok_detective-monroe-murder-at-sea-tch5bl.png"
+                    },
+                    {
+                        "description": "QB10XZ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/eragnarok_detective-monroe-murder-at-sea-qb10xz.png"
+                    },
+                    {
+                        "description": "DPS0XI",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/eragnarok_detective-monroe-murder-at-sea-dps0xi.png"
+                    },
+                    {
+                        "description": "NBY%2BDW",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/eragnarok_detective-monroe-murder-at-sea-nby%2bdw.png"
+                    },
+                    {
+                        "description": "MZKAEL",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/eragnarok_detective-monroe-murder-at-sea-mzkael.png"
+                    },
+                    {
+                        "description": "KGUDRL",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/eragnarok_detective-monroe-murder-at-sea-kgudrl.png"
+                    },
+                    {
+                        "description": "5HBR%2FH",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/eragnarok_detective-monroe-murder-at-sea-5hbr%2fh.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/eragnarok_detective-monroe-murder-at-sea/files/detective_monroe_murder_at_sea_jam.gba",
+                    "output": "/roms/gba/eragnarok_detective-monroe-murder-at-sea.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "E-Vinyl",
                 "category": [
                     "game"
@@ -1557,7 +2391,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Interactive Fiction, Adventure, event:gbawinterjam23\nhttps://e-vinyl.itch.io/escape-dhotel",
-                "icon_index": 39,
+                "icon_index": 57,
                 "last updated": "2023-02-27T18:53:00",
                 "license": "(not set)",
                 "title": "Escape D'Hotel",
@@ -1592,7 +2426,7 @@
                     "GBA"
                 ],
                 "description": "Ever wondered what its's like to be a cat?\nTags: Adventure, gbajam21\nhttps://foopod.itch.io/feline",
-                "icon_index": 40,
+                "icon_index": 58,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Feline",
@@ -1631,6 +2465,45 @@
         },
         {
             "info": {
+                "author": "Fighter19",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Pixel Art, Sprites, Arcade, Retro, Platformer, gbajam24\nhttps://fighter19.itch.io/ninja-tower",
+                "icon_index": 59,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Ninja Tower (Gameboy Advance)",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/fighter19_ninja-tower-cover.png"
+                    },
+                    {
+                        "description": "NMQ%2BPZ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/fighter19_ninja-tower-nmq%2bpz.png"
+                    },
+                    {
+                        "description": "%2FS%2FGDD",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/fighter19_ninja-tower-%2fs%2fgdd.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/fighter19_ninja-tower/files/tower_game_jam.gba",
+                    "output": "/roms/gba/fighter19_ninja-tower.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "ipatix",
                 "category": [
                     "game"
@@ -1639,7 +2512,7 @@
                     "GBA"
                 ],
                 "description": "Tags: gbajam21\nhttps://ipatix.itch.io/firemania",
-                "icon_index": 41,
+                "icon_index": 60,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Firemania",
@@ -1666,6 +2539,80 @@
         },
         {
             "info": {
+                "author": "fixxiefixx",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Shooter, Side Scroller, gbajam24\nhttps://fixxiefixx.itch.io/space-evangelion",
+                "icon_index": 61,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Space Evangelion",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/fixxiefixx_space-evangelion-cover.png"
+                    },
+                    {
+                        "description": "0U%2FMOW",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/fixxiefixx_space-evangelion-0u%2fmow.png"
+                    },
+                    {
+                        "description": "AIABQZ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/fixxiefixx_space-evangelion-aiabqz.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/fixxiefixx_space-evangelion/files/Space%20Evangelion_jam.gba",
+                    "output": "/roms/gba/fixxiefixx_space-evangelion.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "Fralacticus",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: gbajam24\nhttps://fralacticus.itch.io/bata-dubnos",
+                "icon_index": 62,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Bata Dubnos",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/fralacticus_bata-dubnos-cover.png"
+                    },
+                    {
+                        "description": "ZX8SIU",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/fralacticus_bata-dubnos-zx8siu.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/fralacticus_bata-dubnos/files/Bata_Dubnos_jam.gba",
+                    "output": "/roms/gba/fralacticus_bata-dubnos.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "squishyfrogs",
                 "category": [
                     "game"
@@ -1674,7 +2621,7 @@
                     "GBA"
                 ],
                 "description": "A GBA puzzle card game? I think?\nTags: Strategy, gba-winter-jam-2021\nhttps://squishyfrogs.itch.io/frost-princess",
-                "icon_index": 42,
+                "icon_index": 63,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Frost Princess (GBA Winter Jam 2021)",
@@ -1713,6 +2660,92 @@
         },
         {
             "info": {
+                "author": "frzit",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Homebrew, Demake, infinite-runner, Retro, gbawinterjam25\nhttps://frzit.itch.io/google-dino-advance",
+                "icon_index": 64,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Google Dino Advance",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/frzit_google-dino-advance-cover.png"
+                    },
+                    {
+                        "description": "FELH%2B5",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/frzit_google-dino-advance-felh%2b5.png"
+                    },
+                    {
+                        "description": "3SATZM",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/frzit_google-dino-advance-3satzm.png"
+                    },
+                    {
+                        "description": "8GJN%2BT",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/frzit_google-dino-advance-8gjn%2bt.png"
+                    },
+                    {
+                        "description": "PKW2EI",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/frzit_google-dino-advance-pkw2ei.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/frzit_google-dino-advance/files/Google-Dino-Advance.gba",
+                    "output": "/roms/gba/frzit_google-dino-advance.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "GalacticInsight",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Adventure, Survival, Dungeon Crawler, gbajam24\nhttps://galacticinsight.itch.io/healz-gba-jam",
+                "icon_index": 65,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Healz_gba_jam",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/galacticinsight_healz-gba-jam-cover.png"
+                    },
+                    {
+                        "description": "OMKCY2",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/galacticinsight_healz-gba-jam-omkcy2.png"
+                    },
+                    {
+                        "description": "UE%2FGWZ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/galacticinsight_healz-gba-jam-ue%2fgwz.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/galacticinsight_healz-gba-jam/files/Healz_jam.gba",
+                    "output": "/roms/gba/galacticinsight_healz-gba-jam.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "Hpmason",
                 "category": [
                     "game"
@@ -1721,7 +2754,7 @@
                     "GBA"
                 ],
                 "description": "Just a bouncing logo screen saver for your GBA\nTags: gbajam21\nhttps://hpmason.itch.io/gba-dvd-bounce",
-                "icon_index": 43,
+                "icon_index": 66,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "GBA DVD Bounce",
@@ -1756,7 +2789,7 @@
                     "GBA"
                 ],
                 "description": "The world's first MMO for the GameBoy Advance\nTags: RPG, gbajam21\nhttps://maciel310.itch.io/gba-mmo",
-                "icon_index": 44,
+                "icon_index": 67,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "GBA MMO",
@@ -1791,7 +2824,7 @@
                     "GBA"
                 ],
                 "description": "Stream a video (with audio) from one GBA to another one using the Link Cable in Normal Mode\nTags: gbajam21\nhttps://r-labs.itch.io/gba-remote-play",
-                "icon_index": 45,
+                "icon_index": 68,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "gba-remote-play demo",
@@ -1819,7 +2852,7 @@
                     "GBA"
                 ],
                 "description": "GBA demo inviting you to the GBA Jam 2022\nTags: gbajam22\nhttps://pmprog.itch.io/gbajam22invitro",
-                "icon_index": 46,
+                "icon_index": 69,
                 "last updated": "2022-07-30T22:03:00",
                 "license": "(not set)",
                 "title": "GBA Jam 2022 Invitro",
@@ -1850,7 +2883,7 @@
                     "GBA"
                 ],
                 "description": "Your invitation to the GBA Jam 2024!\nTags: event:gbajam24\nhttps://gbadev.itch.io/gbajam24invitro",
-                "icon_index": 47,
+                "icon_index": 70,
                 "last updated": "2024-05-12T00:48:00",
                 "license": "(not set)",
                 "title": "GBA Jam 2024 Invitro",
@@ -1881,7 +2914,7 @@
                     "GBA"
                 ],
                 "description": "Trick or treat! The GBA Microjam '23 is a spooky microgame collection for the Game Boy Advance created by the members of the gbadev.net community. If you've played WarioWare you'll know what to expect! (If you haven't... then heck, why not download it anyway and see wha...\nSee release notes...",
-                "icon_index": 48,
+                "icon_index": 71,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "GBA Microjam '23 game",
@@ -1932,7 +2965,7 @@
                     "GBA"
                 ],
                 "description": "Triangles with weird holes in them. Contains depictions of public transport.\nTags: gbajam21\nhttps://zeichensystem.itch.io/geburtstag",
-                "icon_index": 49,
+                "icon_index": 72,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "GeBurtstAg",
@@ -1983,7 +3016,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Simulation, gbajam22\nhttps://n67094.itch.io/gerbil-space-program",
-                "icon_index": 50,
+                "icon_index": 73,
                 "last updated": "2022-10-31T23:10:00",
                 "license": "(not set)",
                 "title": "Gerbil Space Program",
@@ -2030,7 +3063,7 @@
                     "GBA"
                 ],
                 "description": "3d sound demo on GBA\nTags: gbajam21\nhttps://brave-orakio.itch.io/ghost-train",
-                "icon_index": 51,
+                "icon_index": 74,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Ghost Train",
@@ -2065,7 +3098,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Simulation, gbajam22\nhttps://notimplementedlife.itch.io/glaciadungeon",
-                "icon_index": 52,
+                "icon_index": 75,
                 "last updated": "2022-11-08T05:42:00",
                 "license": "(not set)",
                 "title": "Glacia Dungeon",
@@ -2136,7 +3169,7 @@
                     "GBA"
                 ],
                 "description": "GBA Ponglike Game\nTags: Action, gbajam22\nhttps://bergasms.itch.io/gnoq",
-                "icon_index": 53,
+                "icon_index": 76,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "gnoq",
@@ -2171,7 +3204,7 @@
                     "GBA"
                 ],
                 "description": "A 3D 4 player split screen to compete against enemies on the Game Boy Advance.\nTags: Shooter, Survival, gbajam21\nhttps://3dsage.itch.io/goldengba",
-                "icon_index": 54,
+                "icon_index": 77,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "GoldenGBA",
@@ -2214,6 +3247,53 @@
         },
         {
             "info": {
+                "author": "Multiple authors",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Puzzle, 2D, Relaxing, gbajam24\nhttps://gordonshamway23.itch.io/zenf",
+                "icon_index": 78,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "ZenF",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gordonshamway23_zenf-cover.png"
+                    },
+                    {
+                        "description": "0HGBAB",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gordonshamway23_zenf-0hgbab.png"
+                    },
+                    {
+                        "description": "9V3XVU",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gordonshamway23_zenf-9v3xvu.png"
+                    },
+                    {
+                        "description": "YRBHAH",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gordonshamway23_zenf-yrbhah.png"
+                    },
+                    {
+                        "description": "TNOLXU",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gordonshamway23_zenf-tnolxu.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gordonshamway23_zenf/files/ZenF_jam.gba",
+                    "output": "/roms/gba/gordonshamway23_zenf.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "Tengukaze Studio",
                 "category": [
                     "game"
@@ -2222,7 +3302,7 @@
                     "GBA"
                 ],
                 "description": "GBA Survival RPG\nTags: Survival, Adventure, RPG, gbajam22\nhttps://tengukaze.itch.io/green-memories-gba",
-                "icon_index": 55,
+                "icon_index": 79,
                 "last updated": "2022-11-08T17:46:00",
                 "license": "(not set)",
                 "title": "Green Memories",
@@ -2253,6 +3333,104 @@
         },
         {
             "info": {
+                "author": "Gronis93",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Puzzle, Adventure, Action, Action-Adventure, Pixel Art, Top-Down, Retro, Top Down Adventure, Fantasy, gbajam24\nhttps://gronis93.itch.io/project-pag",
+                "icon_index": 80,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Project: PAG - Tech Demo",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gronis93_project-pag-cover.png"
+                    },
+                    {
+                        "description": "TXVMOS",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gronis93_project-pag-txvmos.png"
+                    },
+                    {
+                        "description": "W7UVEE",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gronis93_project-pag-w7uvee.png"
+                    },
+                    {
+                        "description": "AQ6IQP",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gronis93_project-pag-aq6iqp.png"
+                    },
+                    {
+                        "description": "8CMOOO",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gronis93_project-pag-8cmooo.png"
+                    },
+                    {
+                        "description": "RPFZQG",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gronis93_project-pag-rpfzqg.png"
+                    },
+                    {
+                        "description": "YLTK2I",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/gronis93_project-pag-yltk2i.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/gronis93_project-pag/files/Project_PAG_Jam24_v0.1.1.gba",
+                    "output": "/roms/gba/gronis93_project-pag.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "Multiple authors",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Puzzle-Platformer, Platformer, gbajam24\nhttps://hell-labs.itch.io/pheasant-gbajam24",
+                "icon_index": 81,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Getting Around It with Pheasant Birdy",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/hell-labs_pheasant-gbajam24-cover.png"
+                    },
+                    {
+                        "description": "1VODP%2B",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/hell-labs_pheasant-gbajam24-1vodp%2b.png"
+                    },
+                    {
+                        "description": "D6CXYJ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/hell-labs_pheasant-gbajam24-d6cxyj.png"
+                    },
+                    {
+                        "description": "SID4AV",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/hell-labs_pheasant-gbajam24-sid4av.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/hell-labs_pheasant-gbajam24/files/pheasant_jam.gba",
+                    "output": "/roms/gba/hell-labs_pheasant-gbajam24.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "evanbowman",
                 "category": [
                     "game"
@@ -2261,7 +3439,7 @@
                     "GBA"
                 ],
                 "description": "A port of Daniel Remar's Hero Core for GBA\nTags: gbajam22\nhttps://evanbowman.itch.io/hero-core-gba-port",
-                "icon_index": 56,
+                "icon_index": 82,
                 "last updated": "2022-10-30T13:47:00",
                 "license": "(not set)",
                 "title": "Hero Core GBA port",
@@ -2304,7 +3482,7 @@
                     "GBA"
                 ],
                 "description": "The fast-paced puzzle shoot'em up!\nTags: Shooter, Puzzle, gbajam22\nhttps://kaleidosium.itch.io/hexes",
-                "icon_index": 57,
+                "icon_index": 83,
                 "last updated": "2022-10-30T10:59:00",
                 "license": "(not set)",
                 "title": "HEXES",
@@ -2343,7 +3521,7 @@
                     "GBA"
                 ],
                 "description": "Gameboy Advanced game for the GBA Winter Jam 2021\nTags: Adventure, Puzzle, RPG, gba-winter-jam-2021\nhttps://jloppnowgames.itch.io/ice-skater",
-                "icon_index": 58,
+                "icon_index": 84,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Ice Skater GBA",
@@ -2386,7 +3564,7 @@
                     "GBA"
                 ],
                 "description": "Regain a lost legacy in this first-person dungeon crawl RPG for the GameBoy Advance.\nTags: RPG, gbajam21\nhttps://mahoushoujomagicalmoestar.itch.io/inheritors-of-the-oubliette",
-                "icon_index": 59,
+                "icon_index": 85,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Inheritors of the Oubliette",
@@ -2437,7 +3615,7 @@
                     "GBA"
                 ],
                 "description": "Help Inky escape captivity by solving block pushing puzzles. Demo of full game.\nTags: Puzzle",
-                "icon_index": 60,
+                "icon_index": 86,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Inky and the Alien Aquarium DEMO",
@@ -2468,6 +3646,49 @@
         },
         {
             "info": {
+                "author": "Issung",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Puzzle, gbajam, Time Attack, gbajam24\nhttps://issung.itch.io/gematrix",
+                "icon_index": 87,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "GEMATRIX",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/issung_gematrix-cover.png"
+                    },
+                    {
+                        "description": "X%2F1ISG",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/issung_gematrix-x%2f1isg.png"
+                    },
+                    {
+                        "description": "ASDSTL",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/issung_gematrix-asdstl.png"
+                    },
+                    {
+                        "description": "%2F0NOPH",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/issung_gematrix-%2f0noph.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/issung_gematrix/files/GematrixV1_jam.gba",
+                    "output": "/roms/gba/issung_gematrix.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "Jayro Jones",
                 "category": [
                     "game"
@@ -2476,7 +3697,7 @@
                     "GBA"
                 ],
                 "description": "Test your GBAâ¢ LCD hardware!\nTags: gbajam21\nhttps://jayrojones.itch.io/jayros-gba-video-test-cartridge",
-                "icon_index": 61,
+                "icon_index": 88,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Jayro's GBAâ¢ VIDEO Test Cartridge v1.0",
@@ -2547,6 +3768,257 @@
         },
         {
             "info": {
+                "author": "jeffzzq",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Pixel Art, Visual Novel, Retro, Story Rich, Dating Sim, Relaxing, Working Simulator, Cute, Anime, gbajam24\nhttps://jeffzzq.itch.io/work-life",
+                "icon_index": 89,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Work Life",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeffzzq_work-life-cover.png"
+                    },
+                    {
+                        "description": "9FLPTM",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeffzzq_work-life-9flptm.png"
+                    },
+                    {
+                        "description": "FICLQD",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeffzzq_work-life-ficlqd.png"
+                    },
+                    {
+                        "description": "E8G7I3",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeffzzq_work-life-e8g7i3.png"
+                    },
+                    {
+                        "description": "ZST4PO",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeffzzq_work-life-zst4po.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jeffzzq_work-life/files/Work_Life_jam.gba",
+                    "output": "/roms/gba/jeffzzq_work-life.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "Jenka Lab",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Action, Homebrew, Pixel Art, Runner, Retro, 2D, Indie, 16-bit, gbajam24\nhttps://jenkalab.itch.io/toll-runner",
+                "icon_index": 90,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Toll Runner",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jenkalab_toll-runner-cover.png"
+                    },
+                    {
+                        "description": "EGC%2FUD",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jenkalab_toll-runner-egc%2fud.png"
+                    },
+                    {
+                        "description": "L1FTN%2B",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jenkalab_toll-runner-l1ftn%2b.png"
+                    },
+                    {
+                        "description": "CHLPLI",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jenkalab_toll-runner-chlpli.png"
+                    },
+                    {
+                        "description": "6MEDSV",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jenkalab_toll-runner-6medsv.png"
+                    },
+                    {
+                        "description": "LQ7VTN",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jenkalab_toll-runner-lq7vtn.png"
+                    },
+                    {
+                        "description": "KYXS1T",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jenkalab_toll-runner-kyxs1t.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jenkalab_toll-runner/files/tollrunner-demo2.gba",
+                    "output": "/roms/gba/jenkalab_toll-runner.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "Jeremy Elkayam",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Singleplayer, Pixel Art, Action RPG, Mechs, Platformer, gbajam24\nhttps://jeremyelkayam.itch.io/globlins",
+                "icon_index": 91,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Globlins!",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeremyelkayam_globlins-cover.png"
+                    },
+                    {
+                        "description": "SOLSWU",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeremyelkayam_globlins-solswu.png"
+                    },
+                    {
+                        "description": "ANSVNN",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeremyelkayam_globlins-ansvnn.png"
+                    },
+                    {
+                        "description": "JHGAMY",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeremyelkayam_globlins-jhgamy.png"
+                    },
+                    {
+                        "description": "J9D0UN",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeremyelkayam_globlins-j9d0un.png"
+                    },
+                    {
+                        "description": "3HXCEW",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeremyelkayam_globlins-3hxcew.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jeremyelkayam_globlins/files/GLOBLINS_MAGDEMO_JAN23.gba",
+                    "output": "/roms/gba/jeremyelkayam_globlins.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "Jeremy Elkayam",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: trogdor, videlectrix, Open Source, strong-bad, Fangame, Arcade, Retro, Action, homestar-runner, gbawinterjam25\nhttps://jeremyelkayam.itch.io/trogba",
+                "icon_index": 92,
+                "last updated": "2001-01-01",
+                "license": "MIT License",
+                "title": "Trogdor for Game Boy Advance",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeremyelkayam_trogba-cover.png"
+                    },
+                    {
+                        "description": "IYQSUA",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeremyelkayam_trogba-iyqsua.png"
+                    },
+                    {
+                        "description": "XQR6BY",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeremyelkayam_trogba-xqr6by.png"
+                    },
+                    {
+                        "description": "ZPUTC7",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeremyelkayam_trogba-zputc7.png"
+                    },
+                    {
+                        "description": "AOLYR3",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeremyelkayam_trogba-aolyr3.png"
+                    },
+                    {
+                        "description": "9JHMH2",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/jeremyelkayam_trogba-9jhmh2.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/jeremyelkayam_trogba/files/trogba.gba",
+                    "output": "/roms/gba/jeremyelkayam_trogba.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "João Baptista",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Adventure, 2D, Pixel Art, gbajam24\nhttps://joaobapt.itch.io/rushed-adventure",
+                "icon_index": 93,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Rushed Adventure!",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/joaobapt_rushed-adventure-cover.png"
+                    },
+                    {
+                        "description": "DVDBAW",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/joaobapt_rushed-adventure-dvdbaw.png"
+                    },
+                    {
+                        "description": "UIVM%2F7",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/joaobapt_rushed-adventure-uivm%2f7.png"
+                    },
+                    {
+                        "description": "2C2M2C",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/joaobapt_rushed-adventure-2c2m2c.png"
+                    },
+                    {
+                        "description": "E8QSGX",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/joaobapt_rushed-adventure-e8qsgx.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/joaobapt_rushed-adventure/files/rushed_adventure_jam.gba",
+                    "output": "/roms/gba/joaobapt_rushed-adventure.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "allalonegamez",
                 "category": [
                     "game"
@@ -2555,7 +4027,7 @@
                     "GBA"
                 ],
                 "description": "A Hard Platformer.\nTags: Platform, gbajam22\nhttps://allalonegamez.itch.io/jump-kid",
-                "icon_index": 62,
+                "icon_index": 94,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Jump Kid",
@@ -2606,7 +4078,7 @@
                     "GBA"
                 ],
                 "description": "A short horror game\nTags: Survival, gbajam22\nhttps://brave-orakio.itch.io/kankandara-no-moriforest-of-the-kankandara",
-                "icon_index": 63,
+                "icon_index": 95,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Kankandara no Mori(Forest of the Kankandara)",
@@ -2637,6 +4109,104 @@
         },
         {
             "info": {
+                "author": "Colin EUMP",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Action-Adventure, hololive, Homebrew, Fangame, Retro, 2D, Cute, Platformer, gbajam24\nhttps://kimiyoribaka.itch.io/trials-of-chaos",
+                "icon_index": 96,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Trials of Chaos",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/kimiyoribaka_trials-of-chaos-cover.png"
+                    },
+                    {
+                        "description": "FBQOZH",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/kimiyoribaka_trials-of-chaos-fbqozh.png"
+                    },
+                    {
+                        "description": "J%2FRIHD",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/kimiyoribaka_trials-of-chaos-j%2frihd.png"
+                    },
+                    {
+                        "description": "ZSAGX4",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/kimiyoribaka_trials-of-chaos-zsagx4.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/kimiyoribaka_trials-of-chaos/files/chaos.gba",
+                    "output": "/roms/gba/kimiyoribaka_trials-of-chaos.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "klokpack6ix",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Action, gbajam24\nhttps://klokpack6ix.itch.io/gamepack6ix",
+                "icon_index": 97,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "GamePack6ix",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/klokpack6ix_gamepack6ix-cover.png"
+                    },
+                    {
+                        "description": "6RUAKJ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/klokpack6ix_gamepack6ix-6ruakj.png"
+                    },
+                    {
+                        "description": "TN4KRJ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/klokpack6ix_gamepack6ix-tn4krj.png"
+                    },
+                    {
+                        "description": "CUMECG",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/klokpack6ix_gamepack6ix-cumecg.png"
+                    },
+                    {
+                        "description": "0CQQK9",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/klokpack6ix_gamepack6ix-0cqqk9.png"
+                    },
+                    {
+                        "description": "J4NGPX",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/klokpack6ix_gamepack6ix-j4ngpx.png"
+                    },
+                    {
+                        "description": "YD1MVW",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/klokpack6ix_gamepack6ix-yd1mvw.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/klokpack6ix_gamepack6ix/files/gamepack6ix_jam.gba",
+                    "output": "/roms/gba/klokpack6ix_gamepack6ix.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "blaise-rascal",
                 "category": [
                     "game"
@@ -2645,7 +4215,7 @@
                     "GBA"
                 ],
                 "description": "Roguelike strategy game for GBA with a push-your-luck mechanic\nTags: Strategy, Card Game, gbajam21\nhttps://blaise-rascal.itch.io/knight-owls",
-                "icon_index": 64,
+                "icon_index": 98,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Knight Owls",
@@ -2692,7 +4262,7 @@
                     "GBA"
                 ],
                 "description": "It's just the title screen from \"Knytt Stories\"\nTags: event:gbawinterjam23\nhttps://exelotl.itch.io/knyttle-screen",
-                "icon_index": 65,
+                "icon_index": 99,
                 "last updated": "2023-02-28T23:56:00",
                 "license": "(not set)",
                 "title": "Knyttle Screen",
@@ -2719,6 +4289,72 @@
         },
         {
             "info": {
+                "author": "koutarou",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Simulation, Pixel Art, gbajam24\nhttps://koutarou.itch.io/rsim",
+                "icon_index": 100,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "RSim",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/koutarou_rsim-cover.png"
+                    },
+                    {
+                        "description": "SEKXK6",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/koutarou_rsim-sekxk6.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/koutarou_rsim/files/rsim_jam.gba",
+                    "output": "/roms/gba/koutarou_rsim.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "krnlyng",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: counter, tcg, life-counter, Magic, Card Game, life, gbajam24\nhttps://krnlyng.itch.io/magicboy-advance",
+                "icon_index": 101,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "MagicBoy Advance",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/krnlyng_magicboy-advance-cover.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/krnlyng_magicboy-advance/files/magicboy-advance.gba",
+                    "output": "/roms/gba/krnlyng_magicboy-advance.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "Karoubi Vincent, Laurent Arnaud",
                 "category": [
                     "tool"
@@ -2727,7 +4363,7 @@
                     "GBA"
                 ],
                 "description": "LabSound is a Game Boy Advanced music creation project that aims to awaken the artist in all of us. With a design similar to FL Studio or eJay, it allows you to compose your own sound loops, whether or not accompanied by catchy rhythms. Anyone can produce a complete mus...\nSee release notes...",
-                "icon_index": 66,
+                "icon_index": 102,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Lab Sound GBA",
@@ -2758,7 +4394,7 @@
                     "GBA"
                 ],
                 "description": "âA card game about pushing lanes\nTags: Card Game, gbajam22\nhttps://setsquare.itch.io/lane",
-                "icon_index": 67,
+                "icon_index": 103,
                 "last updated": "2022-10-31T19:48:00",
                 "license": "(not set)",
                 "title": "Lane",
@@ -2797,7 +4433,7 @@
                     "GBA"
                 ],
                 "description": "Tags: RPG, event:gbawinterjam23\nhttps://chickendude.itch.io/last-leaves-of-hilserre",
-                "icon_index": 68,
+                "icon_index": 104,
                 "last updated": "2023-02-27T23:15:00",
                 "license": "(not set)",
                 "title": "Last Leaves of Hilserre",
@@ -2832,7 +4468,7 @@
                     "GBA"
                 ],
                 "description": "Racing is better with four wheels!\nTags: Racing, gba-winter-jam-2021\nhttps://chickendude.itch.io/lau-gurpil",
-                "icon_index": 69,
+                "icon_index": 105,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Lau Gurpil",
@@ -2867,7 +4503,7 @@
                     "GBA"
                 ],
                 "description": "a gba game\nTags: gbajam21\nhttps://liang-guangyu.itch.io/legend-of-holy-sword",
-                "icon_index": 70,
+                "icon_index": 106,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Legend of holy sword",
@@ -2927,7 +4563,7 @@
                     "GBA"
                 ],
                 "description": "Expertly retrieve important luggage that has found it's way onto the wrong flight.\nTags: Puzzle, gba-winter-jam-2021\nhttps://foopod.itch.io/lro",
-                "icon_index": 71,
+                "icon_index": 107,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "LRO - Luggage Retrieval Officer",
@@ -2966,6 +4602,57 @@
         },
         {
             "info": {
+                "author": "Luife",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Adventure, 2D, Pixel Art, Undertale, GBJam, gbajam24\nhttps://luife.itch.io/happy-dawn",
+                "icon_index": 108,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Happy Dawn",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/luife_happy-dawn-cover.png"
+                    },
+                    {
+                        "description": "DUTOHA",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/luife_happy-dawn-dutoha.png"
+                    },
+                    {
+                        "description": "NFUYSI",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/luife_happy-dawn-nfuysi.png"
+                    },
+                    {
+                        "description": "NH%2BXLY",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/luife_happy-dawn-nh%2bxly.png"
+                    },
+                    {
+                        "description": "YQ8SPC",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/luife_happy-dawn-yq8spc.png"
+                    },
+                    {
+                        "description": "ZCP%2FDJ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/luife_happy-dawn-zcp%2fdj.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/luife_happy-dawn/files/HappyDawn_jam.gba",
+                    "output": "/roms/gba/luife_happy-dawn.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "pmprog, shallan50k, maze/dsr",
                 "category": [
                     "game"
@@ -2974,7 +4661,7 @@
                     "GBA"
                 ],
                 "description": "Luma is a laser based sliding puzzle game for the GBA. Slide batteries, lasers and mirrors around to light the targets within the given shift count. With 128 levels Luma will keep you occupied for hours and test your puzzling skills to the max. Play in Normal mode and t...\nSee release notes...",
-                "icon_index": 72,
+                "icon_index": 109,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Luma",
@@ -3013,6 +4700,41 @@
         },
         {
             "info": {
+                "author": "Menaced",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Action, Pixel Art, GBJam, 2D, gbajam, gbajam24\nhttps://menaced.itch.io/gba-survivors",
+                "icon_index": 110,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "GBA Survivors",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/menaced_gba-survivors-cover.png"
+                    },
+                    {
+                        "description": "QCPJMR",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/menaced_gba-survivors-qcpjmr.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/menaced_gba-survivors/files/Survivors.gba",
+                    "output": "/roms/gba/menaced_gba-survivors.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "Dr. Ludos",
                 "category": [
                     "game"
@@ -3021,7 +4743,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Action, gbajam21\nhttps://drludos.itch.io/meteorain-gba-jam-2021",
-                "icon_index": 73,
+                "icon_index": 111,
                 "last updated": "2001-01-01",
                 "license": "MIT",
                 "title": "MeteoRain (GBA Jam 2021)",
@@ -3064,7 +4786,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Survival, gbajam22\nhttps://sulsadood.itch.io/mineboyadvance",
-                "icon_index": 74,
+                "icon_index": 112,
                 "last updated": "2022-10-28T17:04:00",
                 "license": "(not set)",
                 "title": "MineBoyAdvance",
@@ -3107,7 +4829,7 @@
                     "GBA"
                 ],
                 "description": "Tags: gbajam22\nhttps://dewbone3.itch.io/minesweeper-battle",
-                "icon_index": 75,
+                "icon_index": 113,
                 "last updated": "2022-10-31T22:46:00",
                 "license": "(not set)",
                 "title": "Minesweeper Battle",
@@ -3142,7 +4864,7 @@
                     "GBA"
                 ],
                 "description": "",
-                "icon_index": 76,
+                "icon_index": 114,
                 "last updated": "2022-11-19T14:09:56Z",
                 "license": "GPL-3.0-or-later",
                 "title": "Minicraft for GBA",
@@ -3177,6 +4899,61 @@
         },
         {
             "info": {
+                "author": "Daniel \"MontyOnTheRun\" Monteiro",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Adventure, Role Playing, Homebrew, First-Person, MS-DOS, Dungeon Crawler, 3D, maemo, gbajam24\nhttps://montyontherun.itch.io/tragedy-of-the-uncanny",
+                "icon_index": 115,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Tragedy of the Uncanny",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/montyontherun_tragedy-of-the-uncanny-cover.png"
+                    },
+                    {
+                        "description": "5WDLTT",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/montyontherun_tragedy-of-the-uncanny-5wdltt.png"
+                    },
+                    {
+                        "description": "ZYCG5I",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/montyontherun_tragedy-of-the-uncanny-zycg5i.png"
+                    },
+                    {
+                        "description": "YTB9QZ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/montyontherun_tragedy-of-the-uncanny-ytb9qz.png"
+                    },
+                    {
+                        "description": "MKG5CL",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/montyontherun_tragedy-of-the-uncanny-mkg5cl.png"
+                    },
+                    {
+                        "description": "2DEJNG",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/montyontherun_tragedy-of-the-uncanny-2dejng.png"
+                    },
+                    {
+                        "description": "RG8E98",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/montyontherun_tragedy-of-the-uncanny-rg8e98.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/montyontherun_tragedy-of-the-uncanny/files/tragedy_jam.gba",
+                    "output": "/roms/gba/montyontherun_tragedy-of-the-uncanny.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "Didou",
                 "category": [
                     "game"
@@ -3185,7 +4962,7 @@
                     "GBA"
                 ],
                 "description": "Tags: 2004Mbit",
-                "icon_index": 77,
+                "icon_index": 116,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Motus Advance",
@@ -3241,7 +5018,7 @@
                     "GBA"
                 ],
                 "description": "an undead roguelike for the GBA\nTags: gbajam21\nhttps://jehoz.itch.io/necropolis",
-                "icon_index": 78,
+                "icon_index": 117,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Necropolis",
@@ -3276,6 +5053,31 @@
         },
         {
             "info": {
+                "author": "nicolejorn",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Interactive Fiction, 2D, Pixel Art, gbajam24\nhttps://nicolejorn.itch.io/sook",
+                "icon_index": 0,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Sook",
+                "version": "(not set)",
+                "releasenotes": ""
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/nicolejorn_sook/files/sook_jam.gba",
+                    "output": "/roms/gba/nicolejorn_sook.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "brave_orakio",
                 "category": [
                     "game"
@@ -3284,7 +5086,7 @@
                     "GBA"
                 ],
                 "description": "Just a screen... for now.\nTags: event:gbawinterjam23\nhttps://brave-orakio.itch.io/night-duty",
-                "icon_index": 79,
+                "icon_index": 118,
                 "last updated": "2023-02-25T20:08:00",
                 "license": "(not set)",
                 "title": "Night Duty",
@@ -3319,7 +5121,7 @@
                     "GBA"
                 ],
                 "description": "chill analog-styled agb picross\nTags: Puzzle, gbajam22\nhttps://kva64.itch.io/notenogram",
-                "icon_index": 80,
+                "icon_index": 119,
                 "last updated": "2022-10-30T21:37:00",
                 "license": "(not set)",
                 "title": "notenogram",
@@ -3354,7 +5156,7 @@
                     "GBA"
                 ],
                 "description": "A post-apocolyptic dating sim for the GBA\nTags: Visual Novel, gbajam22\nhttps://foopod.itch.io/nuclear-love",
-                "icon_index": 81,
+                "icon_index": 120,
                 "last updated": "2022-10-31T21:59:00",
                 "license": "(not set)",
                 "title": "Nuclear Love",
@@ -3401,7 +5203,7 @@
                     "GBA"
                 ],
                 "description": "War of the Space Hockey pucks\nTags: Action, gbajam21\nhttps://gregor-m-cameron.itch.io/nuthouse",
-                "icon_index": 82,
+                "icon_index": 121,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Nuthouse",
@@ -3440,7 +5242,7 @@
                     "GBA"
                 ],
                 "description": "retro arcade collectathon prototype\nTags: event:gbawinterjam23\nhttps://kva64.itch.io/one-coin-arcade",
-                "icon_index": 83,
+                "icon_index": 122,
                 "last updated": "2023-02-28T03:06:00",
                 "license": "(not set)",
                 "title": "One Coin Arcade",
@@ -3492,6 +5294,80 @@
         },
         {
             "info": {
+                "author": "origamiscienceguy",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Turn-based Strategy, Retro, Strategy, gbajam24\nhttps://origamiscienceguy.itch.io/galactic-quest",
+                "icon_index": 123,
+                "last updated": "2001-01-01",
+                "license": "GNU General Public License v3.0 (GPL)",
+                "title": "Galactic Quest",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/origamiscienceguy_galactic-quest-cover.png"
+                    },
+                    {
+                        "description": "MVM6NJ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/origamiscienceguy_galactic-quest-mvm6nj.png"
+                    },
+                    {
+                        "description": "%2BNL4P5",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/origamiscienceguy_galactic-quest-%2bnl4p5.png"
+                    },
+                    {
+                        "description": "%2BINT22",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/origamiscienceguy_galactic-quest-%2bint22.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/origamiscienceguy_galactic-quest/files/Galactic_Quest_jam.gba",
+                    "output": "/roms/gba/origamiscienceguy_galactic-quest.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "p34r",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Action, Space, Asteroids, gbajam24\nhttps://p34r.itch.io/gba-asteroids",
+                "icon_index": 124,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "GBA Asteroids",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/p34r_gba-asteroids-cover.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/p34r_gba-asteroids/files/asteroids_jam.gba",
+                    "output": "/roms/gba/p34r_gba-asteroids.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "pyroceper",
                 "category": [
                     "game"
@@ -3500,7 +5376,7 @@
                     "GBA"
                 ],
                 "description": "A WiP tactics game for the GBA\nTags: Strategy, gbajam22\nhttps://pyroceper.itch.io/pathfinder-demo",
-                "icon_index": 84,
+                "icon_index": 125,
                 "last updated": "2022-10-31T22:51:00",
                 "license": "(not set)",
                 "title": "Pathfinder Demo",
@@ -3543,7 +5419,7 @@
                     "GBA"
                 ],
                 "description": "Puzzle game for Game Boy Advance, developed for GBA Jam 2021\nTags: Puzzle, gbajam21\nhttps://hippydave.itch.io/pipespin",
-                "icon_index": 85,
+                "icon_index": 126,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "PipeSpin",
@@ -3586,7 +5462,7 @@
                     "GBA"
                 ],
                 "description": "A Pump It Up simulator for the GBA that plays SSC charts from StepMania\nTags: Open Source, Action\nhttps://discord.com/invite/JE33cc2",
-                "icon_index": 86,
+                "icon_index": 127,
                 "last updated": "2020-08-30",
                 "license": "MIT",
                 "title": "piuGBA (demo)",
@@ -3637,7 +5513,7 @@
                     "GBA"
                 ],
                 "description": "A simple paint app for the Gameboy Advance\nTags: gbajam22\nhttps://jroatch.itch.io/pocket-paint-gba",
-                "icon_index": 87,
+                "icon_index": 128,
                 "last updated": "2022-10-30T21:08:00",
                 "license": "(not set)",
                 "title": "Pocket Paint",
@@ -3676,7 +5552,7 @@
                     "GBA"
                 ],
                 "description": "PocketFlute is a small application made with Ham 2.8 that allows you to play a virtual flute on your GBA, while seeing its music score.",
-                "icon_index": 88,
+                "icon_index": 129,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "PocketFlute",
@@ -3699,6 +5575,107 @@
         },
         {
             "info": {
+                "author": "Pogosaur",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Action, gbajam24\nhttps://pogosaur.itch.io/oggo-boggo",
+                "icon_index": 130,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Oggo Boggo",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pogosaur_oggo-boggo-cover.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pogosaur_oggo-boggo/files/oggoboggo_jam.gba",
+                    "output": "/roms/gba/pogosaur_oggo-boggo.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "Multiple authors",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Action, Pixel Art, Endless, Arcade, Aliens, Retro, gbajam24\nhttps://pyro-pyro.itch.io/sekhmets-playground",
+                "icon_index": 131,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Sekhmet's Playground",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pyro-pyro_sekhmets-playground-cover.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pyro-pyro_sekhmets-playground/files/SekhmetsPlayground_jam.gba",
+                    "output": "/roms/gba/pyro-pyro_sekhmets-playground.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "Pyrochrome@itch",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Virtual Pet, 2D, Pixel Art, Simulation, gbajam24\nhttps://pyrochromeitch.itch.io/raiseapet",
+                "icon_index": 132,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Raise A Pet",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pyrochromeitch_raiseapet-cover.png"
+                    },
+                    {
+                        "description": "EUHW8L",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pyrochromeitch_raiseapet-euhw8l.png"
+                    },
+                    {
+                        "description": "YGYGR5",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/pyrochromeitch_raiseapet-ygygr5.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/pyrochromeitch_raiseapet/files/RaiseAPet_jam.gba",
+                    "output": "/roms/gba/pyrochromeitch_raiseapet.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "LarkSkwared",
                 "category": [
                     "game"
@@ -3707,7 +5684,7 @@
                     "GBA"
                 ],
                 "description": "Try to evade the quantum rocks.\nTags: gbajam21\nhttps://larkskwared.itch.io/quantum-sruvival",
-                "icon_index": 89,
+                "icon_index": 133,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Quantum Survival",
@@ -3742,7 +5719,7 @@
                     "GBA"
                 ],
                 "description": "Portal + Sokoban + Demons\nTags: Puzzle, gbajam22\nhttps://allalonegamez.itch.io/ravenia",
-                "icon_index": 90,
+                "icon_index": 134,
                 "last updated": "2022-10-31T16:58:00",
                 "license": "(not set)",
                 "title": "Ravenia",
@@ -3793,7 +5770,7 @@
                     "GBA"
                 ],
                 "description": "Reaper GBA Demake\nTags: Action, gbajam21\nhttps://greatheart-games.itch.io/reaper-gba-demake",
-                "icon_index": 91,
+                "icon_index": 135,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Reaper GBA Demake",
@@ -3844,7 +5821,7 @@
                     "GBA"
                 ],
                 "description": "A 7 channels, 16step sample based sequencer for the Gameboy Advance.\nTags: Sequencer\nhttp://www.untergrund.net/",
-                "icon_index": 92,
+                "icon_index": 136,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "ReBoy",
@@ -3875,7 +5852,7 @@
                     "GBA"
                 ],
                 "description": "A platformer, where you make a song. Jump around :)\nTags: Platform, Adventure, gbajam21\nhttps://screv69.itch.io/sassafras-the-game",
-                "icon_index": 93,
+                "icon_index": 137,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "SASSAFRAS THE GAME",
@@ -3922,7 +5899,7 @@
                     "GBA"
                 ],
                 "description": "Watch and read a clucking fun story on the Game Boy Advance!\nTags: gbajam21\nhttps://sawyer-ique.itch.io/sawyers-stories-time-for-the-chickens-to-go-to-sleep",
-                "icon_index": 94,
+                "icon_index": 138,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Sawyer's Stories: Time for The Chickens to go to Sleep (Game Boy Advance)",
@@ -3965,7 +5942,7 @@
                     "GBA"
                 ],
                 "description": "An original roguelike for the Gameboy Advance (GBA)\nTags: Action, gba-winter-jam-2021\nhttps://akouzoukos.itch.io/scrollsoffire",
-                "icon_index": 95,
+                "icon_index": 139,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Scrolls of Fire",
@@ -4008,7 +5985,7 @@
                     "GBA"
                 ],
                 "description": "A small Christmas demo hacked together in a couple of days for the GBA community.\nTags: Open Source, 3D",
-                "icon_index": 96,
+                "icon_index": 140,
                 "last updated": "2024-12-24T15:57:00",
                 "license": "(not set)",
                 "title": "2024 Christmas demo",
@@ -4031,6 +6008,57 @@
         },
         {
             "info": {
+                "author": "Multiple authors",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Retro, Strategy, Pixel Art, gbajam24\nhttps://setsquare.itch.io/dungeon-tactics-advance",
+                "icon_index": 141,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Dungeon Tactics Advance",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/setsquare_dungeon-tactics-advance-cover.png"
+                    },
+                    {
+                        "description": "FNN%2BB3",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/setsquare_dungeon-tactics-advance-fnn%2bb3.png"
+                    },
+                    {
+                        "description": "BEIXZB",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/setsquare_dungeon-tactics-advance-beixzb.png"
+                    },
+                    {
+                        "description": "4APUEQ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/setsquare_dungeon-tactics-advance-4apueq.png"
+                    },
+                    {
+                        "description": "OGVVF7",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/setsquare_dungeon-tactics-advance-ogvvf7.png"
+                    },
+                    {
+                        "description": "U%2FWQW%2F",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/setsquare_dungeon-tactics-advance-u%2fwqw%2f.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/setsquare_dungeon-tactics-advance/files/dungeon-tactics-advance.gba",
+                    "output": "/roms/gba/setsquare_dungeon-tactics-advance.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "Jono Shields",
                 "category": [
                     "game"
@@ -4039,7 +6067,7 @@
                     "GBA"
                 ],
                 "description": "A short cafe idle game for the GBA\nTags: Simulation, event:gbawinterjam23\nhttps://foopod.itch.io/sips",
-                "icon_index": 97,
+                "icon_index": 142,
                 "last updated": "2023-02-22T08:05:00",
                 "license": "(not set)",
                 "title": "Sips",
@@ -4082,13 +6110,21 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, RPG, Adventure, gbajam21",
-                "icon_index": 98,
+                "icon_index": 143,
                 "last updated": "2001-01-01",
-                "license": "MIT",
+                "license": "LicenseRef-Proprietary",
                 "title": "Skyland",
                 "version": "(not set)",
                 "releasenotes": "",
                 "screenshots": [
+                    {
+                        "description": "WINDMILL",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/skyland-windmill.png"
+                    },
+                    {
+                        "description": "TIMELINE TARGETTING",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/skyland-timeline_targetting.png"
+                    },
                     {
                         "description": "SCREENSHOT 1",
                         "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/skyland-screenshot-1.png"
@@ -4113,7 +6149,7 @@
                     "GBA"
                 ],
                 "description": "A homebrew Game Boy Advance game made for GBA Jam 2021.\nTags: Shooter, Action, gbajam21\nhttps://deft-spade.itch.io/solar-guard",
-                "icon_index": 99,
+                "icon_index": 144,
                 "last updated": "2001-01-01",
                 "license": "GPL-3.0-only",
                 "title": "Solar Guard",
@@ -4160,6 +6196,56 @@
         },
         {
             "info": {
+                "author": "SonGoku2000",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Racing, gbajam24\nhttps://songoku2000.itch.io/bumper-neko-arena",
+                "icon_index": 0,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Bumper Neko Arena",
+                "version": "(not set)",
+                "releasenotes": ""
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/songoku2000_bumper-neko-arena/files/bumper_neko_arena.gba",
+                    "output": "/roms/gba/songoku2000_bumper-neko-arena.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "SonGoku2000",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: gbawinterjam25\nhttps://songoku2000.itch.io/butano-traduction-converter",
+                "icon_index": 0,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Butano traduction converter",
+                "version": "(not set)",
+                "releasenotes": ""
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/songoku2000_butano-traduction-converter/files/traduction_tool_example.gba",
+                    "output": "/roms/gba/songoku2000_butano-traduction-converter.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "torte00",
                 "category": [
                     "game"
@@ -4168,7 +6254,7 @@
                     "GBA"
                 ],
                 "description": "A title screen demo - GBA-ROM\nTags: event:gbawinterjam23\nhttps://torte00.itch.io/space-times-draft",
-                "icon_index": 100,
+                "icon_index": 145,
                 "last updated": "2023-02-27T13:16:00",
                 "license": "(not set)",
                 "title": "Space Times (Titlescreen Demo)",
@@ -4195,6 +6281,31 @@
         },
         {
             "info": {
+                "author": "Spino Spaghetti",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: gbajam24\nhttps://spino-spaghetti.itch.io/farts",
+                "icon_index": 0,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Farts",
+                "version": "(not set)",
+                "releasenotes": ""
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/spino-spaghetti_farts/files/farts_jam.gba",
+                    "output": "/roms/gba/spino-spaghetti_farts.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "laqieer",
                 "category": [
                     "game"
@@ -4203,7 +6314,7 @@
                     "GBA"
                 ],
                 "description": "2D skeletal animation engine demo for GBA\nTags: Educational, gbajam21\nhttps://laqieer.itch.io/ss6playerforgba",
-                "icon_index": 101,
+                "icon_index": 146,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "SS6PlayerForGBA",
@@ -4238,7 +6349,7 @@
                     "GBA"
                 ],
                 "description": "Tags: 2004Mbit",
-                "icon_index": 102,
+                "icon_index": 147,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": " Star Fortress Dendron",
@@ -4261,6 +6372,49 @@
         },
         {
             "info": {
+                "author": "Multiple authors",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Action, Role Playing, gbajam24\nhttps://staticlinkage.itch.io/sleep-paradox",
+                "icon_index": 148,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Sleep Paradox",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/staticlinkage_sleep-paradox-cover.png"
+                    },
+                    {
+                        "description": "X%2BFOW2",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/staticlinkage_sleep-paradox-x%2bfow2.png"
+                    },
+                    {
+                        "description": "1GKAMM",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/staticlinkage_sleep-paradox-1gkamm.png"
+                    },
+                    {
+                        "description": "DWXZUS",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/staticlinkage_sleep-paradox-dwxzus.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/staticlinkage_sleep-paradox/files/SleepParadox_jam.gba",
+                    "output": "/roms/gba/staticlinkage_sleep-paradox.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "samfromcadott",
                 "category": [
                     "game"
@@ -4269,7 +6423,7 @@
                     "GBA"
                 ],
                 "description": "Unfinished Gameboy Advance fighting game\nTags: Fighting, gbajam21\nhttps://samfromcadott.itch.io/stick-kicker",
-                "icon_index": 103,
+                "icon_index": 149,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Stick Kicker",
@@ -4304,7 +6458,7 @@
                     "GBA"
                 ],
                 "description": "SubQuest - The Search for the Virtual Pet is an RPG game for the Game Boy Advance.\nTags: RPG, gba-winter-jam-2021\nhttps://rgamesofficial.itch.io/subquest",
-                "icon_index": 104,
+                "icon_index": 150,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "SubQuest - The Search for the Virtual Pet",
@@ -4355,7 +6509,7 @@
                     "GBA"
                 ],
                 "description": "[Demo] A puzzle platformer game for GBA where you can merge items in hands, and use its superpower.\nTags: Puzzle, Platform, gbajam21\nhttps://copyrat90.itch.io/sym-merged",
-                "icon_index": 105,
+                "icon_index": 151,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Symbol ★ Merged",
@@ -4394,7 +6548,7 @@
                     "GBA"
                 ],
                 "description": "A simple Gameboy Advance sound synth written in assembly. It is essentially an interface to direct access to the GameBoy Advance's sound hardware.",
-                "icon_index": 106,
+                "icon_index": 152,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "SynthGBA",
@@ -4417,6 +6571,57 @@
         },
         {
             "info": {
+                "author": "Tardigrade",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Singleplayer, Colorful, Homebrew, Pixel Art, 2D, Puzzle-Platformer, 16-bit, Cute, Platformer, gbajam24\nhttps://tardigrade-nx.itch.io/discrete-orange",
+                "icon_index": 153,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Discrete Orange",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/tardigrade-nx_discrete-orange-cover.png"
+                    },
+                    {
+                        "description": "RLUH1N",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/tardigrade-nx_discrete-orange-rluh1n.png"
+                    },
+                    {
+                        "description": "VYGXYY",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/tardigrade-nx_discrete-orange-vygxyy.png"
+                    },
+                    {
+                        "description": "IXJUPC",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/tardigrade-nx_discrete-orange-ixjupc.png"
+                    },
+                    {
+                        "description": "1JZM%2BH",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/tardigrade-nx_discrete-orange-1jzm%2bh.png"
+                    },
+                    {
+                        "description": "NMKU1Q",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/tardigrade-nx_discrete-orange-nmku1q.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/tardigrade-nx_discrete-orange/files/Discrete%20Orange%20%28v0.1b%29.gba",
+                    "output": "/roms/gba/tardigrade-nx_discrete-orange.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "torte00",
                 "category": [
                     "game"
@@ -4425,7 +6630,7 @@
                     "GBA"
                 ],
                 "description": "Only a digital postcard to celebrate the 20th anniversary of the GBA\nTags: gbajam21\nhttps://torte00.itch.io/thanx-gba",
-                "icon_index": 107,
+                "icon_index": 154,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Thanx GBA",
@@ -4460,7 +6665,7 @@
                     "GBA"
                 ],
                 "description": "A homebrew minigame for the Game Boy Advance!\nTags: gbajam22\nhttps://maximilian-ii.itch.io/the-axe",
-                "icon_index": 108,
+                "icon_index": 155,
                 "last updated": "2022-10-29T17:55:00",
                 "license": "(not set)",
                 "title": "The Axe",
@@ -4507,7 +6712,7 @@
                     "GBA"
                 ],
                 "description": "A visual novel about saying goodbye.\nTags: Visual Novel, gbajam22\nhttps://videogamestorytime.itch.io/the-enchanted-place",
-                "icon_index": 109,
+                "icon_index": 156,
                 "last updated": "2022-10-31T23:49:00",
                 "license": "(not set)",
                 "title": "The Enchanted Place",
@@ -4542,7 +6747,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, Platform\nhttps://lostimmortal.itch.io/the-hat-chooses-the-wizard",
-                "icon_index": 110,
+                "icon_index": 157,
                 "last updated": "2001-01-01",
                 "license": "MPL-2.0",
                 "title": "The Hat Chooses the Wizard",
@@ -4577,7 +6782,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, Platform\nhttps://lostimmortal.itch.io/the-purple-night",
-                "icon_index": 111,
+                "icon_index": 158,
                 "last updated": "2001-01-01",
                 "license": "MPL-2.0",
                 "title": "The purple night",
@@ -4608,7 +6813,7 @@
                     "GBA"
                 ],
                 "description": "There's a tree outside my window and this is what it looks like.\nTags: Educational, event:gbawinterjam23\nhttps://schmoogin.itch.io/the-tree-outside-my-window",
-                "icon_index": 112,
+                "icon_index": 159,
                 "last updated": "2023-02-28T02:23:00",
                 "license": "(not set)",
                 "title": "The Tree Outside My Window",
@@ -4635,6 +6840,49 @@
         },
         {
             "info": {
+                "author": "TheTomasPat",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Flappy Bird, Retro, Action, 2D, Pixel Art, Short, gbawinterjam25\nhttps://thetomaspat.itch.io/booster-bot",
+                "icon_index": 160,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Booster_Bot",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/thetomaspat_booster-bot-cover.png"
+                    },
+                    {
+                        "description": "HKRRPM",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/thetomaspat_booster-bot-hkrrpm.png"
+                    },
+                    {
+                        "description": "JRW39B",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/thetomaspat_booster-bot-jrw39b.png"
+                    },
+                    {
+                        "description": "VGCH%2B2",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/thetomaspat_booster-bot-vgch%2b2.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/thetomaspat_booster-bot/files/Booster_Bot.gba",
+                    "output": "/roms/gba/thetomaspat_booster-bot.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "pmprog",
                 "category": [
                     "game"
@@ -4643,7 +6891,7 @@
                     "GBA"
                 ],
                 "description": "Bullet hell on the GBA\nTags: Shooter, gbajam21\nhttps://pmprog.itch.io/tigermoth",
-                "icon_index": 113,
+                "icon_index": 161,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Tigermoth",
@@ -4670,6 +6918,31 @@
         },
         {
             "info": {
+                "author": "TJLB",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Action, Retro, pong, gbajam24\nhttps://tjlb.itch.io/gba-bounce-dungeon",
+                "icon_index": 0,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "GBA Game Jam: Bounce Dungeon",
+                "version": "(not set)",
+                "releasenotes": ""
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/tjlb_gba-bounce-dungeon/files/Bounce-Dungeon_Jam.gba",
+                    "output": "/roms/gba/tjlb_gba-bounce-dungeon.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "squishyfrogs",
                 "category": [
                     "game"
@@ -4678,7 +6951,7 @@
                     "GBA"
                 ],
                 "description": "A hoppy little puzzle adventure for the Game Boy Advance!\nTags: Puzzle, gbajam21\nhttps://squishyfrogs.itch.io/toadally-awesome",
-                "icon_index": 114,
+                "icon_index": 162,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Toadally Awesome Game (GBA Jam 2021)",
@@ -4725,7 +6998,7 @@
                     "GBA"
                 ],
                 "description": "Three Tremblays start a country on an island, what could go wrong?\nTags: Interactive Fiction, gba-winter-jam-2021\nhttps://cinemint.itch.io/tremblay-island",
-                "icon_index": 115,
+                "icon_index": 163,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Tremblay Island",
@@ -4776,7 +7049,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, RPG, Adventure, gbajam21",
-                "icon_index": 116,
+                "icon_index": 164,
                 "last updated": "2001-01-01",
                 "license": "GPL-3.0-or-later",
                 "title": "uCity Advance",
@@ -4823,7 +7096,7 @@
                     "GBA"
                 ],
                 "description": "Tags: gbajam21\nhttps://stormplay.itch.io/untitled-volleyball-game",
-                "icon_index": 117,
+                "icon_index": 165,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Untitled Volleyball Game [EARLY PROTOTYPE]",
@@ -4850,6 +7123,31 @@
         },
         {
             "info": {
+                "author": "valconiglio",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: gbajam24\nhttps://valconiglio.itch.io/map-gen",
+                "icon_index": 0,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Map Gen GBA",
+                "version": "(not set)",
+                "releasenotes": ""
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/valconiglio_map-gen/files/tanks.gba",
+                    "output": "/roms/gba/valconiglio_map-gen.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "GValiente, tempest, Kaappis",
                 "category": [
                     "game"
@@ -4858,7 +7156,7 @@
                     "GBA"
                 ],
                 "description": "Tags: Open Source, Racing, 3D, gbajam21",
-                "icon_index": 118,
+                "icon_index": 166,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Varooom 3D",
@@ -4905,7 +7203,7 @@
                     "GBA"
                 ],
                 "description": "A game about gathering resources for the GBA!\nTags: Simulation, Adventure, gbajam22\nhttps://atsushihdez.itch.io/villagers-ambition",
-                "icon_index": 119,
+                "icon_index": 167,
                 "last updated": "2022-10-29T09:05:00",
                 "license": "(not set)",
                 "title": "Villager's Ambition",
@@ -4932,6 +7230,124 @@
         },
         {
             "info": {
+                "author": "voxel",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Simple, Cute, Arcade, Retro, Platformer, gbajam24\nhttps://voxel.itch.io/game-boy-advance-quokka-wokka",
+                "icon_index": 168,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "(Game Boy Advance) Quokka Wokka",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/voxel_game-boy-advance-quokka-wokka-cover.png"
+                    },
+                    {
+                        "description": "6TNPZA",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/voxel_game-boy-advance-quokka-wokka-6tnpza.png"
+                    },
+                    {
+                        "description": "IZFDKJ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/voxel_game-boy-advance-quokka-wokka-izfdkj.png"
+                    },
+                    {
+                        "description": "IV2PIP",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/voxel_game-boy-advance-quokka-wokka-iv2pip.png"
+                    },
+                    {
+                        "description": "45OKMB",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/voxel_game-boy-advance-quokka-wokka-45okmb.png"
+                    },
+                    {
+                        "description": "T%2F0EGG",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/voxel_game-boy-advance-quokka-wokka-t%2f0egg.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/voxel_game-boy-advance-quokka-wokka/files/quokka-wokka_jam.gba",
+                    "output": "/roms/gba/voxel_game-boy-advance-quokka-wokka.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "Matt Carr",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Role Playing, Roguelite, gbajam24\nhttps://wanderinghobo.itch.io/forever-rpg",
+                "icon_index": 169,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Forever RPG",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/wanderinghobo_forever-rpg-cover.png"
+                    },
+                    {
+                        "description": "JUJDJN",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/wanderinghobo_forever-rpg-jujdjn.png"
+                    },
+                    {
+                        "description": "HVTH3M",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/wanderinghobo_forever-rpg-hvth3m.png"
+                    },
+                    {
+                        "description": "FI8DJA",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/wanderinghobo_forever-rpg-fi8dja.png"
+                    },
+                    {
+                        "description": "NZIQFF",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/wanderinghobo_forever-rpg-nziqff.png"
+                    },
+                    {
+                        "description": "PYLKLB",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/wanderinghobo_forever-rpg-pylklb.png"
+                    },
+                    {
+                        "description": "NHFJL%2B",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/wanderinghobo_forever-rpg-nhfjl%2b.png"
+                    },
+                    {
+                        "description": "JUULMQ",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/wanderinghobo_forever-rpg-juulmq.png"
+                    },
+                    {
+                        "description": "LFXL8X",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/wanderinghobo_forever-rpg-lfxl8x.png"
+                    },
+                    {
+                        "description": "YVEC4I",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/wanderinghobo_forever-rpg-yvec4i.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/wanderinghobo_forever-rpg/files/ForeverRPG_jam.gba",
+                    "output": "/roms/gba/wanderinghobo_forever-rpg.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "K'miinik",
                 "category": [
                     "game"
@@ -4940,7 +7356,7 @@
                     "GBA"
                 ],
                 "description": "Unfinished Garbage\nTags: Card Game, gba-winter-jam-2021\nhttps://kmiinik.itch.io/warii",
-                "icon_index": 120,
+                "icon_index": 170,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "WarII",
@@ -4967,6 +7383,37 @@
         },
         {
             "info": {
+                "author": "warplogic",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Action, gbajam24\nhttps://warplogic.itch.io/gamepak-joyride",
+                "icon_index": 171,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Gamepak Joyride",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/warplogic_gamepak-joyride-cover.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/warplogic_gamepak-joyride/files/gamepakjoyride_jam.gba",
+                    "output": "/roms/gba/warplogic_gamepak-joyride.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "kevin20012",
                 "category": [
                     "game"
@@ -4975,7 +7422,7 @@
                     "GBA"
                 ],
                 "description": "Game of finding the ball\nTags: Card Game, gbajam21\nhttps://kevin20012.itch.io/where-is-the-ball",
-                "icon_index": 121,
+                "icon_index": 172,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Where is the ball",
@@ -5010,7 +7457,7 @@
                     "GBA"
                 ],
                 "description": "Tags: event:gbawinterjam23\nhttps://tiredsasha.itch.io/wip-title-screen",
-                "icon_index": 122,
+                "icon_index": 173,
                 "last updated": "2023-02-28T18:30:00",
                 "license": "(not set)",
                 "title": "WIP Title Screen",
@@ -5041,7 +7488,7 @@
                     "GBA"
                 ],
                 "description": "Avoid opposing racers!\nTags: Racing, gbajam21\nhttps://jenswa.itch.io/wrong-road-gba",
-                "icon_index": 123,
+                "icon_index": 174,
                 "last updated": "2001-01-01",
                 "license": "(not set)",
                 "title": "Wrong Road GBA",
@@ -5068,6 +7515,41 @@
         },
         {
             "info": {
+                "author": "XeroKimo",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: gbajam24\nhttps://xerokimo.itch.io/gba-cnake",
+                "icon_index": 175,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "GBA Cnake++",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/xerokimo_gba-cnake-cover.png"
+                    },
+                    {
+                        "description": "GPDNQK",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/xerokimo_gba-cnake-gpdnqk.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/xerokimo_gba-cnake/files/Cnakepp.gba",
+                    "output": "/roms/gba/xerokimo_gba-cnake.gba"
+                }
+            ]
+        },
+        {
+            "info": {
                 "author": "exelotl, Rik, Pyro_Pyro",
                 "category": [
                     "game"
@@ -5076,7 +7558,7 @@
                     "GBA"
                 ],
                 "description": "a CROSSNIQ clone for the GBA  (alpha)\nTags: Puzzle, gbajam21\nhttps://exelotl.itch.io/xniq",
-                "icon_index": 124,
+                "icon_index": 176,
                 "last updated": "2001-01-01",
                 "license": "MIT",
                 "title": "xniq",
@@ -5119,7 +7601,7 @@
                     "GBA"
                 ],
                 "description": "boss-rush WIP!\nTags: Action, gbajam22\nhttps://mysterystrawberry.itch.io/yalaxy01-yearlysis",
-                "icon_index": 125,
+                "icon_index": 177,
                 "last updated": "2022-10-31T23:48:00",
                 "license": "(not set)",
                 "title": "YALAXY01-Yearlysis",
@@ -5141,6 +7623,53 @@
                     "type": "downloadFile",
                     "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/yalaxy01-yearlysis/YALAXY01_jam.gba",
                     "output": "/roms/gba/yalaxy01-yearlysis.gba"
+                }
+            ]
+        },
+        {
+            "info": {
+                "author": "YuSe",
+                "category": [
+                    "game"
+                ],
+                "console": [
+                    "GBA"
+                ],
+                "description": "Tags: Adventure, gbajam24\nhttps://yusegames.itch.io/cat-venture",
+                "icon_index": 178,
+                "last updated": "2001-01-01",
+                "license": "(not set)",
+                "title": "Cat-venture",
+                "version": "(not set)",
+                "releasenotes": "",
+                "screenshots": [
+                    {
+                        "description": "COVER",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/yusegames_cat-venture-cover.png"
+                    },
+                    {
+                        "description": "MGCED7",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/yusegames_cat-venture-mgced7.png"
+                    },
+                    {
+                        "description": "QKBC6R",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/yusegames_cat-venture-qkbc6r.png"
+                    },
+                    {
+                        "description": "0RB5%2FX",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/yusegames_cat-venture-0rb5%2fx.png"
+                    },
+                    {
+                        "description": "LNCJT6",
+                        "url": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/converted/yusegames_cat-venture-lncjt6.png"
+                    }
+                ]
+            },
+            "Download": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://raw.githubusercontent.com/vargaviktor/games-unistore/master/entries/yusegames_cat-venture/files/Catventure_jam.gba",
+                    "output": "/roms/gba/yusegames_cat-venture.gba"
                 }
             ]
         }
