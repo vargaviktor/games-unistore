@@ -16,20 +16,12 @@ Steps:
    This converts the PNG icons and the index list to a sprite sheet good for 3DS.
 5. Copy the result gba.t3x file back to the repository root   
 
-## Address to add in Universal Updater
-This is too long to enter:
+## Download GBA database with QR code
+1. Start Universal Updater on the 3DS
+2. In the Universal Updater go to the Settings (Cogwheel) > Unistore selection.
+3. Choose the (last) QR icon, then scan the following QR code.
 
-https://raw.githubusercontent.com/vargaviktor/games-unistore/master/gba.unistore
-
-![gba_long_link](https://github.com/vargaviktor/games-unistore/blob/master/gba_long_link.png)
-
-Add this instead:
-
-https://shorturl.at/3k0kW
-
-![gba_short_link](https://github.com/vargaviktor/games-unistore/blob/master/gba_short_link.png)
-
-(If this is unavailable, create a short link from the link above and try to add that.)
+![QR kód](gba_qrcode.png)
 
 ## License
 
