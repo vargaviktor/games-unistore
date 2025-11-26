@@ -22,7 +22,6 @@ Steps:
 3. Choose the New icon (+ in a circle) (last one)
 4. Select either the QR icon (first) and scan the following QR code, or the keyboard icon (second) and enter the address: vargaviktor.hu/gba.unistore
 
-![QR kód](gba_qrcode.png)
 
 ## License
 
