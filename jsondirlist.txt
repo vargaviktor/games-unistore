@@ -21,6 +21,7 @@ entries/beru/
 entries/bipedal-studios_galacard-advance/
 entries/blocks/
 entries/blocktrap/
+entries/bloxorz-gba/
 entries/breadmakesyoufull_gbadev-containers/
 entries/bridge-quest/
 entries/brush-rush/
@@ -28,6 +29,7 @@ entries/bugtris/
 entries/bump-dev_hammer-smasher/
 entries/bump-dev_rolling-eggs/
 entries/butano-fighter/
+entries/camo-swan_english-tea-racing/
 entries/carbie/
 entries/cats-curse/
 entries/cereal-fiend_gba-jam-demo-dapoborage/
