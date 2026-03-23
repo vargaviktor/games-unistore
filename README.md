@@ -6,15 +6,18 @@ In this format the Universal Updater can download the entries.
 # How to use?
 
 Steps:
-0. Update the repository on github (to add new items from the main, if there was an update), and pull it localy.
-1. Run on Linux the 1_createlist.sh
+1. Update the repository on github (to add new items from the main, if there was an update), and pull it localy.
+   1.1 "Sync fork" button > "Update branch" button
+   1.2 On your PC: git pull
+2. Run on Linux the 1_createlist.sh
    This creates the list of the directories of game.json files.
-2. Run the gbxunistore.py with the command: 'python3 gbxunistore.py'
+3. Run the gbxunistore.py with the command: 'python3 gbxunistore.py'
    This creates the .unistore JSON file, and also convert the first image to a PNG icon of every game.
    (Check the Python script's first line to have "gba" value set.) 
 4. Copy the 'iconversion' directory to a Windows machine and run the '3_convert.cmd' script.
    This converts the PNG icons and the index list to a sprite sheet good for 3DS.
-5. Copy the result gba.t3x file back to the repository root   
+5. Copy the result gba.t3x file back to the repository root
+6. Commit and pull   
 
 ## Download GBA database with QR code
 1. Start Universal Updater on the 3DS
