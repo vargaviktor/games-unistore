@@ -17,9 +17,9 @@
     "typetag": "game",
     "platform": "GBA",
     "tags": [
-        "Role Playing",
+        "RPG",
         "Roguelite",
-        "gbajam24"
+        "event:gbajam24"
     ],
     "files": [
         {

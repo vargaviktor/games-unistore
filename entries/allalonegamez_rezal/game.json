@@ -15,13 +15,9 @@
     "tags": [
         "Puzzle",
         "Sokoban",
-        "game-boy",
         "gbstudio",
         "logic",
-        "analogue-pocket",
-        "16-bit",
-        "gb-studio",
-        "gbajam24"
+        "event:gbajam24"
     ],
     "files": [
         {

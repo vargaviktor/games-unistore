@@ -11,11 +11,10 @@
     "platform": "GBA",
     "tags": [
         "Pixel Art",
-        "Sprites",
         "Arcade",
         "Retro",
         "Platformer",
-        "gbajam24"
+        "event:gbajam24"
     ],
     "files": [
         {

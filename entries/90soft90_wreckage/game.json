@@ -12,10 +12,10 @@
     "typetag": "game",
     "platform": "GBA",
     "tags": [
-        "Role Playing",
+        "RPG",
         "Roguelite",
         "2D",
-        "gbajam24"
+        "event:gbajam24"
     ],
     "files": [
         {

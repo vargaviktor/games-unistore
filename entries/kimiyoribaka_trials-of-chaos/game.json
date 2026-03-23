@@ -12,14 +12,12 @@
     "platform": "GBA",
     "tags": [
         "Action-Adventure",
-        "hololive",
-        "Homebrew",
         "Fangame",
         "Retro",
         "2D",
         "Cute",
         "Platformer",
-        "gbajam24"
+        "event:gbajam24"
     ],
     "files": [
         {

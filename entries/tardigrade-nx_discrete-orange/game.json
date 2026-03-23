@@ -13,16 +13,14 @@
     "typetag": "game",
     "platform": "GBA",
     "tags": [
-        "Singleplayer",
         "Colorful",
-        "Homebrew",
         "Pixel Art",
         "2D",
         "Puzzle-Platformer",
         "16-bit",
         "Cute",
         "Platformer",
-        "gbajam24"
+        "event:gbajam24"
     ],
     "files": [
         {
