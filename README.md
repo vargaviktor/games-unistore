@@ -26,6 +26,8 @@ Steps:
             gbxunistore.py
             requirements.txt
             revision.txt
+            iconversion/3_convert.cmd
+            iconversion/tex3ds.exe
          x.3 On Github click on the Sync fork button, then Discard x commits. (this drops the changes online)
          x.3 On your PC again: git pull (with this you overwrite everything on your computer)
          x.4 After this copy back the backuped files, overwrite everything.
