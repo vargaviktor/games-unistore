@@ -11,6 +11,24 @@ Steps:
    1.1 "Sync fork" button > "Update branch" button
    
    1.2 On your PC: git pull
+
+   If this is not possible:
+   
+         x.1 On your PC: git pull (this creates on your computer a copy of the latest version)
+         x.2 On your PC Copy the following files to a backup directory:  
+            .gitignore 
+            1_createlist.sh
+            README.md
+            gba_long_link.png
+            gba_qrcode.png
+            gba_qrcoden.png
+            gba_short_link.png
+            gbxunistore.py
+            requirements.txt
+            revision.txt
+         x.3 On Github click on the Sync fork button, then Discard x commits. (this drops the changes online)
+         x.3 On your PC again: git pull (with this you overwrite everything on your computer)
+         x.4 After this copy back the backuped files, overwrite everything.
    
 3. Run on Linux the 1_createlist.sh
    This creates the list of the directories of game.json files.
